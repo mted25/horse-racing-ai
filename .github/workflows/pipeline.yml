@@ -8,6 +8,10 @@ on:
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
+    
+    # Grants explicit write permissions to this job
+    permissions:
+      contents: write
 
     steps:
     - name: Checkout repository
@@ -35,13 +39,9 @@ jobs:
     - name: Run Model Training & Prediction
       run: python train_model.py
 
-    - name: Save and Push Predictions
+    - name: Commit and push updated predictions back to repo
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        
-        # Move file out of historical_data to root to completely avoid gitignore rules
-        mv historical_data/processed/model_predictions.csv ./model_predictions.csv || true
-        
         git add model_predictions.csv
         git diff --quiet && git diff --staged --quiet || (git commit -m "Automated prediction update [skip ci]" && git push)
