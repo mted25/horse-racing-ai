@@ -1,0 +1,45 @@
+name: Daily Horse Racing AI Pipeline
+
+on:
+  schedule:
+    # Triggers at 8am, 10am, 12pm, 1pm, 1:30pm, 2pm, 2:30pm, 3pm, 3:30pm, 4pm, 5pm, 6pm, 7pm UK Time
+    # (Adjusted for UTC baseline; handles top of hour and half-past entries)
+    - cron: '0,30 8,10,12-19 * * *'
+  workflow_dispatch:  
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run Data Fetcher
+      env:
+        RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+        BETFAIR_USERNAME: ${{ secrets.BETFAIR_USERNAME }}
+        BETFAIR_PASSWORD: ${{ secrets.BETFAIR_PASSWORD }}
+        BETFAIR_APP_KEY: ${{ secrets.BETFAIR_APP_KEY }}
+      run: python fetch_data.py
+
+    - name: Run Model Training & Prediction
+      run: python train_model.py
+
+    - name: Commit and push updated predictions back to repo
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add historical_data/processed/model_predictions.csv
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Automated prediction update [skip ci]" && git push)
