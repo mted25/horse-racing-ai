@@ -1,0 +1,6 @@
+historical_data/
+horse_data.csv
+*.pkl
+__pycache__/
+.ignore
+df[market_implied_prob]
