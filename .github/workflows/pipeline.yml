@@ -1,0 +1,47 @@
+name: Horse Racing Pipeline
+
+on:
+  schedule:
+    - cron: '0,30 8,10,12-19 * * *'
+  workflow_dispatch:  
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run Data Fetcher
+      env:
+        RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+        BETFAIR_USERNAME: ${{ secrets.BETFAIR_USERNAME }}
+        BETFAIR_PASSWORD: ${{ secrets.BETFAIR_PASSWORD }}
+        BETFAIR_APP_KEY: ${{ secrets.BETFAIR_APP_KEY }}
+      run: python fetch_data.py
+
+    - name: Run Model Training & Prediction
+      run: python train_model.py
+
+    - name: Save and Push Predictions
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # Move file out of historical_data to root to completely avoid gitignore rules
+        mv historical_data/processed/model_predictions.csv ./model_predictions.csv || true
+        
+        git add model_predictions.csv
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Automated prediction update [skip ci]" && git push)
