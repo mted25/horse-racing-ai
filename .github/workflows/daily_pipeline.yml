@@ -2,8 +2,6 @@ name: Daily Horse Racing AI Pipeline
 
 on:
   schedule:
-    # Triggers at 8am, 10am, 12pm, 1pm, 1:30pm, 2pm, 2:30pm, 3pm, 3:30pm, 4pm, 5pm, 6pm, 7pm UK Time
-    # (Adjusted for UTC baseline; handles top of hour and half-past entries)
     - cron: '0,30 8,10,12-19 * * *'
   workflow_dispatch:  
 
