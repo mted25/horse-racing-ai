@@ -35,9 +35,13 @@ jobs:
     - name: Run Model Training & Prediction
       run: python train_model.py
 
-    - name: Commit and push updated predictions back to repo
+    - name: Move predictions to root and push
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # Explicitly copy/move the file out of the ignored folder into the root directory
+        cp historical_data/processed/model_predictions.csv ./model_predictions.csv || true
+        
         git add model_predictions.csv
         git diff --quiet && git diff --staged --quiet || (git commit -m "Automated prediction update [skip ci]" && git push)
