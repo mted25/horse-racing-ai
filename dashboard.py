@@ -3,14 +3,11 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 
-DATA_FILE = "historical_data/processed/model_predictions.csv"
-FALLBACK_DATA_FILE = "historical_data/processed/model_ready_data.csv"
+DATA_FILE = "model_predictions.csv"
 
 @st.cache_data(ttl=0)
 def load_data(filepath):
     if not os.path.exists(filepath):
-        if os.path.exists(FALLBACK_DATA_FILE):
-            return pd.read_csv(FALLBACK_DATA_FILE)
         return pd.DataFrame()
     return pd.read_csv(filepath)
 
@@ -44,7 +41,7 @@ def run_dashboard():
     
     df = load_data(DATA_FILE)
     if df.empty:
-        st.error(f"Error: Model predictions or model-ready data not found. Please run fetch_data.py and train_model.py first.")
+        st.error(f"Error: model_predictions.csv not found in the root directory. Please run fetch_data.py and train_model.py first.")
         return
 
     df.columns = df.columns.str.strip().str.replace('\ufeff', '')
