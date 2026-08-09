@@ -1,4 +1,4 @@
-historical_data/
+historical_data/raw/
 horse_data.csv
 *.pkl
 __pycache__/
