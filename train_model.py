@@ -94,8 +94,6 @@ def train_and_score_models():
             g["norm_trainer"] = 0.5
 
         # --- INDEPENDENT AI-FIRST BLENDING ---
-        # Give AI fundamentals a dominant voice (70% AI, 30% Market) 
-        # so it breaks free from strictly mirroring the market odds order.
         ai_weight, market_weight = 0.70, 0.30
 
         # 1. Calculate raw market implied percentage out of 100
@@ -132,7 +130,6 @@ def train_and_score_models():
         g["place_probability"] = (g["win_probability"] * 2.2 + 0.1).clip(upper=0.85)
         
         # --- AI FAIR ODDS & EXACT UK INDUSTRY PLACE TERMS ---
-        # AI Fair Odds = What the price *should* be based strictly on AI probability
         g["ai_fair_odds"] = np.where(g["win_probability"] > 0, 1.0 / g["win_probability"], 99.0)
 
         if field_count >= 16:
@@ -161,9 +158,8 @@ def train_and_score_models():
 
     final_df = pd.concat(processed_races, ignore_index=True)
 
-    # Save output ready for dashboard visualization
-    final_output = "historical_data/processed/model_predictions.csv"
-    os.makedirs(os.path.dirname(final_output), exist_ok=True)
+    # Save output directly in the root directory to prevent gitignore path issues
+    final_output = "model_predictions.csv"
     final_df.to_csv(final_output, index=False)
     print(f"✅ Independent AI model training complete with Fair Odds for {len(final_df)} runners.")
 
