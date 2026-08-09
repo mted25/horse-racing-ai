@@ -4,3 +4,4 @@ horse_data.csv
 __pycache__/
 .ignore
 df[market_implied_prob]
+.env

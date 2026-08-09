@@ -1,0 +1,6 @@
+pandas
+requests
+betfairlightweight
+python-dotenv
+scikit-learn
+numpy
