@@ -53,7 +53,7 @@ def train_and_score_models():
         print("⚠️ Dataset is empty.")
         return
 
-    print(f"📊 Processing {len(df)} runners with Independent AI Engine & Fair Value Pricing...")
+    print(f"📊 Processing {len(df)} runners with Enhanced AI Engine & Racing Post Ratings...")
 
     # 1. Process Market Odds & Apply Overround Simulation
     df["odds"] = pd.to_numeric(df["odds"], errors="coerce").fillna(15.0)
@@ -75,6 +75,13 @@ def train_and_score_models():
     df["field_size"] = pd.to_numeric(df["field_size"], errors="coerce").fillna(8.0)
     df["cd_winner"] = pd.to_numeric(df["cd_winner"], errors="coerce").fillna(0).apply(lambda x: 1.0 if x > 0 else 0.0)
     
+    # Clean and parse Racing Post performance ratings & deltas
+    for col in ["rp_rpr", "rp_or", "rp_ts", "rpr_vs_or"]:
+        if col not in df.columns:
+            df[col] = 0.0
+        else:
+            df[col] = pd.to_numeric(df[col], errors="coerce").fillna(0.0)
+
     # Use the advanced recency parser
     df["parsed_form_score"] = df["form_string"].apply(parse_form_string_advanced)
 
@@ -93,17 +100,35 @@ def train_and_score_models():
         else:
             g["norm_trainer"] = 0.5
 
+        # Normalize RPR vs OR Delta within the race field (Value Indicator)
+        delta_max = g["rpr_vs_or"].max()
+        delta_min = g["rpr_vs_or"].min()
+        if delta_max > delta_min:
+            g["norm_rpr_delta"] = (g["rpr_vs_or"] - delta_min) / (delta_max - delta_min)
+        else:
+            g["norm_rpr_delta"] = 0.5
+
+        # Normalize Absolute RPR within the race field (Class Indicator)
+        rpr_max = g["rp_rpr"].max()
+        rpr_min = g["rp_rpr"].min()
+        if rpr_max > rpr_min:
+            g["norm_rpr"] = (g["rp_rpr"] - rpr_min) / (rpr_max - rpr_min)
+        else:
+            g["norm_rpr"] = 0.5
+
         # --- INDEPENDENT AI-FIRST BLENDING ---
         ai_weight, market_weight = 0.70, 0.30
 
         # 1. Calculate raw market implied percentage out of 100
         g["market_pct"] = (1.0 / g["odds"]) * 100.0
         
-        # 2. Calculate AI fundamental score percentage based on advanced form/trainer/cd
+        # 2. Calculate AI fundamental score incorporating form, trainer, C&D, and Racing Post ratings
         ai_raw_score = (
-            (0.40 * g["norm_trainer"]) +
-            (0.40 * g["parsed_form_score"]) +
-            (0.20 * g["cd_winner"])
+            (0.25 * g["norm_trainer"]) +
+            (0.25 * g["parsed_form_score"]) +
+            (0.15 * g["cd_winner"]) +
+            (0.20 * g["norm_rpr_delta"]) +
+            (0.15 * g["norm_rpr"])
         )
         ai_sum = ai_raw_score.sum()
         if ai_sum > 0:
@@ -161,7 +186,7 @@ def train_and_score_models():
     # Save output directly in the root directory to prevent gitignore path issues
     final_output = "model_predictions.csv"
     final_df.to_csv(final_output, index=False)
-    print(f"✅ Independent AI model training complete with Fair Odds for {len(final_df)} runners.")
+    print(f"✅ Enhanced AI model training complete with Racing Post ratings & Fair Odds for {len(final_df)} runners.")
 
 if __name__ == "__main__":
     train_and_score_models()

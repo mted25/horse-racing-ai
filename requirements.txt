@@ -4,3 +4,9 @@ betfairlightweight
 python-dotenv
 scikit-learn
 numpy
+curl_cffi
+jarowinkler
+lxml
+orjson
+tomli
+tqdm

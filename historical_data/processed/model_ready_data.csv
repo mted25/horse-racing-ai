@@ -1,434 +1,442 @@
-location,off_time,horse_name,jockey,trainer,trainer_win_pct,trainer_runs,age,distance_f,race_class,field_size,form_string,odds,status,going,distance,cd_winner
-Deauville,12:56,Zakkan,Mickael Barzalona,F-H Graffard,38.0,34.0,2.0,7.0,,7,32,5.0,Active,Good To Soft,6f211y,0
-Deauville,12:56,Prince Azur,Marvin Grandin,L Blanchet,20.0,5.0,2.0,7.0,,7,38,7.5,Active,Good To Soft,6f211y,0
-Deauville,12:56,Mister England,Christophe Soumillon,Noel George & Amanda Zetterholm,0.0,20.0,2.0,7.0,,7,3,10.0,Active,Good To Soft,6f211y,0
-Deauville,12:56,Hello Major Tom,Tony Piccone,Gavin Hernon,8.0,12.0,2.0,7.0,,7,5,12.5,Active,Good To Soft,6f211y,0
-Deauville,12:56,The Highlight,Cristian Demuro,P Cottier,8.0,12.0,2.0,7.0,,7,3,15.0,Active,Good To Soft,6f211y,0
-Deauville,12:56,Zen Poetry,Pierre-Charles Boudot,A Fabre,19.0,31.0,2.0,7.0,,7,2,17.5,Active,Good To Soft,6f211y,0
-Deauville,12:56,Argentino Mia,Malone Favriaux,Leonardo D Racco,25.0,4.0,2.0,7.0,,7,,20.0,Active,Good To Soft,6f211y,0
-Deauville,1:31,Algarade,Mme Frida Valle Skar,Mme C Barbe,33.0,6.0,2.0,7.0,,11,9,5.0,Active,Good To Soft,6f211y,0
-Deauville,1:31,Erala,Jean-Bernard Eyquem,J-C Rouget,15.0,13.0,2.0,7.0,,11,43,7.5,Active,Good To Soft,6f211y,0
-Deauville,1:31,Impa,Mickael Barzalona,M Delzangles,13.0,8.0,2.0,7.0,,11,4,10.0,Active,Good To Soft,6f211y,0
-Deauville,1:31,Deseo,Cristian Demuro,Tim Donworth,14.0,7.0,2.0,7.0,,11,5,12.5,Active,Good To Soft,6f211y,0
-Deauville,1:31,Ileola,Theo Bachelot,Mme Helene Mennessier Martinez,0.0,0.0,2.0,7.0,,11,6,15.0,Active,Good To Soft,6f211y,0
-Deauville,1:31,Mlle Andromaque,Maxime Guyon,C Ferland,10.0,10.0,2.0,7.0,,11,5,17.5,Active,Good To Soft,6f211y,0
-Deauville,1:31,Divina Fe,Alexis Pouchin,A Botti,13.0,8.0,2.0,7.0,,11,3,20.0,Active,Good To Soft,6f211y,0
-Deauville,1:31,Sexxy,Christophe Soumillon,C Lerner,13.0,16.0,2.0,7.0,,11,5,22.5,Active,Good To Soft,6f211y,0
-Deauville,1:31,Sansa,Malone Favriaux,A Fabre,19.0,31.0,2.0,7.0,,11,,25.0,Active,Good To Soft,6f211y,0
-Deauville,1:31,Kalimaat,Pierre-Charles Boudot,A Fabre,19.0,31.0,2.0,7.0,,11,,27.5,Active,Good To Soft,6f211y,0
-Deauville,1:31,Seven Blues,Tony Piccone,Gavin Hernon,8.0,12.0,2.0,7.0,,11,,30.0,Active,Good To Soft,6f211y,0
-Deauville,1:31,Comedy Cen,Aurelien Lemaitre,P Olave,0.0,3.0,2.0,7.0,,11,,32.5,Active,Good To Soft,6f211y,0
-Deauville,2:15,Un Instant,Alexis Pouchin,N Perret,14.0,14.0,5.0,8.0,Class 1,20,286244,5.0,Active,Good To Soft,7f209y,0
-Deauville,2:15,Poschiavo,Pierre-Charles Boudot,M Nigge,0.0,5.0,4.0,8.0,Class 1,20,-44634,7.5,Active,Good To Soft,7f209y,0
-Deauville,2:15,Calas,Christophe Soumillon,P & J Brandt,14.0,7.0,6.0,8.0,Class 1,20,1-5112,10.0,Active,Good To Soft,7f209y,0
-Deauville,2:15,Wapi,Ronan Thomas,C Lerner,13.0,16.0,5.0,8.0,Class 1,20,2-5211,12.5,Active,Good To Soft,7f209y,0
-Deauville,2:15,Fast Raaj,Clement Lecoeuvre,Y Barberot,9.0,11.0,8.0,8.0,Class 1,20,-34663,15.0,Active,Good To Soft,7f209y,0
-Deauville,2:15,Supido,Mickael Barzalona,Ian Williams,10.0,40.0,4.0,8.0,Class 1,20,8-1374,17.5,Active,Good To Soft,7f209y,0
-Deauville,2:15,Babakool,Maxime Guyon,C Ferland,10.0,10.0,5.0,8.0,Class 1,20,047-72,20.0,Active,Good To Soft,7f209y,0
-Deauville,2:15,Apax,D Santiago,Mme S Gavilan,14.0,21.0,6.0,8.0,Class 1,20,029551,22.5,Active,Good To Soft,7f209y,0
-Deauville,2:15,Breizh Sky,Marvin Grandin,Louis Baudron,13.0,8.0,6.0,8.0,Class 1,20,494845,25.0,Active,Good To Soft,7f209y,0
-Deauville,2:15,Olympic Message,Aurelien Lemaitre,N Perret,14.0,14.0,6.0,8.0,Class 1,20,4-3639,27.5,Active,Good To Soft,7f209y,0
-Deauville,2:15,Half Half,Cristian Demuro,D Smaga,100.0,1.0,6.0,8.0,Class 1,20,251243,30.0,Active,Good To Soft,7f209y,0
-Deauville,2:15,Mijas,Theo Bachelot,M Delcher Sanchez,33.0,6.0,3.0,8.0,Class 1,20,1-3106,32.5,Active,Good To Soft,7f209y,0
-Deauville,2:15,Big Log,Antoine Hamelin,D & P Prod'homme,14.0,7.0,6.0,8.0,Class 1,20,501330,35.0,Active,Good To Soft,7f209y,0
-Deauville,2:15,Kraskhov,Augustin Madamet,M Delcher Sanchez,33.0,6.0,4.0,8.0,Class 1,20,-43366,37.5,Active,Good To Soft,7f209y,0
-Deauville,2:15,Comme Quoi,Anthony Crastus,N Perret,14.0,14.0,5.0,8.0,Class 1,20,762255,40.0,Active,Good To Soft,7f209y,0
-Deauville,2:15,Melusine Du Houley,Thomas Trullier,Y Barberot,9.0,11.0,3.0,8.0,Class 1,20,223821,42.5,Active,Good To Soft,7f209y,0
-Deauville,2:15,Ikotofetsy,Mme Coralie Pacaut,Mbolatiana Andriantsoa Ratsimihah,0.0,2.0,3.0,8.0,Class 1,20,060589,45.0,Active,Good To Soft,7f209y,0
-Deauville,2:15,Saint Eligius,Eddy Hardouin,M Brasme,17.0,12.0,4.0,8.0,Class 1,20,-43128,47.5,Active,Good To Soft,7f209y,0
-Deauville,2:15,Star Rock,Malone Favriaux,V Luka,22.0,9.0,7.0,8.0,Class 1,20,9-0607,50.0,Active,Good To Soft,7f209y,0
-Deauville,2:15,Topy'sim,Mme Lea Bails,Nicolas Guilbert,0.0,3.0,5.0,8.0,Class 1,20,2-2013,52.5,Active,Good To Soft,7f209y,0
-Deauville,3:05,Khovikhov,Alexis Pouchin,M Delcher Sanchez,33.0,6.0,3.0,8.0,,12,1-7291,5.0,Active,Good To Soft,7f209y,0
-Deauville,3:05,Segall,Pierre-Charles Boudot,A Fabre,19.0,31.0,3.0,8.0,,12,0-2100,7.5,Active,Good To Soft,7f209y,0
-Deauville,3:05,Komorebi,Augustin Madamet,A Fabre,19.0,31.0,3.0,8.0,,12,12-120,10.0,Active,Good To Soft,7f209y,0
-Deauville,3:05,Grand Son Of Dark,Maxime Guyon,Endo Botti,0.0,0.0,3.0,8.0,,12,-21124,12.5,Active,Good To Soft,7f209y,0
-Deauville,3:05,Synaran,Mickael Barzalona,F-H Graffard,38.0,34.0,3.0,8.0,,12,6-1134,15.0,Active,Good To Soft,7f209y,0
-Deauville,3:05,Campacite,Marvin Grandin,J-C Rouget,15.0,13.0,3.0,8.0,,12,42-430,17.5,Active,Good To Soft,7f209y,0
-Deauville,3:05,Lord Clover,Clement Lecoeuvre,F-H Graffard,38.0,34.0,3.0,8.0,,12,1224,20.0,Active,Good To Soft,7f209y,0
-Deauville,3:05,Distant Storm,Billy Loughnane,Charlie Appleby,39.0,23.0,3.0,8.0,,12,313-32,22.5,Active,Good To Soft,7f209y,0
-Deauville,3:05,Wild Desert,Kieran Shoemark,Charlie Appleby,39.0,23.0,3.0,8.0,,12,232-60,25.0,Active,Good To Soft,7f209y,0
-Deauville,3:05,Lyneham,Cristian Demuro,C Ferland,10.0,10.0,3.0,8.0,,12,11-754,27.5,Active,Good To Soft,7f209y,0
-Deauville,3:05,Saint Arnoult,Christophe Soumillon,P Cottier,8.0,12.0,3.0,8.0,,12,1211,30.0,Active,Good To Soft,7f209y,0
-Deauville,3:05,Wootton Centurion,Aurelien Lemaitre,Mme Victoria Head,0.0,4.0,3.0,8.0,,12,1-10,32.5,Active,Good To Soft,7f209y,0
-Deauville,3:40,Stolen Kiss,Alexis Pouchin,P Cottier,8.0,12.0,4.0,6.5,,11,-71114,5.0,Active,Good To Soft,6f101y,0
-Deauville,3:40,Mise En Boite,Anthony Crastus,Xavier Blanchet,0.0,5.0,4.0,6.5,,11,-12231,7.5,Active,Good To Soft,6f101y,0
-Deauville,3:40,Summer Sail,Maxime Guyon,P Groualle,0.0,5.0,4.0,6.5,,11,12-318,10.0,Active,Good To Soft,6f101y,0
-Deauville,3:40,Rosy Affair,Billy Loughnane,George Boughey,21.0,24.0,5.0,6.5,,11,1-2144,12.5,Active,Good To Soft,6f101y,0
-Deauville,3:40,Samangan,Mickael Barzalona,F-H Graffard,38.0,34.0,3.0,6.5,,11,1-2464,15.0,Active,Good To Soft,6f101y,0
-Deauville,3:40,Afandy,Cristian Demuro,J-C Rouget,15.0,13.0,3.0,6.5,,11,1-1214,17.5,Active,Good To Soft,6f101y,0
-Deauville,3:40,How Are You,Clement Lecoeuvre,F-H Graffard,38.0,34.0,3.0,6.5,,11,1221,20.0,Active,Good To Soft,6f101y,0
-Deauville,3:40,Wise Approach,Christophe Soumillon,Charlie Appleby,39.0,23.0,3.0,6.5,,11,31-540,22.5,Active,Good To Soft,6f101y,0
-Deauville,3:40,Take Charge Star,Ben Coen,J P Murtagh,13.0,16.0,3.0,6.5,,11,6-2582,25.0,Active,Good To Soft,6f101y,0
-Deauville,3:40,Division,James Doyle,William Haggas,15.0,52.0,3.0,6.5,,11,5-3235,27.5,Active,Good To Soft,6f101y,0
-Deauville,3:40,My Calyx Cen,Aurelien Lemaitre,P Olave,0.0,3.0,3.0,6.5,,11,1-1110,30.0,Active,Good To Soft,6f101y,0
-Deauville,3:40,True Love,Wayne Lordan,A P O'Brien,23.0,30.0,3.0,6.5,,11,-11232,32.5,Active,Good To Soft,6f101y,0
-Deauville,4:15,Ponntos,C Y Ho,Miroslav Nieslanik,0.0,5.0,8.0,5.0,,13,961824,5.0,Active,Good To Soft,4f213y,0
-Deauville,4:15,Washington Heights,James Doyle,Kevin Ryan,7.0,30.0,6.0,5.0,,13,0-0818,7.5,Active,Good To Soft,4f213y,0
-Deauville,4:15,Estepona,Christophe Soumillon,M Delcher Sanchez,33.0,6.0,4.0,5.0,,13,5-2251,10.0,Active,Good To Soft,4f213y,0
-Deauville,4:15,Monteille,Cristian Demuro,Mario Baratti,0.0,13.0,5.0,5.0,,13,16-750,12.5,Active,Good To Soft,4f213y,0
-Deauville,4:15,Regional,Callum Rodriguez,Edward Bethell,24.0,29.0,8.0,5.0,,13,349-30,15.0,Active,Good To Soft,4f213y,0
-Deauville,4:15,Baileys Bachelor,Pierre Bazire,J-V Toux,0.0,5.0,5.0,5.0,,13,700420,17.5,Active,Good To Soft,4f213y,0
-Deauville,4:15,Jawwal,Pierre-Charles Boudot,V Luka,22.0,9.0,4.0,5.0,,13,12-772,20.0,Active,Good To Soft,4f213y,0
-Deauville,4:15,Zzodiac,Maxime Guyon,G Mosse,18.0,17.0,4.0,5.0,,13,134-23,22.5,Active,Good To Soft,4f213y,0
-Deauville,4:15,Jangir,Anthony Crastus,J Reynier,15.0,13.0,3.0,5.0,,13,15,25.0,Active,Good To Soft,4f213y,0
-Deauville,4:15,Charibelle,Theo Bachelot,S Wattel,0.0,20.0,4.0,5.0,,13,6-5712,27.5,Active,Good To Soft,4f213y,0
-Deauville,4:15,Profumo Di Iena,Clement Lecoeuvre,Maurizio Guarnieri,17.0,6.0,4.0,5.0,,13,213644,30.0,Active,Good To Soft,4f213y,0
-Deauville,4:15,Shiri,Mickael Barzalona,F-H Graffard,38.0,34.0,3.0,5.0,,13,115-14,32.5,Active,Good To Soft,4f213y,0
-Deauville,4:15,Sternle,Eddy Hardouin,G Mosse,18.0,17.0,3.0,5.0,,13,13-088,35.0,Active,Good To Soft,4f213y,0
-Deauville,4:50,Canalejas,Christophe Soumillon,Roberto-Carlos Montenegro,8.0,13.0,3.0,6.0,,14,34-816,5.0,Active,Good To Soft,5f212y,0
-Deauville,4:50,Kailani,Alexis Pouchin,S Wattel,0.0,20.0,3.0,6.0,,14,048217,7.5,Active,Good To Soft,5f212y,0
-Deauville,4:50,Moojeed,Mickael Barzalona,F-H Graffard,38.0,34.0,3.0,6.0,,14,5-5305,10.0,Active,Good To Soft,5f212y,0
-Deauville,4:50,Behike,Pierre-Charles Boudot,George Scott,8.0,13.0,3.0,6.0,,14,3-1102,12.5,Active,Good To Soft,5f212y,0
-Deauville,4:50,Pas Dansant,Theo Bachelot,O Trigodet,20.0,5.0,3.0,6.0,,14,-33717,15.0,Active,Good To Soft,5f212y,0
-Deauville,4:50,Bourgoin,Stephane Pasquier,F Chappet,9.0,11.0,3.0,6.0,,14,-04368,17.5,Active,Good To Soft,5f212y,0
-Deauville,4:50,Kalkara,Marvin Grandin,S Kobayashi,20.0,5.0,3.0,6.0,,14,231714,20.0,Active,Good To Soft,5f212y,0
-Deauville,4:50,Agiota,Antoine Hamelin,M Delcher Sanchez,33.0,6.0,3.0,6.0,,14,69-451,22.5,Active,Good To Soft,5f212y,0
-Deauville,4:50,Imperior,Aurelien Lemaitre,Alicja Karkosa,0.0,10.0,3.0,6.0,,14,4-1058,25.0,Active,Good To Soft,5f212y,0
-Deauville,4:50,Hallo Spaceboy,Kieran Shoemark,Ed Walker,25.0,44.0,3.0,6.0,,14,21-221,27.5,Active,Good To Soft,5f212y,0
-Deauville,4:50,Fire Fly,Augustin Madamet,M Delcher Sanchez,33.0,6.0,3.0,6.0,,14,6213,30.0,Active,Good To Soft,5f212y,0
-Deauville,4:50,Inju,Cristian Demuro,Mario Baratti,0.0,13.0,3.0,6.0,,14,155824,32.5,Active,Good To Soft,5f212y,0
-Deauville,4:50,Miss Chiquita,Tony Piccone,A Botti,13.0,8.0,3.0,6.0,,14,-26513,35.0,Active,Good To Soft,5f212y,0
-Deauville,4:50,No Tune,Maxime Guyon,Christopher Head,33.0,6.0,3.0,6.0,,14,1-3232,37.5,Active,Good To Soft,5f212y,0
-Deauville,5:25,Papateou,Marie Velon,Bart De Koninck,0.0,1.0,6.0,5.5,Class 4,13,080290,5.0,Active,Good To Soft,5f102y,0
-Deauville,5:25,Red Gust,Pierre Bazire,J-V Toux,0.0,5.0,4.0,5.5,Class 4,13,876326,7.5,Active,Good To Soft,5f102y,0
-Deauville,5:25,Reminisce,C Y Ho,R Roels,0.0,0.0,6.0,5.5,Class 4,13,000443,10.0,Active,Good To Soft,5f102y,0
-Deauville,5:25,Hatfaville,Alexis Pouchin,Matthieu Gonzalez,0.0,1.0,5.0,5.5,Class 4,13,0-2361,12.5,Active,Good To Soft,5f102y,0
-Deauville,5:25,Shelbylandor,M Romary,C Plisson,0.0,13.0,6.0,5.5,Class 4,13,586110,15.0,Active,Good To Soft,5f102y,0
-Deauville,5:25,Les Trois Vallees,C Collet-Vidal,Robert Collet,0.0,2.0,6.0,5.5,Class 4,13,080821,17.5,Active,Good To Soft,5f102y,0
-Deauville,5:25,Riski Chope,Bryan Labate,S Labate,29.0,7.0,6.0,5.5,Class 4,13,253531,20.0,Active,Good To Soft,5f102y,0
-Deauville,5:25,Air De Samba,Mme Frida Valle Skar,Mme C Barbe,33.0,6.0,4.0,5.5,Class 4,13,958292,22.5,Active,Good To Soft,5f102y,0
-Deauville,5:25,Big Boots,D Santiago,Mme Caroline Diaz,0.0,0.0,10.0,5.5,Class 4,13,033124,25.0,Active,Good To Soft,5f102y,0
-Deauville,5:25,Denver Chop,Thomas Trullier,K Geerts,0.0,0.0,6.0,5.5,Class 4,13,0-0008,27.5,Active,Good To Soft,5f102y,0
-Deauville,5:25,Maminoa,Mme Coralie Pacaut,L Boutault,0.0,0.0,4.0,5.5,Class 4,13,060320,30.0,Active,Good To Soft,5f102y,0
-Deauville,5:25,Two Two Two,Eddy Hardouin,Frau Chr Janssen/Belgien,0.0,2.0,6.0,5.5,Class 4,13,461676,32.5,Active,Good To Soft,5f102y,0
-Deauville,5:25,Rue Du Sahel,P Cheyer,Melanie Van Den Weghe,0.0,0.0,5.0,5.5,Class 4,13,00-035,35.0,Active,Good To Soft,5f102y,0
-Deauville,5:25,Lagoa Santa,Anthony Crastus,F Monnier,0.0,4.0,7.0,5.5,Class 4,13,2-7808,37.5,Active,Good To Soft,5f102y,0
-Le Lion-D'Angers,3:57,Palais Byzantin,Sebastiano Deriu,Christopher Head,33.0,6.0,2.0,7.0,,11,23,5.0,Active,Good To Soft,6f211y,0
-Le Lion-D'Angers,3:57,Vatanez,Jerome Moutard,P Groualle,0.0,5.0,2.0,7.0,,11,0,7.5,Active,Good To Soft,6f211y,0
-Le Lion-D'Angers,3:57,Karakoum,Ioritz Mendizabal,J-M Beguigne,0.0,5.0,2.0,7.0,,11,2,10.0,Active,Good To Soft,6f211y,0
-Le Lion-D'Angers,3:57,One Shot,Hugo Lebouc,Q Moulin,0.0,0.0,2.0,7.0,,11,0,12.5,Active,Good To Soft,6f211y,0
-Le Lion-D'Angers,3:57,Iloveyoumiamor,Hugo Journiac,Mme Victoria Head,0.0,4.0,2.0,7.0,,11,0,15.0,Active,Good To Soft,6f211y,0
-Le Lion-D'Angers,3:57,Goldy Glory,Martin Protti,H-A Pantall,12.0,25.0,2.0,7.0,,11,012,17.5,Active,Good To Soft,6f211y,0
-Le Lion-D'Angers,3:57,Santo Nak,Pierre Le Digabel,Pierre-Etienne Dubois,0.0,4.0,2.0,7.0,,11,,20.0,Active,Good To Soft,6f211y,0
-Le Lion-D'Angers,3:57,Peluquero,Antoine Subias,E Libaud,0.0,2.0,2.0,7.0,,11,,22.5,Active,Good To Soft,6f211y,0
-Le Lion-D'Angers,3:57,Brae Roy,Leo Roussel,Edouard Monfort,21.0,14.0,2.0,7.0,,11,,25.0,Active,Good To Soft,6f211y,0
-Le Lion-D'Angers,3:57,Roccapina,Christopher Grosbois,H-F Devin,13.0,8.0,2.0,7.0,,11,,27.5,Active,Good To Soft,6f211y,0
-Le Lion-D'Angers,3:57,Airlie Beach,Pierre Remoue,Pierre-Etienne Dubois,0.0,4.0,2.0,7.0,,11,,30.0,Active,Good To Soft,6f211y,0
-Le Lion-D'Angers,4:32,Sydney Moon,Ebbe Verhestraeten,Amy Murphy,0.0,0.0,2.0,7.0,Class 2,6,231,5.0,Active,Good To Soft,6f211y,0
-Le Lion-D'Angers,4:32,La Carmen,Soufiane Saadi,H-A Pantall,0.0,0.0,2.0,7.0,Class 2,6,1,7.5,Active,Good To Soft,6f211y,0
-Le Lion-D'Angers,4:32,Timide,Hugo Lebouc,Christopher Head,0.0,0.0,2.0,7.0,Class 2,6,,10.0,Active,Good To Soft,6f211y,0
-Le Lion-D'Angers,4:32,Histori Chope,Christopher Grosbois,L Gadbin,0.0,0.0,2.0,7.0,Class 2,6,2,12.5,Active,Good To Soft,6f211y,0
-Le Lion-D'Angers,4:32,Angel Breizh,Antoine Subias,L Edon,0.0,0.0,2.0,7.0,Class 2,6,9752,15.0,Active,Good To Soft,6f211y,0
-Le Lion-D'Angers,4:32,Slipper Orchid,Ioritz Mendizabal,Francois Monfort,0.0,0.0,2.0,7.0,Class 2,6,6,17.5,Active,Good To Soft,6f211y,0
-Le Lion-D'Angers,5:07,Ciccio Boy,Julia LaCroix,Maximilien Justum,0.0,7.0,8.0,10.0,Class 3,12,140205,5.0,Active,Good To Soft,1m1f207y,0
-Le Lion-D'Angers,5:07,Almaguer,Angelo Zuliani,E D'Andigne,25.0,4.0,5.0,10.0,Class 3,12,948-51,7.5,Active,Good To Soft,1m1f207y,0
-Le Lion-D'Angers,5:07,Out Of Africa,Martin Protti,J Boisnard,0.0,9.0,4.0,10.0,Class 3,12,-21314,10.0,Active,Good To Soft,1m1f207y,0
-Le Lion-D'Angers,5:07,Ker Welen,Arnaud Bourgeais,N Leenders,25.0,4.0,8.0,10.0,Class 3,12,-58560,12.5,Active,Good To Soft,1m1f207y,0
-Le Lion-D'Angers,5:07,Get Set,Timothe Brebion,L Gadbin,33.0,9.0,9.0,10.0,Class 3,12,-22561,15.0,Active,Good To Soft,1m1f207y,0
-Le Lion-D'Angers,5:07,Geopolitical,Rosario Mangione,Mario Baratti,0.0,13.0,4.0,10.0,Class 3,12,-31700,17.5,Active,Good To Soft,1m1f207y,0
-Le Lion-D'Angers,5:07,Guardian,Axel Baron,A Baron,22.0,9.0,5.0,10.0,Class 3,12,268P-P,20.0,Active,Good To Soft,1m1f207y,0
-Le Lion-D'Angers,5:07,Highbari,Hugo Journiac,M Brasme,17.0,12.0,9.0,10.0,Class 3,12,6-5354,22.5,Active,Good To Soft,1m1f207y,0
-Le Lion-D'Angers,5:07,Artistic Man,Hugo Lebouc,Fabien Jolivet,0.0,1.0,4.0,10.0,Class 3,12,12260-,25.0,Active,Good To Soft,1m1f207y,0
-Le Lion-D'Angers,5:07,Keanu,Christopher Grosbois,Kevin Plisson,29.0,7.0,4.0,10.0,Class 3,12,651400,27.5,Active,Good To Soft,1m1f207y,0
-Le Lion-D'Angers,5:07,Bejar,Yoann Rousset,Kevin Plisson,29.0,7.0,5.0,10.0,Class 3,12,829221,30.0,Active,Good To Soft,1m1f207y,0
-Le Lion-D'Angers,5:07,Miss Theria,Pierre Remoue,N Paysan,11.0,9.0,4.0,10.0,Class 3,12,834401,32.5,Active,Good To Soft,1m1f207y,0
-Le Lion-D'Angers,5:42,Encore Ridge,Timothe Brebion,L Gadbin,0.0,0.0,3.0,10.0,Class 3,7,4-5108,5.0,Active,Good To Soft,1m1f207y,0
-Le Lion-D'Angers,5:42,Black Thunder,Martin Protti,H-A Pantall,0.0,0.0,3.0,10.0,Class 3,7,473063,7.5,Active,Good To Soft,1m1f207y,0
-Le Lion-D'Angers,5:42,Roberto Pesto,Pierre Remoue,Pierre Menard,0.0,0.0,3.0,10.0,Class 3,7,9-4909,10.0,Active,Good To Soft,1m1f207y,0
-Le Lion-D'Angers,5:42,Saint Monchik,Hugo Lebouc,Mme A Wattel,0.0,0.0,3.0,10.0,Class 3,7,82444,12.5,Active,Good To Soft,1m1f207y,0
-Le Lion-D'Angers,5:42,Warholm,Jerome Moutard,P & J Brandt,0.0,0.0,3.0,10.0,Class 3,7,51-768,15.0,Active,Good To Soft,1m1f207y,0
-Le Lion-D'Angers,5:42,Rue Recamier,Christopher Grosbois,L Gadbin,0.0,0.0,3.0,10.0,Class 3,7,21-420,17.5,Active,Good To Soft,1m1f207y,0
-Le Lion-D'Angers,5:42,Nissakia,Pierre Le Digabel,P Groualle,0.0,0.0,3.0,10.0,Class 3,7,37-744,20.0,Active,Good To Soft,1m1f207y,0
-Le Lion-D'Angers,5:42,Marakana,Hugo Journiac,Mme Victoria Head,0.0,0.0,3.0,10.0,Class 3,7,4320,22.5,Active,Good To Soft,1m1f207y,0
-Le Lion-D'Angers,6:14,Perfect Man,Leo Roussel,Jean Dubois,0.0,0.0,3.0,12.0,,11,35,5.0,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,6:14,Grand Palais,Christopher Grosbois,L Gadbin,0.0,0.0,3.0,12.0,,11,7,7.5,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,6:14,Qerdie Des Roses,Soufiane Saadi,N Leenders,0.0,0.0,3.0,12.0,,11,99,10.0,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,6:14,Ummagumma,Arthur Vilchien,S Wattel,0.0,0.0,3.0,12.0,,11,2,12.5,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,6:14,Malena,Maximilien Justum,Maximilien Justum,0.0,0.0,3.0,12.0,,11,246554,15.0,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,6:14,My Sister Love,Antoine Subias,N Paysan,0.0,0.0,3.0,12.0,,11,80,17.5,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,6:14,Galie,Yoann Rousset,S Parades,0.0,0.0,3.0,12.0,,11,07,20.0,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,6:14,Master Emery,O Andigne,J Planque,0.0,0.0,3.0,12.0,,11,,22.5,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,6:14,Majeste'blan,Pierre Remoue,Jerome Zuliani,0.0,0.0,3.0,12.0,,11,,25.0,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,6:14,Pastille Bam's,Pierre Le Digabel,E Lecoiffier,0.0,0.0,3.0,12.0,,11,,27.5,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,6:14,Lacra,Hugo Lebouc,N Leenders,0.0,0.0,3.0,12.0,,11,,30.0,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,6:14,Honeybliss,Luca Carboni,Xavier Blanchet,0.0,0.0,3.0,12.0,,11,,32.5,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,6:46,Marigold Sacree,Leo Roussel,Mme Celine Lequien,0.0,2.0,4.0,12.0,,10,50-P61,5.0,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,6:46,Madone Cauvelliere,Christopher Raimbault,Adrien Fouassier,5.0,20.0,4.0,12.0,,10,3-01,7.5,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,6:46,Mahauri Sea,Axel Baron,Gabriel Leenders,23.0,13.0,4.0,12.0,,10,4-1644,10.0,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,6:46,Mandeline,Hugo Lebouc,Erwan Grall,27.0,11.0,4.0,12.0,,10,623,12.5,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,6:46,Molaine,L Suisse,A Le Clerc,0.0,5.0,4.0,12.0,,10,747334,15.0,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,6:46,Mention Extra,Thomas Blanchouin,Mme Sophie Geffriaud,0.0,4.0,4.0,12.0,,10,65-86,17.5,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,6:46,Milia,O Andigne,Alain Couetil,14.0,7.0,4.0,12.0,,10,02,20.0,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,6:46,Magique Fly,Yoann Rousset,Adrien Fouassier,5.0,20.0,4.0,12.0,,10,-93220,22.5,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,6:46,Meleagrine,Arnaud Bourgeais,Adrien Fouassier,5.0,20.0,4.0,12.0,,10,-22227,25.0,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,6:46,Missquick,Antoine Subias,Mlle D Wunderlich,0.0,0.0,4.0,12.0,,10,,27.5,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,7:18,Never Come Back,Mr Paul Lotout,C Lotoux,0.0,8.0,10.0,12.0,Class 4,9,-12134,5.0,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,7:18,Nick Boutique,Mr Niccolo Guarnieri,Maurizio Guarnieri,17.0,6.0,4.0,12.0,Class 4,9,406022,7.5,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,7:18,Timballina,Mr Florent Guy,Thibault Speicher,0.0,4.0,6.0,12.0,Class 4,9,409262,10.0,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,7:18,Sauviac,Jd Manceau,L Edon,0.0,3.0,5.0,12.0,Class 4,9,0-7079,12.5,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,7:18,Bramante,Miss M Rollando,F Carnevali,0.0,3.0,7.0,12.0,Class 4,9,0-3000,15.0,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,7:18,Hamilton Desjy,Mme Camilla Macchieraldo,T Poche,0.0,14.0,7.0,12.0,Class 4,9,1-0088,17.5,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,7:18,Ame Divine,Mr Thomas Guineheux,N Leenders,25.0,4.0,4.0,12.0,Class 4,9,160030,20.0,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,7:18,Dream Filly,Mme Astrid Peltier,J Boisnard,0.0,9.0,4.0,12.0,Class 4,9,995432,22.5,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,7:18,Rigel,Mr Thibault Marlin,Edouard Monfort,21.0,14.0,4.0,12.0,Class 4,9,444070,25.0,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,7:50,Niamh Du Mou,Pierre Remoue,P Journiac,0.0,1.0,3.0,12.0,,8,43,5.0,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,7:50,Nicotineduquartier,Yoann Rousset,D Bernier,0.0,0.0,3.0,12.0,,8,54,7.5,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,7:50,Nulle S'y Frotte,Yoann Barille,Mme A-S Pacault,0.0,1.0,3.0,12.0,,8,4,10.0,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,7:50,Nikita Des Mottes,Arnaud Bourgeais,Armel Lotout,0.0,1.0,3.0,12.0,,8,5,12.5,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,7:50,Namastam,Antoine Subias,T Poche,0.0,14.0,3.0,12.0,,8,966,15.0,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,7:50,Nico Team,Anthony Bernard,Erwan Grall,27.0,11.0,3.0,12.0,,8,6,17.5,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,7:50,Nayons Peur Derien,Clement Guitraud,Mme E Allaire,33.0,3.0,3.0,12.0,,8,F,20.0,Active,Good To Soft,1m3f204y,0
-Le Lion-D'Angers,7:50,Noctalie Sacree,Rayan Poincot,Mme A-S Pacault,0.0,1.0,3.0,12.0,,8,,22.5,Active,Good To Soft,1m3f204y,0
-Chepstow,2:06,Be An Angel,Jake Dickson,Rod Millman,15.0,13.0,4.0,6.0,Class 6,7,-75126,5.0,Active,Good To Firm,0m6f16y,0
-Chepstow,2:06,Macanudo,Finlay Bassett(7),Ian Williams,10.0,40.0,5.0,6.0,Class 6,7,647-03,7.5,Active,Good To Firm,0m6f16y,0
-Chepstow,2:06,Arnaz,Hope Regan(7),Mark Loughnane,11.0,19.0,5.0,6.0,Class 6,7,607878,10.0,Active,Good To Firm,0m6f16y,0
-Chepstow,2:06,Marisitta,Alexandra Egan,John O'Shea,0.0,3.0,6.0,6.0,Class 6,7,475615,12.5,Active,Good To Firm,0m6f16y,0
-Chepstow,2:06,Sundiata Keita,Charlie Tucker(3),John & Rhys Flint,0.0,6.0,4.0,6.0,Class 6,7,489-52,15.0,Active,Good To Firm,0m6f16y,0
-Chepstow,2:06,Some Nightmare,Jude Fernandes(3),John O'Shea,0.0,3.0,9.0,6.0,Class 6,7,354337,17.5,Active,Good To Firm,0m6f16y,0
-Chepstow,2:06,Outer Edge,Matthew Lloyd Slater,Christopher Mason,14.0,7.0,5.0,6.0,Class 6,7,44-545,20.0,Active,Good To Firm,0m6f16y,0
-Chepstow,2:06,Macarone,Olivia Haines,Grace Harris,0.0,14.0,5.0,6.0,Class 6,7,408752,22.5,Active,Good To Firm,0m6f16y,0
-Chepstow,2:41,Our Fella,Taylor Fisher,J S Moore,8.0,12.0,2.0,5.0,Class 6,8,53023,5.0,Active,Good To Firm,0m5f16y,0
-Chepstow,2:41,Dreams Galore,Finley Marsh,Ollie Sangster,20.0,10.0,2.0,5.0,Class 6,8,7471,7.5,Active,Good To Firm,0m5f16y,0
-Chepstow,2:41,Chianti,Pierre-Louis Jamin,Archie Watson,8.0,26.0,2.0,5.0,Class 6,8,543,10.0,Active,Good To Firm,0m5f16y,0
-Chepstow,2:41,Dreamlover,George Wood,Richard Spencer,14.0,21.0,2.0,5.0,Class 6,8,4354,12.5,Active,Good To Firm,0m5f16y,0
-Chepstow,2:41,Crystal Kraken,Pat Dobbs,Dylan Cunha,15.0,27.0,2.0,5.0,Class 6,8,97352,15.0,Active,Good To Firm,0m5f16y,0
-Chepstow,2:41,Defiant Dream,Tyler Heard,Mark Usher,0.0,5.0,2.0,5.0,Class 6,8,926,17.5,Active,Good To Firm,0m5f16y,0
-Chepstow,2:41,Cash Flow Boy,Thomas Greatrex,Charlie Pike,0.0,5.0,2.0,5.0,Class 6,8,756,20.0,Active,Good To Firm,0m5f16y,0
-Chepstow,2:41,Devon Angel,Georgia Dobie,Rod Millman,15.0,13.0,2.0,5.0,Class 6,8,7063,22.5,Active,Good To Firm,0m5f16y,0
-Chepstow,3:16,Bahia Bonita,Finley Marsh,Jack Jones,9.0,11.0,2.0,6.0,Class 5,9,4,5.0,Active,Good To Firm,0m6f16y,0
-Chepstow,3:16,Global Success,Taylor Fisher,J S Moore,8.0,12.0,2.0,6.0,Class 5,9,56325,7.5,Active,Good To Firm,0m6f16y,0
-Chepstow,3:16,Romidijo,Pierre-Louis Jamin,Charlie Clover,29.0,7.0,2.0,6.0,Class 5,9,830422,10.0,Active,Good To Firm,0m6f16y,0
-Chepstow,3:16,So Sexy Me,Pat Cosgrave,Adam Kirby,0.0,9.0,2.0,6.0,Class 5,9,,12.5,Active,Good To Firm,0m6f16y,0
-Chepstow,3:16,Eastern Queen,Donagh Murphy(7),John S O'Donoghue,50.0,2.0,2.0,6.0,Class 5,9,58,15.0,Active,Good To Firm,0m6f16y,0
-Chepstow,3:16,Golden Caturra,Joe Leavy,John Gallagher,18.0,11.0,2.0,6.0,Class 5,9,5,17.5,Active,Good To Firm,0m6f16y,0
-Chepstow,3:16,Independent Roze,Millie Wonnacott(5),Lisa Williamson,17.0,6.0,2.0,6.0,Class 5,9,55,20.0,Active,Good To Firm,0m6f16y,0
-Chepstow,3:16,Leading Raya,Tyler Heard,Mark Usher,0.0,5.0,2.0,6.0,Class 5,9,08,22.5,Active,Good To Firm,0m6f16y,0
-Chepstow,3:16,Voyage Of Survival,Gina Mangan,Alan McIntyre,0.0,2.0,2.0,6.0,Class 5,9,0,25.0,Active,Good To Firm,0m6f16y,0
-Chepstow,3:16,Windmill,George Wood,Ollie Sangster,20.0,10.0,2.0,6.0,Class 5,9,0,27.5,Active,Good To Firm,0m6f16y,0
-Chepstow,3:51,Go Victor,Callum Shepherd,Tony Culhane & Stella Barclay,17.0,6.0,3.0,6.0,Class 6,8,0-0091,5.0,Active,Good To Firm,0m6f16y,0
-Chepstow,3:51,Cici's Secret,Edward Greatrex,Charlie Pike,0.0,5.0,3.0,6.0,Class 6,8,596-0,7.5,Active,Good To Firm,0m6f16y,0
-Chepstow,3:51,Geemann,Taylor Fisher,Joe Tickle,33.0,6.0,3.0,6.0,Class 6,8,860-05,10.0,Active,Good To Firm,0m6f16y,0
-Chepstow,3:51,Ken Brulee,Rose Dawes(5),Mark Usher,0.0,5.0,3.0,6.0,Class 6,8,017436,12.5,Active,Good To Firm,0m6f16y,0
-Chepstow,3:51,Rogue Rebellion,William Carver,R Harris,0.0,4.0,3.0,6.0,Class 6,8,993434,15.0,Active,Good To Firm,0m6f16y,0
-Chepstow,3:51,My Mate Mackley,Pat Cosgrave,Adam Kirby,0.0,9.0,3.0,6.0,Class 6,8,813224,17.5,Active,Good To Firm,0m6f16y,0
-Chepstow,3:51,Independent Angel,Millie Wonnacott(5),Lisa Williamson,17.0,6.0,3.0,6.0,Class 6,8,94-004,20.0,Active,Good To Firm,0m6f16y,0
-Chepstow,3:51,Music And Song,Alexandra Egan(7),David Flood,25.0,4.0,3.0,6.0,Class 6,8,604589,22.5,Active,Good To Firm,0m6f16y,0
-Chepstow,4:26,Devious Devan,Pierre-Louis Jamin,William Muir & Chris Grassick,15.0,20.0,5.0,8.0,Class 6,12,801757,5.0,Active,Good To Firm,1m0f14y,0
-Chepstow,4:26,Fozzy Osbourne,Joe Leavy,Grace Harris,0.0,14.0,5.0,8.0,Class 6,12,95635,7.5,Active,Good To Firm,1m0f14y,0
-Chepstow,4:26,Too Much Trevor,Ashley Lewis(3),Grace Harris,0.0,14.0,5.0,8.0,Class 6,12,314417,10.0,Active,Good To Firm,1m0f14y,0
-Chepstow,4:26,Galactic Glow,Taylor Fisher,Joe Tickle,33.0,6.0,9.0,8.0,Class 6,12,232262,12.5,Active,Good To Firm,1m0f14y,0
-Chepstow,4:26,Desert Charm,Callum Shepherd,Mike Murphy,0.0,7.0,4.0,8.0,Class 6,12,6-3112,15.0,Active,Good To Firm,1m0f14y,0
-Chepstow,4:26,Knightmare,Miss Amy Tucker(7),David Evans,6.0,17.0,4.0,8.0,Class 6,12,522212,17.5,Active,Good To Firm,1m0f14y,0
-Chepstow,4:26,Redhot Whisper,Finley Marsh,Adrian Wintle,19.0,16.0,5.0,8.0,Class 6,12,-90332,20.0,Active,Good To Firm,1m0f14y,0
-Chepstow,4:26,The Bureau Club,Edward Greatrex,Charlie Pike,0.0,5.0,3.0,8.0,Class 6,12,446774,22.5,Active,Good To Firm,1m0f14y,0
-Chepstow,4:26,Ajrad,George Wood,Rod Millman,15.0,13.0,8.0,8.0,Class 6,12,865653,25.0,Active,Good To Firm,1m0f14y,0
-Chepstow,4:26,Scarfo,Charlie Tucker(7),Bernard Llewellyn,33.0,3.0,5.0,8.0,Class 6,12,791322,27.5,Active,Good To Firm,1m0f14y,0
-Chepstow,4:26,A Rose Adaay,Ben Ffrench Davis(5),Grace Harris,0.0,14.0,4.0,8.0,Class 6,12,-53533,30.0,Active,Good To Firm,1m0f14y,0
-Chepstow,4:26,Weston Court,William Carver,R Harris,0.0,4.0,5.0,8.0,Class 6,12,652444,32.5,Active,Good To Firm,1m0f14y,0
-Chepstow,4:26,Beau Chevalier,Gina Mangan,Ed de Giles,0.0,6.0,3.0,8.0,Class 6,12,0-9580,35.0,Active,Good To Firm,1m0f14y,0
-Chepstow,5:01,Pride Of Nepal,Donagh Murphy(7),Tony Carroll,11.0,46.0,8.0,10.0,Class 5,6,711117,5.0,Active,Good To Firm,1m2f0y,0
-Chepstow,5:01,Dancingondiamonds,Hugh Horgan(5),Olly Murphy,0.0,10.0,4.0,10.0,Class 5,6,5-53,7.5,Active,Good To Firm,1m2f0y,0
-Chepstow,5:01,Symphony's Song,Ryan Kavanagh(3),Ian Williams,10.0,40.0,4.0,10.0,Class 5,6,4-6453,10.0,Active,Good To Firm,1m2f0y,0
-Chepstow,5:01,Crimson Road,William Carson,John & Rhys Flint,0.0,6.0,5.0,10.0,Class 5,6,7-5941,12.5,Active,Good To Firm,1m2f0y,0
-Chepstow,5:01,Stipulation,George Wood,Mark Loughnane,11.0,19.0,5.0,10.0,Class 5,6,338676,15.0,Active,Good To Firm,1m2f0y,0
-Chepstow,5:01,Annexation,Molly Gunn(5),Tony Carroll,11.0,46.0,10.0,10.0,Class 5,6,445275,17.5,Active,Good To Firm,1m2f0y,0
-Leicester,2:24,Al Wathba,Connor Planas,Charlie Appleby,39.0,23.0,2.0,7.0,Class 3,3,2,5.0,Active,Good To Firm,0m7f0y,0
-Leicester,2:24,Ebt's Warrior,Lewis Edmunds,William Muir & Chris Grassick,15.0,20.0,2.0,7.0,Class 3,3,,7.5,Active,Good To Firm,0m7f0y,0
-Leicester,2:24,Jimtrott,Charles Bishop,Eve Johnson Houghton,13.0,39.0,2.0,7.0,Class 3,3,22,10.0,Active,Good To Firm,0m7f0y,0
-Leicester,2:59,Love Rome,Cieren Fallon,Charlie Johnston,13.0,45.0,2.0,7.0,Class 5,6,32,5.0,Active,Good To Firm,0m7f0y,0
-Leicester,2:59,Greek Symphony,Mason Paetel(5),Oliver Cole,23.0,13.0,2.0,7.0,Class 5,6,321,7.5,Active,Good To Firm,0m7f0y,0
-Leicester,2:59,Bayside,Lewis Edmunds,Rod Millman,15.0,13.0,2.0,7.0,Class 5,6,31603,10.0,Active,Good To Firm,0m7f0y,0
-Leicester,2:59,Katie's Cavalier,Silvestre De Sousa,David Loughnane,0.0,12.0,2.0,7.0,Class 5,6,5664,12.5,Active,Good To Firm,0m7f0y,0
-Leicester,2:59,Better Nature,Rob Hornby,Jonathan Portman,8.0,13.0,2.0,7.0,Class 5,6,032,15.0,Active,Good To Firm,0m7f0y,0
-Leicester,2:59,Jazzy Bay,Oliver Carmichael(7),Eve Johnson Houghton,13.0,39.0,2.0,7.0,Class 5,6,63334,17.5,Active,Good To Firm,0m7f0y,0
-Leicester,3:34,Robusto,Harry Vigors(5),Eve Johnson Houghton,13.0,39.0,6.0,12.0,Class 5,6,301583,5.0,Active,Good To Firm,1m3f179y,0
-Leicester,3:34,Ottoman,Jack Callan,Oliver Greenall & Josh Guerriero,0.0,4.0,4.0,12.0,Class 5,6,832515,7.5,Active,Good To Firm,1m3f179y,0
-Leicester,3:34,Mountbatten,Dylan Hogan,Sir Mark Prescott Bt,24.0,25.0,3.0,12.0,Class 5,6,877-14,10.0,Active,Good To Firm,1m3f179y,0
-Leicester,3:34,Barak Warrior,Silvestre De Sousa,James Keane,0.0,2.0,3.0,12.0,Class 5,6,7781,12.5,Active,Good To Firm,1m3f179y,0
-Leicester,3:34,Al Maslool,Cieren Fallon,William Haggas,15.0,52.0,3.0,12.0,Class 5,6,750231,15.0,Active,Good To Firm,1m3f179y,0
-Leicester,3:34,Sahm Naif,Ray Dawson,James Horton,0.0,8.0,3.0,12.0,Class 5,6,-74115,17.5,Active,Good To Firm,1m3f179y,0
-Leicester,4:09,Cancelled,Kevin Stott,Jonjo & A.J. O'Neill,25.0,4.0,5.0,8.0,Class 5,5,-43541,5.0,Active,Good To Firm,1m0f53y,0
-Leicester,4:09,Venetian Sky,Cieren Fallon,William Haggas,15.0,52.0,3.0,8.0,Class 5,5,0-3445,7.5,Active,Good To Firm,1m0f53y,0
-Leicester,4:09,Spiritoftheblues,Mark Winn,David O'Meara,13.0,55.0,3.0,8.0,Class 5,5,8-7232,10.0,Active,Good To Firm,1m0f53y,0
-Leicester,4:09,Kaori,Jack Callan,George Boughey,21.0,24.0,3.0,8.0,Class 5,5,33-635,12.5,Active,Good To Firm,1m0f53y,0
-Leicester,4:09,Tamzan,Rob Hornby,Marcus Tregoning,17.0,6.0,3.0,8.0,Class 5,5,-43413,15.0,Active,Good To Firm,1m0f53y,0
-Leicester,4:44,Ray Mon Dough,Hector Crouch,Oliver Cole,23.0,13.0,3.0,6.0,Class 4,4,1-626,5.0,Active,Good To Firm,0m6f0y,0
-Leicester,4:44,Art Lover,Cieren Fallon,William Haggas,15.0,52.0,3.0,6.0,Class 4,4,2187-2,7.5,Active,Good To Firm,0m6f0y,0
-Leicester,4:44,Evening Blues,Ben Robinson,Stephen Hanlon,0.0,1.0,3.0,6.0,Class 4,4,2-5720,10.0,Active,Good To Firm,0m6f0y,0
-Leicester,4:44,Sea Cookie,Neil Callan,Tom Clover,19.0,21.0,3.0,6.0,Class 4,4,22-110,12.5,Active,Good To Firm,0m6f0y,0
-Leicester,4:44,Nuevo Slovo,Paddy Bradley,Simon Pearce,0.0,1.0,3.0,6.0,Class 4,4,167-00,15.0,Active,Good To Firm,0m6f0y,0
-Leicester,4:44,Percy's Star,Silvestre De Sousa,Chris Dwyer,0.0,2.0,3.0,6.0,Class 4,4,52416,17.5,Active,Good To Firm,0m6f0y,0
-Leicester,5:19,Pisanello,Conor Whiteley(5),David O'Meara,13.0,55.0,9.0,10.0,Class 6,6,756111,5.0,Active,Good To Firm,1m2f0y,0
-Leicester,5:19,Ricardo Phillips,Nicola Currie,Henry Candy,40.0,5.0,5.0,10.0,Class 6,6,193-32,7.5,Active,Good To Firm,1m2f0y,0
-Leicester,5:19,Kameel,Oliver Stammers,Jessica Macey,0.0,2.0,4.0,10.0,Class 6,6,952444,10.0,Active,Good To Firm,1m2f0y,0
-Leicester,5:19,Hachiman,James Sullivan,Ruth Carr,20.0,25.0,4.0,10.0,Class 6,6,839035,12.5,Active,Good To Firm,1m2f0y,0
-Leicester,5:19,Clipsham Noble,Liam Wright(5),Charlie Clover,29.0,7.0,4.0,10.0,Class 6,6,541461,15.0,Active,Good To Firm,1m2f0y,0
-Leicester,5:19,Read All About It,Lewis Edmunds,William Muir & Chris Grassick,15.0,20.0,4.0,10.0,Class 6,6,0-0380,17.5,Active,Good To Firm,1m2f0y,0
-Curragh,1:15,A I Nation,Jamie Powell,J P Murtagh,13.0,16.0,2.0,6.0,,19,,5.0,Active,Good To Firm,0m6f0y,0
-Curragh,1:15,Atlantic Bridge,Donagh O'Connor,Robson De Aguiar,33.0,3.0,2.0,6.0,,19,4,7.5,Active,Good To Firm,0m6f0y,0
-Curragh,1:15,Bengal Tiger,Jack Cleary(5),A P O'Brien,23.0,30.0,2.0,6.0,,19,,10.0,Active,Good To Firm,0m6f0y,0
-Curragh,1:15,Jewel In A Crowd,Luke McAteer,Ciaran Murphy,12.0,25.0,2.0,6.0,,19,53,12.5,Active,Good To Firm,0m6f0y,0
-Curragh,1:15,Joltin Joe,Gavin Ryan,Noel Meade,8.0,25.0,2.0,6.0,,19,,15.0,Active,Good To Firm,0m6f0y,0
-Curragh,1:15,King Paddy,Gary Carroll,Paul W Flynn,0.0,22.0,2.0,6.0,,19,,17.5,Active,Good To Firm,0m6f0y,0
-Curragh,1:15,Marco Polo,Ronan Whelan,A P O'Brien,23.0,30.0,2.0,6.0,,19,,20.0,Active,Good To Firm,0m6f0y,0
-Curragh,1:15,Mutamarid Lsk,J M Sheridan,Daniel James Murphy,0.0,3.0,2.0,6.0,,19,80,22.5,Active,Good To Firm,0m6f0y,0
-Curragh,1:15,My Lucky Journey,Declan McDonogh,J A Stack,0.0,4.0,2.0,6.0,,19,4,25.0,Active,Good To Firm,0m6f0y,0
-Curragh,1:15,Nando The Great,Leigh Roche,Paul W Flynn,0.0,22.0,2.0,6.0,,19,,27.5,Active,Good To Firm,0m6f0y,0
-Curragh,1:15,New World Order,Oisin Murphy,J P Murtagh,13.0,16.0,2.0,6.0,,19,,30.0,Active,Good To Firm,0m6f0y,0
-Curragh,1:15,Push The Boat Out,Colin Keane,M D O'Callaghan,9.0,11.0,2.0,6.0,,19,,32.5,Active,Good To Firm,0m6f0y,0
-Curragh,1:15,Santerno,Dylan Browne McMonagle,Joseph Patrick O'Brien,12.0,69.0,2.0,6.0,,19,5,35.0,Active,Good To Firm,0m6f0y,0
-Curragh,1:15,Tradewinds,Paddy Harnett(5),Donnacha Aidan O'Brien,0.0,2.0,2.0,6.0,,19,53233,37.5,Active,Good To Firm,0m6f0y,0
-Curragh,1:15,Brageiro,Shane Foley,Ross O'Sullivan,0.0,27.0,2.0,6.0,,19,,40.0,Active,Good To Firm,0m6f0y,0
-Curragh,1:15,Katty,David Egan,Adrian Sexton,0.0,5.0,2.0,6.0,,19,,42.5,Active,Good To Firm,0m6f0y,0
-Curragh,1:15,Luca Brillante,Chris Hayes,D K Weld,8.0,12.0,2.0,6.0,,19,6,45.0,Active,Good To Firm,0m6f0y,0
-Curragh,1:15,New Bond Street,W J Lee,P Twomey,33.0,9.0,2.0,6.0,,19,53,47.5,Active,Good To Firm,0m6f0y,0
-Curragh,1:15,Snowing,Ryan Moore,A P O'Brien,23.0,30.0,2.0,6.0,,19,52,50.0,Active,Good To Firm,0m6f0y,0
-Curragh,1:45,Sword Of State,Rory Cleary,Brendan W Duke,40.0,5.0,2.0,7.0,,14,71,5.0,Active,Good To Firm,0m7f0y,0
-Curragh,1:45,Admired Beauty,Declan McDonogh,J S Bolger,17.0,6.0,2.0,7.0,,14,2,7.5,Active,Good To Firm,0m7f0y,0
-Curragh,1:45,Alpine Wedding,W J Lee,P Twomey,33.0,9.0,2.0,7.0,,14,53,10.0,Active,Good To Firm,0m7f0y,0
-Curragh,1:45,Exceptionally,Ronan Whelan,A P O'Brien,23.0,30.0,2.0,7.0,,14,03,12.5,Active,Good To Firm,0m7f0y,0
-Curragh,1:45,Green Sparkle,J M Sheridan,Joseph Patrick O'Brien,12.0,69.0,2.0,7.0,,14,9,15.0,Active,Good To Firm,0m7f0y,0
-Curragh,1:45,Ibelieveicanfly,Ryan Moore,A P O'Brien,23.0,30.0,2.0,7.0,,14,424,17.5,Active,Good To Firm,0m7f0y,0
-Curragh,1:45,Katiraya,Chris Hayes,D K Weld,8.0,12.0,2.0,7.0,,14,8,20.0,Active,Good To Firm,0m7f0y,0
-Curragh,1:45,Siege Of Tyre,Leigh Roche,Kieran P Cotter,0.0,5.0,2.0,7.0,,14,08,22.5,Active,Good To Firm,0m7f0y,0
-Curragh,1:45,Speckles,Jack Cleary(5),A P O'Brien,23.0,30.0,2.0,7.0,,14,6,25.0,Active,Good To Firm,0m7f0y,0
-Curragh,1:45,Voice Of You,Gary Carroll,M C Hickey,0.0,0.0,2.0,7.0,,14,5,27.5,Active,Good To Firm,0m7f0y,0
-Curragh,1:45,Big Bessy,Colin Keane,C W J Farrell,0.0,3.0,2.0,7.0,,14,,30.0,Active,Good To Firm,0m7f0y,0
-Curragh,1:45,Chattering Classes,Shane Foley,Mrs John Harrington,9.0,33.0,2.0,7.0,,14,,32.5,Active,Good To Firm,0m7f0y,0
-Curragh,1:45,Darlene,Reese Holohan(7),Robson De Aguiar,33.0,3.0,2.0,7.0,,14,,35.0,Active,Good To Firm,0m7f0y,0
-Curragh,1:45,Miss Hong Kong,Gavin Ryan,Donnacha Aidan O'Brien,0.0,2.0,2.0,7.0,,14,,37.5,Active,Good To Firm,0m7f0y,0
-Curragh,1:45,Popped,Nathan Crosse,Donnacha Aidan O'Brien,0.0,2.0,2.0,7.0,,14,,40.0,Active,Good To Firm,0m7f0y,0
-Curragh,1:45,Rathbran Lady,Wesley Joyce(3),Michael Mulvany,8.0,12.0,2.0,7.0,,14,,42.5,Active,Good To Firm,0m7f0y,0
-Curragh,1:45,Suomenlinna,Dylan Browne McMonagle,Joseph Patrick O'Brien,12.0,69.0,2.0,7.0,,14,,45.0,Active,Good To Firm,0m7f0y,0
-Curragh,1:45,Torvella,Andrew Slattery,Andrew Slattery,8.0,38.0,2.0,7.0,,14,,47.5,Active,Good To Firm,0m7f0y,0
-Curragh,2:15,Anchor Road,Colin Keane,G M Lyons,9.0,11.0,2.0,7.0,,11,53,5.0,Active,Good To Firm,0m7f0y,0
-Curragh,2:15,Benown,J M Sheridan,Joseph Patrick O'Brien,12.0,69.0,2.0,7.0,,11,,7.5,Active,Good To Firm,0m7f0y,0
-Curragh,2:15,Consenza,Chris Hayes,Noel Meade,8.0,25.0,2.0,7.0,,11,,10.0,Active,Good To Firm,0m7f0y,0
-Curragh,2:15,Fort Dearborn,W J Lee,J P Murtagh,13.0,16.0,2.0,7.0,,11,5,12.5,Active,Good To Firm,0m7f0y,0
-Curragh,2:15,Lake Lugano,Ronan Whelan,A P O'Brien,23.0,30.0,2.0,7.0,,11,,15.0,Active,Good To Firm,0m7f0y,0
-Curragh,2:15,Loughrea N Roll,Dylan Browne McMonagle,Joseph Patrick O'Brien,12.0,69.0,2.0,7.0,,11,,17.5,Active,Good To Firm,0m7f0y,0
-Curragh,2:15,Raging Bull,Jack Cleary(5),A P O'Brien,23.0,30.0,2.0,7.0,,11,,20.0,Active,Good To Firm,0m7f0y,0
-Curragh,2:15,Romayan,Jamie Powell,J P Murtagh,13.0,16.0,2.0,7.0,,11,,22.5,Active,Good To Firm,0m7f0y,0
-Curragh,2:15,Selosse,Shane Foley,Mrs John Harrington,9.0,33.0,2.0,7.0,,11,,25.0,Active,Good To Firm,0m7f0y,0
-Curragh,2:15,Shakespeare,Ryan Moore,A P O'Brien,23.0,30.0,2.0,7.0,,11,32,27.5,Active,Good To Firm,0m7f0y,0
-Curragh,2:15,Supreme Lord,David Egan,Robson De Aguiar,33.0,3.0,2.0,7.0,,11,35,30.0,Active,Good To Firm,0m7f0y,0
-Curragh,2:15,The Captains Day,Oisin Murphy,M D O'Callaghan,9.0,11.0,2.0,7.0,,11,,32.5,Active,Good To Firm,0m7f0y,0
-Curragh,2:15,Ocean Surge,Declan McDonogh,W McCreery,23.0,13.0,2.0,7.0,,11,8,35.0,Active,Good To Firm,0m7f0y,0
-Curragh,2:50,The Highway Rat,W J Lee,A Oliver,50.0,4.0,8.0,5.0,,12,6-6260,5.0,Active,Good To Firm,0m5f0y,0
-Curragh,2:50,Gazelle d'Or,Sam Coen(5),M C Grassick,0.0,5.0,4.0,5.0,,12,0-7022,7.5,Active,Good To Firm,0m5f0y,0
-Curragh,2:50,Erosandpsyche,Gary Carroll,Daniel James Murphy,0.0,3.0,8.0,5.0,,12,003382,10.0,Active,Good To Firm,0m5f0y,0
-Curragh,2:50,Sarahmae,Jared Huggan(10),Denis Gerard Hogan,6.0,34.0,4.0,5.0,,12,011265,12.5,Active,Good To Firm,0m5f0y,0
-Curragh,2:50,Headmaster,Dylan Browne McMonagle,Edward Lynam,0.0,0.0,4.0,5.0,,12,1-7120,15.0,Active,Good To Firm,0m5f0y,0
-Curragh,2:50,Ipanema Queen,David Egan,Robson De Aguiar,33.0,3.0,3.0,5.0,,12,274681,17.5,Active,Good To Firm,0m5f0y,0
-Curragh,2:50,Arugam Bay,Jessica O'Gorman(7),Eddie & Patrick Harty,0.0,7.0,3.0,5.0,,12,1167-9,20.0,Active,Good To Firm,0m5f0y,0
-Curragh,2:50,Rosie Frith,Colin Keane,Patrick Magee,0.0,11.0,3.0,5.0,,12,-80144,22.5,Active,Good To Firm,0m5f0y,0
-Curragh,2:50,Chicago Call,Donagh O'Connor,J P Murtagh,13.0,16.0,3.0,5.0,,12,0-5678,25.0,Active,Good To Firm,0m5f0y,0
-Curragh,2:50,Genesis,Wesley Joyce(3),Michael Mulvany,8.0,12.0,5.0,5.0,,12,403136,27.5,Active,Good To Firm,0m5f0y,0
-Curragh,2:50,Prairie Girl,Terry Casey(7),Daniel James Murphy,0.0,3.0,4.0,5.0,,12,1D-110,30.0,Active,Good To Firm,0m5f0y,0
-Curragh,2:50,Cuban Grey,Luke McAteer,Patrick J McKenna,0.0,0.0,6.0,5.0,,12,051794,32.5,Active,Good To Firm,0m5f0y,0
-Curragh,2:50,Finika,Gavin Ryan,John James Feane,0.0,3.0,3.0,5.0,,12,031,35.0,Active,Good To Firm,0m5f0y,0
-Curragh,2:50,Focaccia,Andrew Slattery,J A Stack,0.0,4.0,3.0,5.0,,12,071782,37.5,Active,Good To Firm,0m5f0y,0
-Curragh,3:25,Big Gossey,W J Lee,Charles O'Brien,0.0,2.0,9.0,6.0,Class 1,5,019212,5.0,Active,Good To Firm,6f,0
-Curragh,3:25,Big Mojo,Tom Marquand,Michael Appleby,0.0,27.0,4.0,6.0,Class 1,5,10-780,7.5,Active,Good To Firm,6f,0
-Curragh,3:25,Bodhi Bear,Colin Keane,J A Stack,0.0,4.0,4.0,6.0,Class 1,5,185130,10.0,Active,Good To Firm,6f,0
-Curragh,3:25,Bucanero Fuerte,David Egan,Robson De Aguiar,33.0,3.0,5.0,6.0,Class 1,5,7-7546,12.5,Active,Good To Firm,6f,0
-Curragh,3:25,James's Delight,Dylan Browne McMonagle,Clive Cox,6.0,18.0,5.0,6.0,Class 1,5,100-63,15.0,Active,Good To Firm,6f,0
-Curragh,4:00,Carry The Flag,Ronan Whelan,A P O'Brien,23.0,30.0,2.0,6.0,Class 1,8,212917,5.0,Active,Good To Firm,6f,0
-Curragh,4:00,Celeron,Oisin Murphy,M D O'Callaghan,9.0,11.0,2.0,6.0,Class 1,8,101,7.5,Active,Good To Firm,6f,0
-Curragh,4:00,Folsom Blues,Dylan Browne McMonagle,Joseph Patrick O'Brien,12.0,69.0,2.0,6.0,Class 1,8,312,10.0,Active,Good To Firm,6f,0
-Curragh,4:00,King Of Cloughan,J M Sheridan,Joseph Patrick O'Brien,12.0,69.0,2.0,6.0,Class 1,8,4212,12.5,Active,Good To Firm,6f,0
-Curragh,4:00,The Scallionator,Wesley Joyce,Michael Mulvany,8.0,12.0,2.0,6.0,Class 1,8,42104,15.0,Active,Good To Firm,6f,0
-Curragh,4:00,Tribeca,David Egan,Robson De Aguiar,33.0,3.0,2.0,6.0,Class 1,8,102,17.5,Active,Good To Firm,6f,0
-Curragh,4:00,Sun Goddess,Ryan Moore,A P O'Brien,23.0,30.0,2.0,6.0,Class 1,8,2121,20.0,Active,Good To Firm,6f,0
-Curragh,4:00,Velozee,W J Lee,P Twomey,33.0,9.0,2.0,6.0,Class 1,8,11483,22.5,Active,Good To Firm,6f,0
-Curragh,4:35,Go Athletico,Ronan Whelan,Adrian McGuinness,9.0,23.0,8.0,6.0,,14,300262,5.0,Active,Good To Firm,0m6f0y,0
-Curragh,4:35,Gerrit's Gem,Scott McCullagh,J G Coogan,0.0,0.0,6.0,6.0,,14,24-007,7.5,Active,Good To Firm,0m6f0y,0
-Curragh,4:35,Jon Riggens,James Ryan,Edward Lynam,0.0,0.0,8.0,6.0,,14,-07671,10.0,Active,Good To Firm,0m6f0y,0
-Curragh,4:35,Sovereign Cry,Shane Foley,Daniel James Murphy,0.0,3.0,3.0,6.0,,14,046918,12.5,Active,Good To Firm,0m6f0y,0
-Curragh,4:35,Lohoobb,W J Lee,M C Grassick,0.0,5.0,3.0,6.0,,14,-52524,15.0,Active,Good To Firm,0m6f0y,0
-Curragh,4:35,Nazario,Rory Mulligan(5),J P Murtagh,13.0,16.0,3.0,6.0,,14,726-44,17.5,Active,Good To Firm,0m6f0y,0
-Curragh,4:35,Hugo's Girl,Oisin Murphy,Thomas Dowling,0.0,1.0,4.0,6.0,,14,303244,20.0,Active,Good To Firm,0m6f0y,0
-Curragh,4:35,Nouvel Espoir,Dylan Browne McMonagle,James M Barcoe,0.0,4.0,6.0,6.0,,14,364144,22.5,Active,Good To Firm,0m6f0y,0
-Curragh,4:35,All Hail,Gary Carroll,A Oliver,50.0,4.0,3.0,6.0,,14,82-840,25.0,Active,Good To Firm,0m6f0y,0
-Curragh,4:35,Mint Man,Chris Hayes,P J F Murphy,0.0,4.0,5.0,6.0,,14,784803,27.5,Active,Good To Firm,0m6f0y,0
-Curragh,4:35,Yutori,Nathan Crosse,Daniel McLoughlin,0.0,6.0,4.0,6.0,,14,368-27,30.0,Active,Good To Firm,0m6f0y,0
-Curragh,4:35,Aurora Nova,Wesley Joyce(3),Andrew McNamara,10.0,10.0,7.0,6.0,,14,-03590,32.5,Active,Good To Firm,0m6f0y,0
-Curragh,4:35,Beat The Devil,Rory Cleary,Patrick Magee,0.0,11.0,4.0,6.0,,14,247250,35.0,Active,Good To Firm,0m6f0y,0
-Curragh,4:35,Caislean Ni Cuan,N G McCullagh,Thomas Mullins,0.0,6.0,3.0,6.0,,14,475,37.5,Active,Good To Firm,0m6f0y,0
-Curragh,4:35,Rosato,Patrick McGettigan(5),Charles Weld,0.0,1.0,5.0,6.0,,14,8-9072,40.0,Active,Good To Firm,0m6f0y,0
-Curragh,5:10,Booyea,Dylan Browne McMonagle,Thomas Gibney,0.0,10.0,6.0,8.0,,10,00-502,5.0,Active,Good To Firm,1m0f0y,0
-Curragh,5:10,Final Voyage,Jessica Maye(7),J P Murtagh,13.0,16.0,8.0,8.0,,10,947170,7.5,Active,Good To Firm,1m0f0y,0
-Curragh,5:10,Glory To Be,Scott McCullagh,M C Grassick,0.0,5.0,4.0,8.0,,10,795210,10.0,Active,Good To Firm,1m0f0y,0
-Curragh,5:10,Playin Cool,Luke McAteer,John James Feane,0.0,3.0,4.0,8.0,,10,-80230,12.5,Active,Good To Firm,1m0f0y,0
-Curragh,5:10,Dark Viper,Shane Foley,Mrs John Harrington,9.0,33.0,5.0,8.0,,10,688521,15.0,Active,Good To Firm,1m0f0y,0
-Curragh,5:10,Howyoulikethat,Declan McDonogh,Miss Hilary McLoughlin,0.0,1.0,9.0,8.0,,10,-84730,17.5,Active,Good To Firm,1m0f0y,0
-Curragh,5:10,Summer Island,Oisin Murphy,Miss Natalia Lupini,20.0,5.0,4.0,8.0,,10,163121,20.0,Active,Good To Firm,1m0f0y,0
-Curragh,5:10,Kalir,Chris Hayes,D K Weld,8.0,12.0,3.0,8.0,,10,4-3441,22.5,Active,Good To Firm,1m0f0y,0
-Curragh,5:10,Marmeladova,W J Lee,K J Condon,33.0,3.0,5.0,8.0,,10,-14321,25.0,Active,Good To Firm,1m0f0y,0
-Curragh,5:10,Goal Exceeded,Ronan Whelan,Adrian McGuinness,9.0,23.0,5.0,8.0,,10,-20314,27.5,Active,Good To Firm,1m0f0y,0
-Curragh,5:10,No More Porter,Colin Keane,Adrian McGuinness,9.0,23.0,8.0,8.0,,10,302328,30.0,Active,Good To Firm,1m0f0y,0
-Curragh,5:10,Glitter And Glory,Keithen Kennedy(5),Mrs John Harrington,9.0,33.0,3.0,8.0,,10,215235,32.5,Active,Good To Firm,1m0f0y,0
-Downpatrick,1:58,Lilannbee,Michael Kenneally(5),S G Carey,0.0,1.0,5.0,18.0,,7,2166-4,5.0,Active,Good,2m1f165y,0
-Downpatrick,1:58,Shoda,J J Slevin,Joseph Patrick O'Brien,12.0,69.0,5.0,18.0,,7,3397-8,7.5,Active,Good,2m1f165y,0
-Downpatrick,1:58,Searcog,Eoin Walsh,Patrick Magee,0.0,11.0,4.0,18.0,,7,4465-4,10.0,Active,Good,2m1f165y,0
-Downpatrick,1:58,Santa Paula,Patrick M O'Brien(5),Dermot A McLoughlin,0.0,6.0,6.0,18.0,,7,07/F03,12.5,Active,Good,2m1f165y,0
-Downpatrick,1:58,Tubberfinn Lassie,Eoghan Finegan(5),John G Carr,0.0,2.0,8.0,18.0,,7,PP-,15.0,Active,Good,2m1f165y,0
-Downpatrick,1:58,Clanokre Lass,Sam Ewing,Gordon Elliott,4.0,46.0,4.0,18.0,,7,64,17.5,Active,Good,2m1f165y,0
-Downpatrick,1:58,Greenroad Girl,Conor Stone-Walsh,R K Watson,0.0,0.0,4.0,18.0,,7,P,20.0,Active,Good,2m1f165y,0
-Downpatrick,2:33,Chanceawetmorning,Jack Kennedy,Gordon Elliott,4.0,46.0,6.0,18.0,,5,1-1319,5.0,Active,Good,2m1f165y,0
-Downpatrick,2:33,Cosmos d'Ainay,Jack Kennedy,Gordon Elliott,4.0,46.0,6.0,18.0,,5,/193-1,7.5,Active,Good,2m1f165y,0
-Downpatrick,2:33,Malbay Madness,P J O'Hanlon,Dermot A McLoughlin,0.0,6.0,6.0,18.0,,5,73-118,10.0,Active,Good,2m1f165y,0
-Downpatrick,2:33,Trasna Na Pairce,Darragh O'Keeffe,Henry De Bromhead,11.0,35.0,7.0,18.0,,5,0-5274,12.5,Active,Good,2m1f165y,0
-Downpatrick,2:33,Cap Bernat,Danny Mullins,Robin McNeilly,0.0,0.0,13.0,18.0,,5,42/05-,15.0,Active,Good,2m1f165y,0
-Downpatrick,2:33,Shinnhill,Patrick M O'Brien(5),Neil McKnight,0.0,0.0,9.0,18.0,,5,71/7-P,17.5,Active,Good,2m1f165y,0
-Downpatrick,2:33,Tribal Moon,Ms E Dunseath(7),Noel C Kelly,11.0,9.0,5.0,18.0,,5,0-730,20.0,Active,Good,2m1f165y,0
-Downpatrick,3:08,Kalsman,Kieren Buckley,Liam Lennon,0.0,0.0,8.0,18.0,,9,61-903,5.0,Active,Good,2m1f165y,0
-Downpatrick,3:08,Pralognan,Daniel King,A J Martin,18.0,11.0,7.0,18.0,,9,5/135-,7.5,Active,Good,2m1f165y,0
-Downpatrick,3:08,Tropical Twist,Jack Kennedy,Gordon Elliott,4.0,46.0,5.0,18.0,,9,FP-541,10.0,Active,Good,2m1f165y,0
-Downpatrick,3:08,Augusta George,Sam Ewing,W J Bryson,0.0,0.0,8.0,18.0,,9,826/0-,12.5,Active,Good,2m1f165y,0
-Downpatrick,3:08,Parkgarve,P J O'Hanlon,Ian Patrick Donoghue,9.0,11.0,6.0,18.0,,9,0-8654,15.0,Active,Good,2m1f165y,0
-Downpatrick,3:08,Barrogstown Girl,Aidan Kelly,Jarlath P Fahey,0.0,4.0,6.0,18.0,,9,06-820,17.5,Active,Good,2m1f165y,0
-Downpatrick,3:08,Leitzel,Alan O'Sullivan(5),S McParlan,0.0,1.0,6.0,18.0,,9,3000-0,20.0,Active,Good,2m1f165y,0
-Downpatrick,3:08,Fine Print,Alex Harvey,John C McConnell,7.0,29.0,5.0,18.0,,9,078-40,22.5,Active,Good,2m1f165y,0
-Downpatrick,3:08,Granlahan,Darragh O'Keeffe,Adrian McGuinness,9.0,23.0,4.0,18.0,,9,833U36,25.0,Active,Good,2m1f165y,0
-Downpatrick,3:08,Gortmore Lady,Mr J Costello(7),Ciaran Murphy,12.0,25.0,6.0,18.0,,9,7P-B93,27.5,Active,Good,2m1f165y,0
-Downpatrick,3:08,Mount Hotham,Danny Mullins,John Joseph Hanlon,7.0,15.0,7.0,18.0,,9,00-906,30.0,Active,Good,2m1f165y,0
-Downpatrick,3:08,La Rocca Lass,Joshua Halford(7),Dermot Day,0.0,1.0,6.0,18.0,,9,0000-0,32.5,Active,Good,2m1f165y,0
-Downpatrick,3:43,Cobra Queen,Darragh O'Keeffe,Henry De Bromhead,11.0,35.0,7.0,22.0,,10,14-P83,5.0,Active,Good,2m5f180y,0
-Downpatrick,3:43,Samba Train,Mark Walsh,E Bolger,0.0,5.0,5.0,22.0,,10,614-1U,7.5,Active,Good,2m5f180y,0
-Downpatrick,3:43,Billie Frechette,Mr Finn Tegetmeier(7),Noel Meade,8.0,25.0,5.0,22.0,,10,22-430,10.0,Active,Good,2m5f180y,0
-Downpatrick,3:43,Theflyingbee,Mr J R Martin(7),F G Hand,0.0,0.0,9.0,22.0,,10,5533-2,12.5,Active,Good,2m5f180y,0
-Downpatrick,3:43,Camlin Park,Alex Harvey,John C McConnell,7.0,29.0,6.0,22.0,,10,01PP-7,15.0,Active,Good,2m5f180y,0
-Downpatrick,3:43,Poetic Twist,Jack Kennedy,Gordon Elliott,4.0,46.0,5.0,22.0,,10,22-212,17.5,Active,Good,2m5f180y,0
-Downpatrick,3:43,Gangster Granny,Sean Flanagan,C A McBratney,0.0,0.0,5.0,22.0,,10,0-1521,20.0,Active,Good,2m5f180y,0
-Downpatrick,3:43,Joya Del Mar,Patrick M O'Brien(5),Dermot A McLoughlin,0.0,6.0,8.0,22.0,,10,-01613,22.5,Active,Good,2m5f180y,0
-Downpatrick,3:43,Oh Janey,Sam Ewing,S R B Crawford,0.0,0.0,6.0,22.0,,10,416-65,25.0,Active,Good,2m5f180y,0
-Downpatrick,3:43,Shannon Bank,Daniel King,Andrew Kinirons,14.0,7.0,7.0,22.0,,10,2P-717,27.5,Active,Good,2m5f180y,0
-Downpatrick,3:43,Miss Lia,Simon Torrens,P J Rothwell,9.0,23.0,6.0,22.0,,10,2P2-06,30.0,Active,Good,2m5f180y,0
-Downpatrick,3:43,Steps In The Sand,Mr J Costello(7),Ciaran Murphy,12.0,25.0,7.0,22.0,,10,88-434,32.5,Active,Good,2m5f180y,0
-Downpatrick,4:18,G N Jefferson,Shane Fitzsimons(7),John C McConnell,7.0,29.0,5.0,22.0,,7,43-096,5.0,Active,Good,2m5f180y,0
-Downpatrick,4:18,I Can Find Em,Mr O McGill(5),Gary McGill,0.0,5.0,5.0,22.0,,7,422-0,7.5,Active,Good,2m5f180y,0
-Downpatrick,4:18,Lygon Lad,Jack Kennedy,Gordon Elliott,4.0,46.0,6.0,22.0,,7,20047/,10.0,Active,Good,2m5f180y,0
-Downpatrick,4:18,Paymelater,Ricky Doyle,S Michael Millar,0.0,1.0,7.0,22.0,,7,646-70,12.5,Active,Good,2m5f180y,0
-Downpatrick,4:18,That's It Paddy,Conor Stone-Walsh,Ian Patrick Donoghue,9.0,11.0,5.0,22.0,,7,4P-6,15.0,Active,Good,2m5f180y,0
-Downpatrick,4:18,Young Doran,Tiernan Power Roche,P J Rothwell,9.0,23.0,5.0,22.0,,7,2,17.5,Active,Good,2m5f180y,0
-Downpatrick,4:18,Magical Sal,J J Slevin,C A McBratney,0.0,0.0,6.0,22.0,,7,P-57P2,20.0,Active,Good,2m5f180y,0
-Downpatrick,4:18,Thesilverbridle,Michael Kenneally(5),John C McConnell,7.0,29.0,5.0,22.0,,7,F71-2,22.5,Active,Good,2m5f180y,0
-Downpatrick,4:18,Oops A Daisy,Josh Younge(7),John Joseph Hanlon,7.0,15.0,4.0,22.0,,7,007,25.0,Active,Good,2m5f180y,0
-Downpatrick,4:53,Ocean Of Dreams,Mr O McGill(5),Gary McGill,0.0,5.0,5.0,22.0,,10,90068-,5.0,Active,Good,2m5f180y,0
-Downpatrick,4:53,Georgia Celena,Patrick M O'Brien(5),John C McConnell,7.0,29.0,8.0,22.0,,10,20-3U2,7.5,Active,Good,2m5f180y,0
-Downpatrick,4:53,Speakasyoufind,Mr R Sugrue(7),P J Rothwell,9.0,23.0,5.0,22.0,,10,0P-926,10.0,Active,Good,2m5f180y,0
-Downpatrick,4:53,My Good Pal,Mr B M Coonan(7),Gavin Cromwell,3.0,29.0,7.0,22.0,,10,5-2U85,12.5,Active,Good,2m5f180y,0
-Downpatrick,4:53,Sneddy Eddie,Jack Kennedy,Gordon Elliott,4.0,46.0,6.0,22.0,,10,0-0554,15.0,Active,Good,2m5f180y,0
-Downpatrick,4:53,Hay Baby,Donagh Meyler,Emmet Mullins,9.0,23.0,7.0,22.0,,10,456-00,17.5,Active,Good,2m5f180y,0
-Downpatrick,4:53,Ballinagaine Girl,Danny Mullins,John Joseph Hanlon,7.0,15.0,6.0,22.0,,10,700-20,20.0,Active,Good,2m5f180y,0
-Downpatrick,4:53,Bob The Builder,Eoin Staples(5),P J Rothwell,9.0,23.0,9.0,22.0,,10,57-550,22.5,Active,Good,2m5f180y,0
-Downpatrick,4:53,Something Simple,Darragh O'Keeffe,John Joseph Hanlon,7.0,15.0,6.0,22.0,,10,PP-04P,25.0,Active,Good,2m5f180y,0
-Downpatrick,4:53,Sonna Lady,Conor Stone-Walsh,John Joseph Hanlon,7.0,15.0,4.0,22.0,,10,970,27.5,Active,Good,2m5f180y,0
-Downpatrick,4:53,Sineads Fancy,Daniel King,S Ryan,0.0,1.0,9.0,22.0,,10,3P-797,30.0,Active,Good,2m5f180y,0
-Downpatrick,5:28,Greenmeansgo,Mr B M Coonan(7),John G Carr,0.0,2.0,7.0,19.0,,6,,5.0,Active,Good,2m2f185y,0
-Downpatrick,5:28,Martymill,Miss A B O'Connor,Anthony McCann,0.0,5.0,5.0,19.0,,6,46-626,7.5,Active,Good,2m2f185y,0
-Downpatrick,5:28,Tommy's Ticket,Mr J Dunne(7),Chris Timmons,0.0,1.0,5.0,19.0,,6,63,10.0,Active,Good,2m2f185y,0
-Downpatrick,5:28,Vargas,Mr H C Swan,Gordon Elliott,4.0,46.0,5.0,19.0,,6,P/P-,12.5,Active,Good,2m2f185y,0
-Downpatrick,5:28,Culldoo,Mr P W Mullins,W P Mullins,28.0,65.0,4.0,19.0,,6,3,15.0,Active,Good,2m2f185y,0
-Downpatrick,5:28,Loves A Laugh,Miss H Ross(7),S R B Crawford,0.0,0.0,4.0,19.0,,6,3,17.5,Active,Good,2m2f185y,0
+location,off_time,horse_name,jockey,trainer,trainer_win_pct,trainer_runs,age,distance_f,race_class,field_size,form_string,odds,status,going,distance,cd_winner,rp_or,rp_rpr,rp_ts,implied_prob,log_bsp,rpr_vs_or,has_rpr,has_or
+Vichy,9:08,Tudo Bem,Hugo Boutin,M Boutin,21.0,29.0,10.0,5.0,Class 4,8,576863,5.0,Active,Soft,4f213y,0,0.0,0.0,0.0,0.2,1.6094379124341003,0.0,0,0
+Vichy,9:08,Revanche,D Santiago,C Plisson,0.0,17.0,5.0,5.0,Class 4,8,026099,7.5,Active,Soft,4f213y,0,0.0,0.0,0.0,0.13333333333333333,2.0149030205422647,0.0,0,0
+Vichy,9:08,Benvenuti,Leonard Plommee,M Cesandri,0.0,3.0,3.0,5.0,Class 4,8,506994,10.0,Active,Soft,4f213y,0,0.0,0.0,0.0,0.1,2.302585092994046,0.0,0,0
+Vichy,9:08,Audeladesetoiles,Xavier Bergeron,M Krebs,0.0,1.0,4.0,5.0,Class 4,8,070680,12.5,Active,Soft,4f213y,0,0.0,0.0,0.0,0.08,2.5257286443082556,0.0,0,0
+Vichy,9:08,Haaricia,Antonio Orani,L Boualem,0.0,1.0,6.0,5.0,Class 4,8,088645,15.0,Active,Soft,4f213y,0,0.0,0.0,0.0,0.06666666666666667,2.70805020110221,0.0,0,0
+Vichy,9:08,Go Johnny Go Go Go,Mme Marie Waldhauser,Louis Bernhardt,0.0,3.0,6.0,5.0,Class 4,8,662143,17.5,Active,Soft,4f213y,0,0.0,0.0,0.0,0.05714285714285714,2.8622008809294686,0.0,0,0
+Vichy,9:08,Excalibur,Aurelien Lemaitre,Sofie Lanslots,0.0,1.0,9.0,5.0,Class 4,8,009671,20.0,Active,Soft,4f213y,0,0.0,0.0,0.0,0.05,2.995732273553991,0.0,0,0
+Vichy,9:08,Hur Cat,Cristian Demuro,M Krebs,0.0,1.0,9.0,5.0,Class 4,8,593862,22.5,Active,Soft,4f213y,0,0.0,0.0,0.0,0.044444444444444446,3.1135153092103742,0.0,0,0
+Vichy,9:08,Forza Bella,Mme Maelie Pien,D Raballand,0.0,3.0,4.0,5.0,Class 4,8,0-0000,25.0,Active,Soft,4f213y,0,0.0,0.0,0.0,0.04,3.2188758248682006,0.0,0,0
+Vichy,9:38,Game Run,Mme Marie Waldhauser,Elias Mikhalides,0.0,2.0,7.0,5.0,Class 4,10,543-58,5.0,Active,Soft,4f213y,0,0.0,0.0,0.0,0.2,1.6094379124341003,0.0,0,0
+Vichy,9:38,Bacchilide,D Santiago,Maurizio Guarnieri,0.0,8.0,7.0,5.0,Class 4,10,606035,7.5,Active,Soft,4f213y,0,0.0,0.0,0.0,0.13333333333333333,2.0149030205422647,0.0,0,0
+Vichy,9:38,Eternel,Marvin Grandin,S Labate,25.0,8.0,6.0,5.0,Class 4,10,513652,10.0,Active,Soft,4f213y,0,0.0,0.0,0.0,0.1,2.302585092994046,0.0,0,0
+Vichy,9:38,King Robbe,Hugo Boutin,M Boutin,21.0,29.0,9.0,5.0,Class 4,10,378051,12.5,Active,Soft,4f213y,0,0.0,0.0,0.0,0.08,2.5257286443082556,0.0,0,0
+Vichy,9:38,Andartis,Marie Velon,S Jesus,0.0,5.0,5.0,5.0,Class 4,10,-01005,15.0,Active,Soft,4f213y,0,0.0,0.0,0.0,0.06666666666666667,2.70805020110221,0.0,0,0
+Vichy,9:38,Coolmeen Royal,Hugo Besnier,Glen Braem,0.0,3.0,7.0,5.0,Class 4,10,800709,17.5,Active,Soft,4f213y,0,0.0,0.0,0.0,0.05714285714285714,2.8622008809294686,0.0,0,0
+Vichy,9:38,Stellar Chop,Cristian Demuro,S Labate,25.0,8.0,4.0,5.0,Class 4,10,668135,20.0,Active,Soft,4f213y,0,0.0,0.0,0.0,0.05,2.995732273553991,0.0,0,0
+Vichy,9:38,Koutsounakos,Mme Frida Valle Skar,Sofie Lanslots,0.0,1.0,11.0,5.0,Class 4,10,1-0740,22.5,Active,Soft,4f213y,0,0.0,0.0,0.0,0.044444444444444446,3.1135153092103742,0.0,0,0
+Vichy,9:38,Expertise,Antonio Orani,F Boualem,0.0,1.0,6.0,5.0,Class 4,10,571054,25.0,Active,Soft,4f213y,0,0.0,0.0,0.0,0.04,3.2188758248682006,0.0,0,0
+Vichy,9:38,King Of Chill,F Foresi,F Foresi,5.0,20.0,4.0,5.0,Class 4,10,347300,27.5,Active,Soft,4f213y,0,0.0,0.0,0.0,0.03636363636363636,3.3141860046725258,0.0,0,0
+Vichy,10:08,Witchway,Hugo Besnier,P Cottier,15.0,13.0,2.0,8.0,,6,11435,5.0,Active,Soft,7f209y,0,0.0,0.0,0.0,0.2,1.6094379124341003,0.0,0,0
+Vichy,10:08,Literary Song,Marvin Grandin,C Escuder,11.0,9.0,2.0,8.0,,6,614,7.5,Active,Soft,7f209y,0,0.0,0.0,0.0,0.13333333333333333,2.0149030205422647,0.0,0,0
+Vichy,10:08,Bichoko,Christopher Raimbault,Adrien Fouassier,9.0,23.0,2.0,8.0,,6,073,10.0,Active,Soft,7f209y,0,0.0,0.0,0.0,0.1,2.302585092994046,0.0,0,0
+Vichy,10:08,Ciao Bello,Cristian Demuro,Mathieu Pitart,0.0,14.0,2.0,8.0,,6,22,12.5,Active,Soft,7f209y,0,0.0,0.0,0.0,0.08,2.5257286443082556,0.0,0,0
+Vichy,10:08,Jiepie Et Jo,Martin Protti,C Plisson,0.0,17.0,2.0,8.0,,6,,15.0,Active,Soft,7f209y,0,0.0,0.0,0.0,0.06666666666666667,2.70805020110221,0.0,0,0
+Vichy,10:08,Makilight,Christopher Grosbois,Mme M Bruere,0.0,2.0,2.0,8.0,,6,84,17.5,Active,Soft,7f209y,0,0.0,0.0,0.0,0.05714285714285714,2.8622008809294686,0.0,0,0
+Vichy,10:38,Laetibey,Marvin Grandin,G Mosse,6.0,17.0,2.0,7.0,,12,23,5.0,Active,Soft,6f211y,0,0.0,0.0,0.0,0.2,1.6094379124341003,0.0,0,0
+Vichy,10:38,Arwood,Hugo Boutin,Dalibor Torok,0.0,0.0,2.0,7.0,,12,9,7.5,Active,Soft,6f211y,0,0.0,0.0,0.0,0.13333333333333333,2.0149030205422647,0.0,0,0
+Vichy,10:38,Defi,Antoine Hamelin,Frau A Budka,0.0,3.0,2.0,7.0,,12,03,10.0,Active,Soft,6f211y,0,0.0,0.0,0.0,0.1,2.302585092994046,0.0,0,0
+Vichy,10:38,Hockney,Antonio Orani,J Reynier,9.0,11.0,2.0,7.0,,12,06,12.5,Active,Soft,6f211y,0,0.0,0.0,0.0,0.08,2.5257286443082556,0.0,0,0
+Vichy,10:38,Alfiya,Martin Protti,H-A Pantall,14.0,29.0,2.0,7.0,,12,8,15.0,Active,Soft,6f211y,0,0.0,0.0,0.0,0.06666666666666667,2.70805020110221,0.0,0,0
+Vichy,10:38,Chanson Douce,Hugo Besnier,P Cottier,15.0,13.0,2.0,7.0,,12,02,17.5,Active,Soft,6f211y,0,0.0,0.0,0.0,0.05714285714285714,2.8622008809294686,0.0,0,0
+Vichy,10:38,Perle De Lune,Marie Velon,C Escuder,11.0,9.0,2.0,7.0,,12,0,20.0,Active,Soft,6f211y,0,0.0,0.0,0.0,0.05,2.995732273553991,0.0,0,0
+Vichy,10:38,Periwinkle,Aurelien Lemaitre,S Kobayashi,25.0,4.0,2.0,7.0,,12,77,22.5,Active,Soft,6f211y,0,0.0,0.0,0.0,0.044444444444444446,3.1135153092103742,0.0,0,0
+Vichy,10:38,Kandors,Nicolas Astier,F Foresi,5.0,20.0,2.0,7.0,,12,,25.0,Active,Soft,6f211y,0,0.0,0.0,0.0,0.04,3.2188758248682006,0.0,0,0
+Vichy,10:38,Oscar De Skirt,Xavier Bergeron,D Chenu,0.0,6.0,2.0,7.0,,12,,27.5,Active,Soft,6f211y,0,0.0,0.0,0.0,0.03636363636363636,3.3141860046725258,0.0,0,0
+Vichy,10:38,Dublin Calling,Cristian Demuro,A Botti,10.0,10.0,2.0,7.0,,12,,30.0,Active,Soft,6f211y,0,0.0,0.0,0.0,0.03333333333333333,3.4011973816621555,0.0,0,0
+Vichy,10:38,Si Noir,Malone Favriaux,C Escuder,11.0,9.0,2.0,7.0,,12,,32.5,Active,Soft,6f211y,0,0.0,0.0,0.0,0.03076923076923077,3.481240089335692,0.0,0,0
+Vichy,11:08,Windjana,V Dupont,Yoann Bonnefoy,0.0,8.0,8.0,10.0,Class 4,9,031772,5.0,Active,Soft,1m1f207y,0,0.0,0.0,0.0,0.2,1.6094379124341003,0.0,0,0
+Vichy,11:08,Rabbah,Riccardo Iacopini,C Escuder,11.0,9.0,7.0,10.0,Class 4,9,569210,7.5,Active,Soft,1m1f207y,0,0.0,0.0,0.0,0.13333333333333333,2.0149030205422647,0.0,0,0
+Vichy,11:08,Mahjouba,Jerome Moutard,Yoann Bonnefoy,0.0,8.0,4.0,10.0,Class 4,9,609375,10.0,Active,Soft,1m1f207y,0,0.0,0.0,0.0,0.1,2.302585092994046,0.0,0,0
+Vichy,11:08,Tanfepas,Mohammad Zeeshaan Sahebjan,L Boualem,0.0,1.0,4.0,10.0,Class 4,9,65-009,12.5,Active,Soft,1m1f207y,0,0.0,0.0,0.0,0.08,2.5257286443082556,0.0,0,0
+Vichy,11:08,Lagoone Chope,F Foresi,F Foresi,5.0,20.0,7.0,10.0,Class 4,9,439586,15.0,Active,Soft,1m1f207y,0,0.0,0.0,0.0,0.06666666666666667,2.70805020110221,0.0,0,0
+Vichy,11:08,Maydy De Romay,Christopher Raimbault,Adrien Fouassier,9.0,23.0,4.0,10.0,Class 4,9,14-744,17.5,Active,Soft,1m1f207y,0,0.0,0.0,0.0,0.05714285714285714,2.8622008809294686,0.0,0,0
+Vichy,11:08,Vas Y Lez,Malone Favriaux,Mme Isabelle Juteau,0.0,2.0,4.0,10.0,Class 4,9,334442,20.0,Active,Soft,1m1f207y,0,0.0,0.0,0.0,0.05,2.995732273553991,0.0,0,0
+Vichy,11:08,Stranger,Julia LaCroix,B Legros,0.0,3.0,9.0,10.0,Class 4,9,705757,22.5,Active,Soft,1m1f207y,0,0.0,0.0,0.0,0.044444444444444446,3.1135153092103742,0.0,0,0
+Vichy,11:08,What Do You Say,Mme Maelie Pien,D Raballand,0.0,3.0,10.0,10.0,Class 4,9,0-8000,25.0,Active,Soft,1m1f207y,0,0.0,0.0,0.0,0.04,3.2188758248682006,0.0,0,0
+Vichy,11:40,Max Verst,Hugo Boutin,R Fradet,0.0,4.0,7.0,10.0,Class 3,8,836285,5.0,Active,Soft,1m1f207y,0,0.0,0.0,0.0,0.2,1.6094379124341003,0.0,0,0
+Vichy,11:40,Trophane,Antoine Subias,E Libaud,0.0,4.0,5.0,10.0,Class 3,8,7-1500,7.5,Active,Soft,1m1f207y,0,0.0,0.0,0.0,0.13333333333333333,2.0149030205422647,0.0,0,0
+Vichy,11:40,Sous La Neige,Cristian Demuro,Gavin Hernon,8.0,12.0,6.0,10.0,Class 3,8,207084,10.0,Active,Soft,1m1f207y,0,87.0,0.0,0.0,0.1,2.302585092994046,-87.0,0,1
+Vichy,11:40,Almiro,Malone Favriaux,P Decouz,20.0,5.0,6.0,10.0,Class 3,8,940200,12.5,Active,Soft,1m1f207y,0,0.0,0.0,0.0,0.08,2.5257286443082556,0.0,0,0
+Vichy,11:40,Starnberg,Marvin Grandin,C Escuder,11.0,9.0,4.0,10.0,Class 3,8,546306,15.0,Active,Soft,1m1f207y,0,0.0,0.0,0.0,0.06666666666666667,2.70805020110221,0.0,0,0
+Vichy,11:40,Senorito,Antonio Orani,N Perret,8.0,13.0,4.0,10.0,Class 3,8,-65049,17.5,Active,Soft,1m1f207y,0,0.0,0.0,0.0,0.05714285714285714,2.8622008809294686,0.0,0,0
+Vichy,11:40,Sea The Aurora,Aurelien Lemaitre,Dalibor Torok,0.0,0.0,4.0,10.0,Class 3,8,71560-,20.0,Active,Soft,1m1f207y,0,0.0,0.0,0.0,0.05,2.995732273553991,0.0,0,0
+Vichy,11:40,Arnaga,Mme Maelie Pien,D Raballand,0.0,3.0,4.0,10.0,Class 3,8,8-0080,22.5,Active,Soft,1m1f207y,0,0.0,0.0,0.0,0.044444444444444446,3.1135153092103742,0.0,0,0
+Vichy,12:12,Nympheas,Mohammad Zeeshaan Sahebjan,F Boualem,0.0,1.0,3.0,9.0,,11,621115,5.0,Active,Soft,1m1f43y,0,0.0,0.0,0.0,0.2,1.6094379124341003,0.0,0,0
+Vichy,12:12,Starry Sky,Jerome Moutard,P Schiergen,0.0,0.0,3.0,9.0,,11,2291,7.5,Active,Soft,1m1f43y,0,0.0,0.0,0.0,0.13333333333333333,2.0149030205422647,0.0,0,0
+Vichy,12:12,Spirit Girl,Maxence Marquette,H-A Pantall,14.0,29.0,3.0,9.0,,11,166,10.0,Active,Soft,1m1f43y,0,0.0,0.0,0.0,0.1,2.302585092994046,0.0,0,0
+Vichy,12:12,Bacherovka,Malone Favriaux,C Escuder,11.0,9.0,3.0,9.0,,11,3738,12.5,Active,Soft,1m1f43y,0,0.0,0.0,0.0,0.08,2.5257286443082556,0.0,0,0
+Vichy,12:12,Labellegnac,Antoine Subias,Mme M Solignac,0.0,3.0,3.0,9.0,,11,9-85,15.0,Active,Soft,1m1f43y,0,0.0,0.0,0.0,0.06666666666666667,2.70805020110221,0.0,0,0
+Vichy,12:12,Tarasoft,Mme Laura Poggionovo,R Fradet,0.0,4.0,3.0,9.0,,11,3750,17.5,Active,Soft,1m1f43y,0,0.0,0.0,0.0,0.05714285714285714,2.8622008809294686,0.0,0,0
+Vichy,12:12,Pepsi Des Bernets,Costantino Carboni,Allan Estrabol,0.0,3.0,3.0,9.0,,11,8,20.0,Active,Soft,1m1f43y,0,0.0,0.0,0.0,0.05,2.995732273553991,0.0,0,0
+Vichy,12:12,Agnesit'a,Riccardo Iacopini,C Escuder,11.0,9.0,3.0,9.0,,11,589350,22.5,Active,Soft,1m1f43y,0,0.0,0.0,0.0,0.044444444444444446,3.1135153092103742,0.0,0,0
+Vichy,12:12,Cosmic Moon,V Dupont,Mathieu Pitart,0.0,14.0,3.0,9.0,,11,00880,25.0,Active,Soft,1m1f43y,0,0.0,0.0,0.0,0.04,3.2188758248682006,0.0,0,0
+Vichy,12:12,Charismatic Gold,K Gaudeffroy,E Lacaille,0.0,8.0,3.0,9.0,,11,9698,27.5,Active,Soft,1m1f43y,0,0.0,0.0,0.0,0.03636363636363636,3.3141860046725258,0.0,0,0
+Vichy,12:12,Madame Gazelle,Julia LaCroix,Allan Estrabol,0.0,3.0,3.0,9.0,,11,7,30.0,Active,Soft,1m1f43y,0,0.0,0.0,0.0,0.03333333333333333,3.4011973816621555,0.0,0,0
+Vichy,12:44,Angel Dreamer,Costantino Carboni,J Bossert,0.0,0.0,3.0,7.0,Class 3,14,796876,5.0,Active,Soft,6f211y,0,0.0,0.0,0.0,0.2,1.6094379124341003,0.0,0,0
+Vichy,12:44,Yoda,Marie Velon,Mme Manon Scandella-Lacaille,5.0,20.0,3.0,7.0,Class 3,14,676466,7.5,Active,Soft,6f211y,0,0.0,0.0,0.0,0.13333333333333333,2.0149030205422647,0.0,0,0
+Vichy,12:44,Oblenskhy,Aurelien Lemaitre,N Perret,8.0,13.0,3.0,7.0,Class 3,14,-98068,10.0,Active,Soft,6f211y,0,0.0,0.0,0.0,0.1,2.302585092994046,0.0,0,0
+Vichy,12:44,Schwangau,A D'jji,N Perret,8.0,13.0,3.0,7.0,Class 3,14,-49540,12.5,Active,Soft,6f211y,0,0.0,0.0,0.0,0.08,2.5257286443082556,0.0,0,0
+Vichy,12:44,Andugal,Mme Marie Waldhauser,F Foresi,5.0,20.0,3.0,7.0,Class 3,14,480750,15.0,Active,Soft,6f211y,0,0.0,0.0,0.0,0.06666666666666667,2.70805020110221,0.0,0,0
+Vichy,12:44,Wana Chope,Mohammad Zeeshaan Sahebjan,L Boualem,0.0,1.0,3.0,7.0,Class 3,14,4679-9,17.5,Active,Soft,6f211y,0,0.0,0.0,0.0,0.05714285714285714,2.8622008809294686,0.0,0,0
+Vichy,12:44,Treize Active,Nicolas Astier,F Foresi,5.0,20.0,3.0,7.0,Class 3,14,-78808,20.0,Active,Soft,6f211y,0,0.0,0.0,0.0,0.05,2.995732273553991,0.0,0,0
+Vichy,12:44,Little Havana,Hugo Besnier,Gianluca Bietolini,13.0,8.0,3.0,7.0,Class 3,14,0-88,22.5,Active,Soft,6f211y,0,0.0,0.0,0.0,0.044444444444444446,3.1135153092103742,0.0,0,0
+Vichy,12:44,Possi,Cristian Demuro,C Escuder,11.0,9.0,3.0,7.0,Class 3,14,783305,25.0,Active,Soft,6f211y,0,0.0,0.0,0.0,0.04,3.2188758248682006,0.0,0,0
+Vichy,12:44,Princess Alma,Malone Favriaux,R Chotard,0.0,4.0,3.0,7.0,Class 3,14,734050,27.5,Active,Soft,6f211y,0,0.0,0.0,0.0,0.03636363636363636,3.3141860046725258,0.0,0,0
+Vichy,12:44,Melodie Italienne,Antonio Orani,J Reynier,9.0,11.0,3.0,7.0,Class 3,14,4676,30.0,Active,Soft,6f211y,0,0.0,0.0,0.0,0.03333333333333333,3.4011973816621555,0.0,0,0
+Vichy,12:44,Zenata,Leonard Plommee,M Cesandri,0.0,3.0,3.0,7.0,Class 3,14,405635,32.5,Active,Soft,6f211y,0,0.0,0.0,0.0,0.03076923076923077,3.481240089335692,0.0,0,0
+Vichy,12:44,Asprila,Marvin Grandin,M Krebs,0.0,1.0,3.0,7.0,Class 3,14,279956,35.0,Active,Soft,6f211y,0,0.0,0.0,0.0,0.02857142857142857,3.5553480614894135,0.0,0,0
+Vichy,12:44,Naidee,Martin Protti,P De Chevigny,0.0,1.0,3.0,7.0,Class 3,14,974033,37.5,Active,Soft,6f211y,0,0.0,0.0,0.0,0.02666666666666667,3.624340932976365,0.0,0,0
+Beverley,2:15,Ard As A Rock,Joanna Mason,David Evans,10.0,10.0,2.0,5.0,Class 5,12,59,2.96,Active,Good To Firm,0m5f0y,0,0.0,0.0,0.0,0.33783783783783783,1.085189268335969,0.0,0,0
+Beverley,2:15,Mubehir,David Nolan,Paul Midgley,0.0,16.0,2.0,5.0,Class 5,12,07,200.0,Active,Good To Firm,0m5f0y,0,0.0,0.0,0.0,0.005,5.298317366548036,0.0,0,0
+Beverley,2:15,Taj Mahal Palace,Ben Robinson,Brian Ellison,13.0,16.0,2.0,5.0,Class 5,12,,24.0,Active,Good To Firm,0m5f0y,0,0.0,0.0,0.0,0.041666666666666664,3.1780538303479458,0.0,0,0
+Beverley,2:15,True Charm,Warren Fentiman(3),Lemos De Souza,20.0,5.0,2.0,5.0,Class 5,12,205,7.0,Active,Good To Firm,0m5f0y,0,70.0,0.0,0.0,0.14285714285714285,1.9459101490553132,-70.0,0,1
+Beverley,2:15,Classy Jaguar,Dougie Costello,Tony Coyle & Kaine Wood,14.0,7.0,2.0,5.0,Class 5,12,7,140.0,Active,Good To Firm,0m5f0y,0,0.0,0.0,0.0,0.007142857142857143,4.941642422609304,0.0,0,0
+Beverley,2:15,Desert Outlaw,Mark Winn,Paul Midgley,0.0,16.0,2.0,5.0,Class 5,12,96,200.0,Active,Good To Firm,0m5f0y,0,0.0,0.0,0.0,0.005,5.298317366548036,0.0,0,0
+Beverley,2:15,Lexington Boom,Oliver Stammers,Grant Tuer,0.0,4.0,2.0,5.0,Class 5,12,22,4.3,Active,Good To Firm,0m5f0y,0,68.0,0.0,0.0,0.23255813953488372,1.4586150226995167,-68.0,0,1
+Beverley,2:15,Mugheer,Clifford Lee,K. R. Burke,18.0,40.0,2.0,5.0,Class 5,12,,22.5,Active,Good To Firm,0m5f0y,0,0.0,0.0,0.0,0.044444444444444446,3.1135153092103742,0.0,0,0
+Beverley,2:15,Spectacular Diver,David Allan,Tim Easterby,7.0,67.0,2.0,5.0,Class 5,12,256,21.0,Active,Good To Firm,0m5f0y,0,65.0,0.0,0.0,0.047619047619047616,3.044522437723423,-65.0,0,1
+Beverley,2:15,Scottys Rocket,Cam Hardie,Brian Ellison,13.0,16.0,2.0,5.0,Class 5,12,9,27.5,Active,Good To Firm,0m5f0y,0,0.0,0.0,0.0,0.03636363636363636,3.3141860046725258,0.0,0,0
+Beverley,2:15,Ubettabequeen,Sean Kirrane,Tim Easterby,7.0,67.0,2.0,5.0,Class 5,12,,30.0,Active,Good To Firm,0m5f0y,0,0.0,0.0,0.0,0.03333333333333333,3.4011973816621555,0.0,0,0
+Beverley,2:15,Needin' U,Billy Garritty,Michael & David Easterby,13.0,23.0,2.0,5.0,Class 5,12,04,32.5,Active,Good To Firm,0m5f0y,0,0.0,0.0,0.0,0.03076923076923077,3.481240089335692,0.0,0,0
+Beverley,2:15,One More Tilda,Tom Eaves,Ivan Furtado,5.0,20.0,2.0,5.0,Class 5,12,,95.0,Active,Good To Firm,0m5f0y,0,0.0,0.0,0.0,0.010526315789473684,4.553876891600541,0.0,0,0
+Beverley,2:15,Tiggywinkle,Jason Hart,Ollie Pears,0.0,5.0,2.0,5.0,Class 5,12,0,19.0,Active,Good To Firm,0m5f0y,0,0.0,0.0,0.0,0.05263157894736842,2.9444389791664403,0.0,0,0
+Beverley,2:45,Coco Nova,Oisin Orr,Hugo Palmer,6.0,34.0,2.0,7.5,Class 4,12,4,2.0,Active,Good To Firm,0m7f75y,0,0.0,0.0,0.0,0.5,0.6931471805599453,0.0,0,0
+Beverley,2:45,Empire Rising,Sam James,Charlie Clover,14.0,7.0,2.0,7.5,Class 4,12,0444,7.8,Active,Good To Firm,0m7f75y,0,68.0,0.0,0.0,0.12820512820512822,2.0541237336955462,-68.0,0,1
+Beverley,2:45,Quintillion,Andrew Mullen,Charlie Johnston,14.0,44.0,2.0,7.5,Class 4,12,,16.5,Active,Good To Firm,0m7f75y,0,0.0,0.0,0.0,0.06060606060606061,2.803360380906535,0.0,0,0
+Beverley,2:45,You Got Know How,Daniel Tudhope,David O'Meara,19.0,58.0,2.0,7.5,Class 4,12,,8.4,Active,Good To Firm,0m7f75y,0,0.0,0.0,0.0,0.11904761904761904,2.128231705849268,0.0,0,0
+Beverley,2:45,Diplomacy,Billy Garritty,Michael & David Easterby,13.0,23.0,2.0,7.5,Class 4,12,6,80.0,Active,Good To Firm,0m7f75y,0,0.0,0.0,0.0,0.0125,4.382026634673881,0.0,0,0
+Beverley,2:45,Real Edition,Tom Eaves,Craig Lidster,0.0,8.0,2.0,7.5,Class 4,12,74,7.8,Active,Good To Firm,0m7f75y,0,0.0,0.0,0.0,0.12820512820512822,2.0541237336955462,0.0,0,0
+Beverley,2:45,Astral Calling,Clifford Lee,K. R. Burke,18.0,40.0,2.0,7.5,Class 4,12,67,29.0,Active,Good To Firm,0m7f75y,0,0.0,0.0,0.0,0.034482758620689655,3.367295829986474,0.0,0,0
+Beverley,2:45,Cowgirl,Jason Hart,John & Sean Quinn,6.0,16.0,2.0,7.5,Class 4,12,,22.5,Active,Good To Firm,0m7f75y,0,0.0,0.0,0.0,0.044444444444444446,3.1135153092103742,0.0,0,0
+Beverley,2:45,Hair Raising,David Allan,Tim Easterby,7.0,67.0,2.0,7.5,Class 4,12,3,80.0,Active,Good To Firm,0m7f75y,0,0.0,0.0,0.0,0.0125,4.382026634673881,0.0,0,0
+Beverley,2:45,Loveulongtime,William Pyle,Geoffrey Harker,0.0,2.0,2.0,7.5,Class 4,12,704,1000.0,Active,Good To Firm,0m7f75y,0,0.0,0.0,0.0,0.001,6.907755278982137,0.0,0,0
+Beverley,2:45,Be More Ruthless,Jack Nicholls(3),Adrian Nicholls,10.0,10.0,2.0,7.5,Class 4,12,00,220.0,Active,Good To Firm,0m7f75y,0,0.0,0.0,0.0,0.004545454545454545,5.393627546352362,0.0,0,0
+Beverley,2:45,Black Fury,Cam Hardie,Ollie Pears,0.0,5.0,2.0,7.5,Class 4,12,46,70.0,Active,Good To Firm,0m7f75y,0,0.0,0.0,0.0,0.014285714285714285,4.248495242049359,0.0,0,0
+Beverley,2:45,High On Honey,Joanna Mason,Michael & David Easterby,13.0,23.0,2.0,7.5,Class 4,12,,48.0,Active,Good To Firm,0m7f75y,0,0.0,0.0,0.0,0.020833333333333332,3.871201010907891,0.0,0,0
+Beverley,3:15,The New Bay Pearl,Tom Eaves,Simon Whitaker,0.0,6.0,4.0,7.5,Class 6,13,-07444,5.5,Active,Good To Firm,0m7f75y,0,54.0,0.0,0.0,0.18181818181818182,1.7047480922384253,-54.0,0,1
+Beverley,3:15,Sir David,Alex Jary(3),Nigel Tinkler,14.0,29.0,4.0,7.5,Class 6,13,008293,11.0,Active,Good To Firm,0m7f75y,0,54.0,0.0,0.0,0.09090909090909091,2.3978952727983707,-54.0,0,1
+Beverley,3:15,King Sharja,James Sullivan,Ruth Carr,22.0,23.0,6.0,7.5,Class 6,13,022405,6.4,Active,Good To Firm,0m7f75y,0,53.0,0.0,0.0,0.15625,1.8562979903656263,-53.0,0,1
+Beverley,3:15,Mickey Mongoose,Duran Fentiman,Olly Williams,0.0,1.0,6.0,7.5,Class 6,13,558140,44.0,Active,Good To Firm,0m7f75y,0,51.0,0.0,0.0,0.022727272727272728,3.784189633918261,-51.0,0,1
+Beverley,3:15,Willowinghurn,Daniel Tudhope,David O'Meara,19.0,58.0,3.0,7.5,Class 6,13,785056,7.2,Active,Good To Firm,0m7f75y,0,55.0,0.0,0.0,0.1388888888888889,1.9740810260220096,-55.0,0,1
+Beverley,3:15,Dabbling,Harry Russell,Ollie Pears,0.0,5.0,3.0,7.5,Class 6,13,675436,21.0,Active,Good To Firm,0m7f75y,0,54.0,0.0,0.0,0.047619047619047616,3.044522437723423,-54.0,0,1
+Beverley,3:15,Mister Sky Blue,Conor Whiteley(5),Gemma Tutty,12.0,17.0,4.0,7.5,Class 6,13,729543,9.0,Active,Good To Firm,0m7f75y,0,47.0,0.0,0.0,0.1111111111111111,2.1972245773362196,-47.0,0,1
+Beverley,3:15,Bantz,Sean Kirrane,Alan Brown,0.0,7.0,4.0,7.5,Class 6,13,0-0797,29.0,Active,Good To Firm,0m7f75y,0,46.0,0.0,0.0,0.034482758620689655,3.367295829986474,-46.0,0,1
+Beverley,3:15,Alice's Influence,Clifford Lee,David Evans,10.0,10.0,3.0,7.5,Class 6,13,123434,25.0,Active,Good To Firm,0m7f75y,0,51.0,0.0,0.0,0.04,3.2188758248682006,-51.0,0,1
+Beverley,3:15,Elettaria,Cam Hardie,John Wainwright,33.0,3.0,7.0,7.5,Class 6,13,587345,12.5,Active,Good To Firm,0m7f75y,0,45.0,0.0,0.0,0.08,2.5257286443082556,-45.0,0,1
+Beverley,3:15,Furrst Lady,Oisin McSweeney,Roger Fell,13.0,16.0,4.0,7.5,Class 6,13,87-089,50.0,Active,Good To Firm,0m7f75y,0,45.0,0.0,0.0,0.02,3.912023005428146,-45.0,0,1
+Beverley,3:15,Ryefield,Alistair Rawlinson,Lawrence Mullaney,25.0,8.0,3.0,7.5,Class 6,13,95-880,100.0,Active,Good To Firm,0m7f75y,0,50.0,0.0,0.0,0.01,4.605170185988092,-50.0,0,1
+Beverley,3:15,Power Of Chora,Jack Nicholls(3),Jessica Macey,0.0,3.0,3.0,7.5,Class 6,13,668380,35.0,Active,Good To Firm,0m7f75y,0,47.0,0.0,0.0,0.02857142857142857,3.5553480614894135,-47.0,0,1
+Beverley,3:15,Ganthorpe,Joanna Mason,Michael & David Easterby,13.0,23.0,3.0,7.5,Class 6,13,571777,22.0,Active,Good To Firm,0m7f75y,0,47.0,0.0,0.0,0.045454545454545456,3.091042453358316,-47.0,0,1
+Beverley,3:45,Alpha Capture,Conor Whiteley(5),Roger Fell,13.0,16.0,6.0,7.5,Class 4,11,621202,3.35,Active,Good To Firm,0m7f75y,0,82.0,0.0,0.0,0.29850746268656714,1.208960345836975,-82.0,0,1
+Beverley,3:45,Obelix,Jason Hart,Julie Camacho,6.0,18.0,6.0,7.5,Class 4,11,-01550,5.6,Active,Good To Firm,0m7f75y,0,81.0,0.0,0.0,0.17857142857142858,1.7227665977411035,-81.0,0,1
+Beverley,3:45,Bell Shot,Mason Paetel(5),Michael Appleby,4.0,24.0,7.0,7.5,Class 4,11,638342,14.0,Active,Good To Firm,0m7f75y,0,81.0,0.0,0.0,0.07142857142857142,2.6390573296152584,-81.0,0,1
+Beverley,3:45,Highland Olly,Alistair Rawlinson,Grant Tuer,0.0,4.0,5.0,7.5,Class 4,11,104217,19.5,Active,Good To Firm,0m7f75y,0,78.0,0.0,0.0,0.05128205128205128,2.970414465569701,-78.0,0,1
+Beverley,3:45,Glenfinnan,Daniel Tudhope,Michael Dods,3.0,30.0,6.0,7.5,Class 4,11,719420,7.6,Active,Good To Firm,0m7f75y,0,78.0,0.0,0.0,0.13157894736842105,2.028148247292285,-78.0,0,1
+Beverley,3:45,Style Of Life,Ethan Tindall(5),Harriet Bethell,14.0,7.0,6.0,7.5,Class 4,11,1125-0,19.5,Active,Good To Firm,0m7f75y,0,75.0,0.0,0.0,0.05128205128205128,2.970414465569701,-75.0,0,1
+Beverley,3:45,Tattie Bogle,Andrew Mullen,Charlie Johnston,14.0,44.0,4.0,7.5,Class 4,11,212722,11.0,Active,Good To Firm,0m7f75y,0,74.0,0.0,0.0,0.09090909090909091,2.3978952727983707,-74.0,0,1
+Beverley,3:45,Flying Fletcher,Cam Hardie,Richard & Peter Fahey,10.0,30.0,5.0,7.5,Class 4,11,574376,40.0,Active,Good To Firm,0m7f75y,0,70.0,0.0,0.0,0.025,3.6888794541139363,-70.0,0,1
+Beverley,3:45,Beyond The Bar,David Allan,Tim Easterby,7.0,67.0,3.0,7.5,Class 4,11,-77515,25.0,Active,Good To Firm,0m7f75y,0,75.0,0.0,0.0,0.04,3.2188758248682006,-75.0,0,1
+Beverley,3:45,Homestrait,Ben Robinson,Brian Ellison,13.0,16.0,3.0,7.5,Class 4,11,422314,15.0,Active,Good To Firm,0m7f75y,0,71.0,0.0,0.0,0.06666666666666667,2.70805020110221,-71.0,0,1
+Beverley,3:45,Intervention,Joanna Mason,Michael Appleby,4.0,24.0,9.0,7.5,Class 4,11,008770,48.0,Active,Good To Firm,0m7f75y,0,64.0,0.0,0.0,0.020833333333333332,3.871201010907891,-64.0,0,1
+Beverley,4:15,Bearwith,Tom Kiely-Marshall(5),Harriet Bethell,14.0,7.0,8.0,10.0,Class 5,8,024491,12.5,Active,Good To Firm,1m1f207y,0,70.0,0.0,0.0,0.08,2.5257286443082556,-70.0,0,1
+Beverley,4:15,No Knee Never,Clifford Lee,James Owen,15.0,48.0,5.0,10.0,Class 5,8,435030,13.5,Active,Good To Firm,1m1f207y,0,69.0,0.0,0.0,0.07407407407407407,2.6026896854443837,-69.0,0,1
+Beverley,4:15,Ciao Capo,Oisin Orr,Richard & Peter Fahey,10.0,30.0,3.0,10.0,Class 5,8,1-4116,3.15,Active,Good To Firm,1m1f207y,0,70.0,0.0,0.0,0.31746031746031744,1.1474024528375417,-70.0,0,1
+Beverley,4:15,Dr Rio,Zak Wheatley,Declan Carroll,0.0,7.0,10.0,10.0,Class 5,8,543875,13.5,Active,Good To Firm,1m1f207y,0,60.0,0.0,0.0,0.07407407407407407,2.6026896854443837,-60.0,0,1
+Beverley,4:15,Princess Niyla,David Nolan,Alan Brown,0.0,7.0,6.0,10.0,Class 5,8,535653,6.4,Active,Good To Firm,1m1f207y,0,60.0,0.0,0.0,0.15625,1.8562979903656263,-60.0,0,1
+Beverley,4:15,Sunny Orange,Duran Fentiman,Tim Easterby,7.0,67.0,6.0,10.0,Class 5,8,444232,7.2,Active,Good To Firm,1m1f207y,0,59.0,0.0,0.0,0.1388888888888889,1.9740810260220096,-59.0,0,1
+Beverley,4:15,Kitsune Power,David Allan,Tim Easterby,7.0,67.0,7.0,10.0,Class 5,8,426013,6.2,Active,Good To Firm,1m1f207y,0,59.0,0.0,0.0,0.16129032258064516,1.824549292051046,-59.0,0,1
+Beverley,4:15,Langton Wold,Cam Hardie,Brian Ellison,13.0,16.0,7.0,10.0,Class 5,8,975/57,36.0,Active,Good To Firm,1m1f207y,0,48.0,0.0,0.0,0.027777777777777776,3.58351893845611,-48.0,0,1
+Beverley,4:45,Angel Numbers,James Sullivan,Ruth Carr,22.0,23.0,3.0,5.0,Class 5,10,277411,8.8,Active,Good To Firm,0m5f0y,0,74.0,0.0,0.0,0.11363636363636363,2.174751721484161,-74.0,0,1
+Beverley,4:45,Straight Ahead,Clifford Lee,Craig Lidster,0.0,8.0,3.0,5.0,Class 5,10,11-482,9.6,Active,Good To Firm,0m5f0y,0,75.0,0.0,0.0,0.10416666666666667,2.2617630984737906,-75.0,0,1
+Beverley,4:45,Hanney Girl,David Allan,Tim Easterby,7.0,67.0,3.0,5.0,Class 5,10,-75399,5.5,Active,Good To Firm,0m5f0y,0,73.0,0.0,0.0,0.18181818181818182,1.7047480922384253,-73.0,0,1
+Beverley,4:45,Qila,Ben Robinson,Brian Ellison,13.0,16.0,3.0,5.0,Class 5,10,54-203,6.2,Active,Good To Firm,0m5f0y,0,71.0,0.0,0.0,0.16129032258064516,1.824549292051046,-71.0,0,1
+Beverley,4:45,Kilfrush Desert,Tom Eaves,Kevin Ryan,6.0,34.0,3.0,5.0,Class 5,10,3-22,18.0,Active,Good To Firm,0m5f0y,0,70.0,0.0,0.0,0.05555555555555555,2.8903717578961645,-70.0,0,1
+Beverley,4:45,Rumble Ruby,Warren Fentiman(3),Lemos De Souza,20.0,5.0,3.0,5.0,Class 5,10,0314,14.5,Active,Good To Firm,0m5f0y,0,69.0,0.0,0.0,0.06896551724137931,2.6741486494265287,-69.0,0,1
+Beverley,4:45,Dragon Spin,Dougie Costello,Steph Hollinshead,0.0,8.0,3.0,5.0,Class 5,10,316140,20.0,Active,Good To Firm,0m5f0y,0,68.0,0.0,0.0,0.05,2.995732273553991,-68.0,0,1
+Beverley,4:45,Simba's Pride,Mark Winn,Michael Dods,3.0,30.0,3.0,5.0,Class 5,10,215434,22.5,Active,Good To Firm,0m5f0y,0,68.0,0.0,0.0,0.044444444444444446,3.1135153092103742,-68.0,0,1
+Beverley,4:45,Lamlash Bay,Billy Garritty,Michael & David Easterby,13.0,23.0,3.0,5.0,Class 5,10,4-4515,9.4,Active,Good To Firm,0m5f0y,0,66.0,0.0,0.0,0.10638297872340426,2.2407096892759584,-66.0,0,1
+Beverley,4:45,Black Missile,Ryan Sexton,Julie Camacho,6.0,18.0,3.0,5.0,Class 5,10,44-553,11.5,Active,Good To Firm,0m5f0y,0,64.0,0.0,0.0,0.08695652173913043,2.4423470353692043,-64.0,0,1
+Beverley,4:45,Under The Radar,Duran Fentiman,Tim Easterby,7.0,67.0,3.0,5.0,Class 5,10,566933,23.0,Active,Good To Firm,0m5f0y,0,62.0,0.0,0.0,0.043478260869565216,3.1354942159291497,-62.0,0,1
+Ffos Las,3:37,Dixie Blue,Darragh Keenan,Rod Millman,11.0,18.0,3.0,6.0,Class 4,4,,5.0,Active,Good,0m6f0y,0,0.0,0.0,0.0,0.2,1.6094379124341003,0.0,0,0
+Ffos Las,3:37,Eskimo Pie,Daniel Muscutt,Jane Chapple-Hyam,27.0,11.0,3.0,6.0,Class 4,4,8-3645,1.61,Active,Good,0m6f0y,0,80.0,0.0,0.0,0.6211180124223602,0.4762341789963717,-80.0,0,1
+Ffos Las,3:37,Livvys Edge,Gina Mangan,Christopher Mason,20.0,5.0,3.0,6.0,Class 4,4,6,17.0,Active,Good,0m6f0y,0,0.0,0.0,0.0,0.058823529411764705,2.833213344056216,0.0,0,0
+Ffos Las,3:37,Mollstar,Ashley Lewis(3),Ed Walker,22.0,41.0,3.0,6.0,Class 4,4,4437-,4.5,Active,Good,0m6f0y,0,67.0,0.0,0.0,0.2222222222222222,1.5040773967762742,-67.0,0,1
+Ffos Las,3:37,Mystic Veil,Pierre-Louis Jamin,Archie Watson,3.0,29.0,3.0,6.0,Class 4,4,,8.0,Active,Good,0m6f0y,0,0.0,0.0,0.0,0.125,2.0794415416798357,0.0,0,0
+Ffos Las,4:07,The Coffee Pod,Ryan Kavanagh(3),William Muir & Chris Grassick,16.0,25.0,5.0,5.0,Class 6,8,8-8753,2.08,Active,Good,0m5f0y,0,62.0,0.0,0.0,0.4807692307692307,0.7323678937132266,-62.0,0,1
+Ffos Las,4:07,Miracleoftheandes,Jack Callan,Warren Greatrex,20.0,5.0,3.0,5.0,Class 6,8,84-25,14.5,Active,Good,0m5f0y,0,63.0,0.0,0.0,0.06896551724137931,2.6741486494265287,-63.0,0,1
+Ffos Las,4:07,Portacloy,Daniel Muscutt,Daniel & Claire Kubler,40.0,15.0,3.0,5.0,Class 6,8,108-65,9.6,Active,Good,0m5f0y,0,63.0,0.0,0.0,0.10416666666666667,2.2617630984737906,-63.0,0,1
+Ffos Las,4:07,Dark Sun,Laura Coughlan(3),James Bennett,0.0,0.0,5.0,5.0,Class 6,8,744143,7.6,Active,Good,0m5f0y,0,59.0,0.0,0.0,0.13157894736842105,2.028148247292285,-59.0,0,1
+Ffos Las,4:07,Sheik Yerbouti,Ashley Lewis(3),Grace Harris,0.0,15.0,5.0,5.0,Class 6,8,803,24.0,Active,Good,0m5f0y,0,59.0,0.0,0.0,0.041666666666666664,3.1780538303479458,-59.0,0,1
+Ffos Las,4:07,Little Jaybee,J F Egan,David Evans,10.0,10.0,3.0,5.0,Class 6,8,-89693,16.5,Active,Good,0m5f0y,0,60.0,0.0,0.0,0.06060606060606061,2.803360380906535,-60.0,0,1
+Ffos Las,4:07,Happier,Jack Doughty,Martin Keighley,50.0,2.0,6.0,5.0,Class 6,8,-04961,7.8,Active,Good,0m5f0y,0,55.0,0.0,0.0,0.12820512820512822,2.0541237336955462,-55.0,0,1
+Ffos Las,4:07,River Edge,Gina Mangan,Christopher Mason,20.0,5.0,5.0,5.0,Class 6,8,52/344,22.5,Active,Good,0m5f0y,0,45.0,0.0,0.0,0.044444444444444446,3.1135153092103742,-45.0,0,1
+Ffos Las,4:07,Miss Gold,Tyler Heard,David Flood,17.0,6.0,3.0,5.0,Class 6,8,8-099,60.0,Active,Good,0m5f0y,0,45.0,0.0,0.0,0.016666666666666666,4.0943445622221,-45.0,0,1
+Ffos Las,4:37,Drum Bay,Rhys Clutterbuck,Ralph Beckett,15.0,34.0,2.0,7.5,Class 3,6,2,3.4,Active,Good,0m7f80y,0,0.0,0.0,0.0,0.29411764705882354,1.2237754316221157,0.0,0,0
+Ffos Las,4:37,Engraved,Daniel Muscutt,James Fanshawe,20.0,20.0,2.0,7.5,Class 3,6,,7.6,Active,Good,0m7f80y,0,0.0,0.0,0.0,0.13157894736842105,2.028148247292285,0.0,0,0
+Ffos Las,4:37,Grand Havana,Luke Catton(3),Alan King,11.0,9.0,2.0,7.5,Class 3,6,,42.0,Active,Good,0m7f80y,0,0.0,0.0,0.0,0.023809523809523808,3.7376696182833684,0.0,0,0
+Ffos Las,4:37,Narrjoo,Jack Callan,Simon & Ed Crisford,32.0,22.0,2.0,7.5,Class 3,6,2,1.8,Active,Good,0m7f80y,0,0.0,0.0,0.0,0.5555555555555556,0.5877866649021191,0.0,0,0
+Ffos Las,4:37,Q T Boy,William Carson,David Evans,10.0,10.0,2.0,7.5,Class 3,6,07,60.0,Active,Good,0m7f80y,0,0.0,0.0,0.0,0.016666666666666666,4.0943445622221,0.0,0,0
+Ffos Las,4:37,World Star,Darragh Keenan,Ollie Sangster,23.0,13.0,2.0,7.5,Class 3,6,,28.0,Active,Good,0m7f80y,0,0.0,0.0,0.0,0.03571428571428571,3.332204510175204,0.0,0,0
+Ffos Las,4:37,Isabella De Vega,George Downing,Ed Walker,22.0,41.0,2.0,7.5,Class 3,6,3,20.0,Active,Good,0m7f80y,0,0.0,0.0,0.0,0.05,2.995732273553991,0.0,0,0
+Ffos Las,5:10,Nammos,William Carson,John & Rhys Flint,13.0,8.0,6.0,8.0,Class 6,10,261255,5.2,Active,Good,1m0f0y,0,55.0,0.0,0.0,0.1923076923076923,1.6486586255873816,-55.0,0,1
+Ffos Las,5:10,Angel's Call,Ryan Kavanagh(3),Nikki Evans,0.0,2.0,5.0,8.0,Class 6,10,797941,7.5,Active,Good,1m0f0y,0,52.0,0.0,0.0,0.13333333333333333,2.0149030205422647,-52.0,0,1
+Ffos Las,5:10,Kev,Ashley Lewis(3),William Muir & Chris Grassick,16.0,25.0,4.0,8.0,Class 6,10,0-0980,17.5,Active,Good,1m0f0y,0,50.0,0.0,0.0,0.05714285714285714,2.8622008809294686,-50.0,0,1
+Ffos Las,5:10,Rival,Daniel Muscutt,John & Rhys Flint,13.0,8.0,8.0,8.0,Class 6,10,24-865,12.0,Active,Good,1m0f0y,0,49.0,0.0,0.0,0.08333333333333333,2.4849066497880004,-49.0,0,1
+Ffos Las,5:10,Oviedo,Millie Wonnacott(5),Alexandra Dunn,0.0,2.0,6.0,8.0,Class 6,10,900-99,7.6,Active,Good,1m0f0y,0,49.0,0.0,0.0,0.13157894736842105,2.028148247292285,-49.0,0,1
+Ffos Las,5:10,King Of The Dance,Donagh Murphy(7),Bernard Llewellyn,25.0,4.0,7.0,8.0,Class 6,10,4452U3,6.8,Active,Good,1m0f0y,0,48.0,0.0,0.0,0.14705882352941177,1.916922612182061,-48.0,0,1
+Ffos Las,5:10,Uncle Albert,Darragh Keenan,Adrian Wintle,23.0,13.0,5.0,8.0,Class 6,10,-86798,21.0,Active,Good,1m0f0y,0,45.0,0.0,0.0,0.047619047619047616,3.044522437723423,-45.0,0,1
+Ffos Las,5:10,Change Of Fortune,Jack Callan,Bernard Llewellyn,25.0,4.0,7.0,8.0,Class 6,10,-58439,10.0,Active,Good,1m0f0y,0,45.0,0.0,0.0,0.1,2.302585092994046,-45.0,0,1
+Ffos Las,5:10,Ivat Ghia,Tyler Heard,Mark Usher,10.0,10.0,3.0,8.0,Class 6,10,8662,6.0,Active,Good,1m0f0y,0,52.0,0.0,0.0,0.16666666666666666,1.791759469228055,-52.0,0,1
+Ffos Las,5:10,Big Moonrise,J F Egan,David Evans,10.0,10.0,3.0,8.0,Class 6,10,46-3,30.0,Active,Good,1m0f0y,0,47.0,0.0,0.0,0.03333333333333333,3.4011973816621555,-47.0,0,1
+Ffos Las,5:40,Port Louis,Charlie Tucker(7),Bernard Llewellyn,25.0,4.0,5.0,8.0,Class 5,5,208038,5.0,Active,Good,1m0f0y,0,63.0,0.0,0.0,0.2,1.6094379124341003,-63.0,0,1
+Ffos Las,5:40,Next Guilian,Darragh Keenan,Rod Millman,11.0,18.0,3.0,8.0,Class 5,5,3-865,9.4,Active,Good,1m0f0y,0,70.0,0.0,0.0,0.10638297872340426,2.2407096892759584,-70.0,0,1
+Ffos Las,5:40,The Stone Power,Rhys Clutterbuck,Ralph Beckett,15.0,34.0,3.0,8.0,Class 5,5,3-374P,5.9,Active,Good,1m0f0y,0,69.0,0.0,0.0,0.1694915254237288,1.7749523509116738,-69.0,0,1
+Ffos Las,5:40,Royal Bodyguard,Daniel Muscutt,Michael Bell,5.0,21.0,3.0,8.0,Class 5,5,2-8364,5.1,Active,Good,1m0f0y,0,67.0,0.0,0.0,0.19607843137254904,1.62924053973028,-67.0,0,1
+Ffos Las,5:40,John Harrison,Luke Catton(3),Alan King,11.0,9.0,3.0,8.0,Class 5,5,82-433,3.1,Active,Good,1m0f0y,0,63.0,0.0,0.0,0.3225806451612903,1.1314021114911006,-63.0,0,1
+Ffos Las,5:40,Brave New World,Ashley Lewis(3),Ed Walker,22.0,41.0,3.0,8.0,Class 5,5,077,4.0,Active,Good,1m0f0y,0,59.0,0.0,0.0,0.25,1.3862943611198906,-59.0,0,1
+Ffos Las,6:10,Meet Me In Meraki,J F Egan,David Evans,10.0,10.0,5.0,12.0,Class 6,6,678732,4.7,Active,Good,1m3f209y,0,62.0,0.0,0.0,0.2127659574468085,1.547562508716013,-62.0,0,1
+Ffos Las,6:10,Bulldog Spirit,Daniel Muscutt,Bernard Llewellyn,25.0,4.0,6.0,12.0,Class 6,6,-65753,11.5,Active,Good,1m3f209y,0,62.0,0.0,0.0,0.08695652173913043,2.4423470353692043,-62.0,0,1
+Ffos Las,6:10,Noble Grace,Ashley Lewis(3),Warren Greatrex,20.0,5.0,5.0,12.0,Class 6,6,4741,5.3,Active,Good,1m3f209y,0,60.0,0.0,0.0,0.18867924528301888,1.667706820558076,-60.0,0,1
+Ffos Las,6:10,Belle Of Kt,Millie Wonnacott(5),J S Moore,13.0,15.0,5.0,12.0,Class 6,6,337311,7.8,Active,Good,1m3f209y,0,54.0,0.0,0.0,0.12820512820512822,2.0541237336955462,-54.0,0,1
+Ffos Las,6:10,A Daughters Love,Darragh Keenan,David Flood,17.0,6.0,3.0,12.0,Class 6,6,311501,2.64,Active,Good,1m3f209y,0,54.0,0.0,0.0,0.3787878787878788,0.9707789171582248,-54.0,0,1
+Ffos Las,6:10,Claytons Kolatonic,Jack Doughty,Dominic Ffrench Davis,0.0,4.0,3.0,12.0,Class 6,6,63479,23.0,Active,Good,1m3f209y,0,59.0,0.0,0.0,0.043478260869565216,3.1354942159291497,-59.0,0,1
+Kempton (AW),5:30,Coaxed,Robert Havlin,John & Thady Gosden,11.0,28.0,2.0,7.0,Class 3,12,,6.6,Active,Standard / Slow,7f,0,0.0,0.0,0.0,0.15151515151515152,1.8870696490323797,0.0,0,0
+Kempton (AW),5:30,Cullenagh Rainbow,Charles Bishop,Alan King,11.0,9.0,2.0,7.0,Class 3,12,,42.0,Active,Standard / Slow,7f,0,0.0,0.0,0.0,0.023809523809523808,3.7376696182833684,0.0,0,0
+Kempton (AW),5:30,Friendly Force,David Egan,Kevin Philippart De Foy,6.0,16.0,2.0,7.0,Class 3,12,,10.0,Active,Standard / Slow,7f,0,0.0,0.0,0.0,0.1,2.302585092994046,0.0,0,0
+Kempton (AW),5:30,Marsala,Edward Greatrex,Ralph Beckett,15.0,34.0,2.0,7.0,Class 3,12,4,2.84,Active,Standard / Slow,7f,0,0.0,0.0,0.0,0.35211267605633806,1.0438040521731147,0.0,0,0
+Kempton (AW),5:30,Miss Miniver,Jack Mitchell,Roger Varian,19.0,27.0,2.0,7.0,Class 3,12,,6.8,Active,Standard / Slow,7f,0,0.0,0.0,0.0,0.14705882352941177,1.916922612182061,0.0,0,0
+Kempton (AW),5:30,Please Don't Go,Cieren Fallon,Richard Hughes,10.0,30.0,2.0,7.0,Class 3,12,0,17.5,Active,Standard / Slow,7f,0,0.0,0.0,0.0,0.05714285714285714,2.8622008809294686,0.0,0,0
+Kempton (AW),5:30,South China Sea,George Wood,David Simcock,0.0,7.0,2.0,7.0,Class 3,12,,44.0,Active,Standard / Slow,7f,0,0.0,0.0,0.0,0.022727272727272728,3.784189633918261,0.0,0,0
+Kempton (AW),5:30,Speed Nation,Harry Davies,Simon & Ed Crisford,32.0,22.0,2.0,7.0,Class 3,12,7,26.0,Active,Standard / Slow,7f,0,0.0,0.0,0.0,0.038461538461538464,3.258096538021482,0.0,0,0
+Kempton (AW),5:30,Spirit Of Progress,Stevie Donohoe,Daisy Hitchins,0.0,2.0,2.0,7.0,Class 3,12,0,60.0,Active,Standard / Slow,7f,0,0.0,0.0,0.0,0.016666666666666666,4.0943445622221,0.0,0,0
+Kempton (AW),5:30,Sweet Katarina,Kaiya Fraser,William Muir & Chris Grassick,16.0,25.0,2.0,7.0,Class 3,12,,34.0,Active,Standard / Slow,7f,0,0.0,0.0,0.0,0.029411764705882353,3.5263605246161616,0.0,0,0
+Kempton (AW),5:30,Sweltering,P J McDonald,Andrew Balding,15.0,55.0,2.0,7.0,Class 3,12,,14.5,Active,Standard / Slow,7f,0,0.0,0.0,0.0,0.06896551724137931,2.6741486494265287,0.0,0,0
+Kempton (AW),5:30,Thuritha,Dylan Hogan,David Simcock,0.0,7.0,2.0,7.0,Class 3,12,5,42.0,Active,Standard / Slow,7f,0,0.0,0.0,0.0,0.023809523809523808,3.7376696182833684,0.0,0,0
+Kempton (AW),5:30,Woollahra,Neil Callan,Jack Morland,14.0,7.0,2.0,7.0,Class 3,12,,35.0,Active,Standard / Slow,7f,0,0.0,0.0,0.0,0.02857142857142857,3.5553480614894135,0.0,0,0
+Kempton (AW),6:00,It Would Be You,George Wood,Jennie Candlish,47.0,17.0,4.0,12.0,Class 3,5,,30.0,Active,Standard / Slow,1m3f219y,0,0.0,0.0,0.0,0.03333333333333333,3.4011973816621555,0.0,0,0
+Kempton (AW),6:00,Manaar,Cieren Fallon,William Haggas,14.0,50.0,3.0,12.0,Class 3,5,12,1.55,Active,Standard / Slow,1m3f219y,0,88.0,0.0,0.0,0.6451612903225806,0.4382549309311553,-88.0,0,1
+Kempton (AW),6:00,Arrivera,David Egan,Tom Clover,24.0,17.0,3.0,12.0,Class 3,5,62,7.6,Active,Standard / Slow,1m3f219y,0,0.0,0.0,0.0,0.13157894736842105,2.028148247292285,0.0,0,0
+Kempton (AW),6:00,Ladykirk,Edward Greatrex,Jane Chapple-Hyam,27.0,11.0,3.0,12.0,Class 3,5,2-55,7.0,Active,Standard / Slow,1m3f219y,0,74.0,0.0,0.0,0.14285714285714285,1.9459101490553132,-74.0,0,1
+Kempton (AW),6:00,Lunella,Jack Mitchell,Ollie Sangster,23.0,13.0,3.0,12.0,Class 3,5,32,12.0,Active,Standard / Slow,1m3f219y,0,0.0,0.0,0.0,0.08333333333333333,2.4849066497880004,0.0,0,0
+Kempton (AW),6:30,Percy's Lad,Ebrahim Nader,Daniel & Claire Kubler,40.0,15.0,8.0,7.0,Class 4,12,/00626,5.0,Active,Standard / Slow,7f,0,86.0,0.0,0.0,0.2,1.6094379124341003,-86.0,0,1
+Kempton (AW),6:30,Dapper Guest,Tom Queally,George Margarson,17.0,6.0,4.0,7.0,Class 4,12,086408,8.0,Active,Standard / Slow,7f,0,85.0,0.0,0.0,0.125,2.0794415416798357,-85.0,0,1
+Kempton (AW),6:30,Eminency,Cieren Fallon,Stuart Williams,9.0,32.0,6.0,7.0,Class 4,12,435477,13.0,Active,Standard / Slow,7f,0,83.0,0.0,0.0,0.07692307692307693,2.5649493574615367,-83.0,0,1
+Kempton (AW),6:30,Cogitate,Charles Bishop,Eve Johnson Houghton,17.0,41.0,5.0,7.0,Class 4,12,207354,4.4,Active,Standard / Slow,7f,0,83.0,0.0,0.0,0.22727272727272727,1.4816045409242156,-83.0,0,1
+Kempton (AW),6:30,Brosay,Nicola Currie,Charlie Pike,0.0,6.0,4.0,7.0,Class 4,12,560609,21.0,Active,Standard / Slow,7f,0,82.0,0.0,0.0,0.047619047619047616,3.044522437723423,-82.0,0,1
+Kempton (AW),6:30,Orchid,Billy Loughnane,George Boughey,24.0,25.0,4.0,7.0,Class 4,12,54-694,19.5,Active,Standard / Slow,7f,0,81.0,0.0,0.0,0.05128205128205128,2.970414465569701,-81.0,0,1
+Kempton (AW),6:30,Flag Of St George,Kaiya Fraser,Jane Chapple-Hyam,27.0,11.0,5.0,7.0,Class 4,12,025-87,16.5,Active,Standard / Slow,7f,0,80.0,0.0,0.0,0.06060606060606061,2.803360380906535,-80.0,0,1
+Kempton (AW),6:30,Sea Founder,Finley Marsh,Richard Hughes,10.0,30.0,4.0,7.0,Class 4,12,144196,5.0,Active,Standard / Slow,7f,0,77.0,0.0,0.0,0.2,1.6094379124341003,-77.0,0,1
+Kempton (AW),6:30,Longlai,Benoit de la Sayette,George Baker,6.0,16.0,8.0,7.0,Class 4,12,0070-4,26.0,Active,Standard / Slow,7f,0,76.0,0.0,0.0,0.038461538461538464,3.258096538021482,-76.0,0,1
+Kempton (AW),6:30,Arctician,Harry Davies,Simon Dow,0.0,8.0,8.0,7.0,Class 4,12,4-3478,20.0,Active,Standard / Slow,7f,0,75.0,0.0,0.0,0.05,2.995732273553991,-75.0,0,1
+Kempton (AW),6:30,Peter The Wolf,Edward Greatrex,Warren Greatrex,20.0,5.0,4.0,7.0,Class 4,12,10-607,19.5,Active,Standard / Slow,7f,0,73.0,0.0,0.0,0.05128205128205128,2.970414465569701,-73.0,0,1
+Kempton (AW),6:30,Nezeeh,William Cox,Jim & Suzi Best,11.0,9.0,5.0,7.0,Class 4,12,-09088,40.0,Active,Standard / Slow,7f,0,68.0,0.0,0.0,0.025,3.6888794541139363,-68.0,0,1
+Kempton (AW),7:00,Wild Nature,Jack Mitchell,Michael Attwater,12.0,17.0,4.0,7.0,Class 4,11,91-300,8.4,Active,Standard / Slow,7f,0,85.0,0.0,0.0,0.11904761904761904,2.128231705849268,-85.0,0,1
+Kempton (AW),7:00,Philanthropist,George Wood,James Fanshawe,20.0,20.0,4.0,7.0,Class 4,11,-71340,4.6,Active,Standard / Slow,7f,0,84.0,0.0,0.0,0.2173913043478261,1.5260563034950492,-84.0,0,1
+Kempton (AW),7:00,Metal Merchant,David Egan,John Butler,28.0,18.0,6.0,7.0,Class 4,11,0-0004,7.0,Active,Standard / Slow,7f,0,83.0,0.0,0.0,0.14285714285714285,1.9459101490553132,-83.0,0,1
+Kempton (AW),7:00,Chalk Mountain,Alfie Redman(7),Zoe Hawkins,0.0,4.0,6.0,7.0,Class 4,11,-18672,5.6,Active,Standard / Slow,7f,0,82.0,0.0,0.0,0.17857142857142858,1.7227665977411035,-82.0,0,1
+Kempton (AW),7:00,Racingbreaks Ryder,Jason Watson,Charles Hills,24.0,25.0,6.0,7.0,Class 4,11,003-81,19.0,Active,Standard / Slow,7f,0,82.0,0.0,0.0,0.05263157894736842,2.9444389791664403,-82.0,0,1
+Kempton (AW),7:00,Bridget's View,Cieren Fallon,Stuart Williams,9.0,32.0,4.0,7.0,Class 4,11,558776,17.5,Active,Standard / Slow,7f,0,80.0,0.0,0.0,0.05714285714285714,2.8622008809294686,-80.0,0,1
+Kempton (AW),7:00,Kiniro,Billy Loughnane,Dan Horsford,0.0,1.0,4.0,7.0,Class 4,11,1-8028,8.0,Active,Standard / Slow,7f,0,78.0,0.0,0.0,0.125,2.0794415416798357,-78.0,0,1
+Kempton (AW),7:00,Kitaro Kich,Neil Callan,George Baker,6.0,16.0,6.0,7.0,Class 4,11,216-47,22.0,Active,Standard / Slow,7f,0,77.0,0.0,0.0,0.045454545454545456,3.091042453358316,-77.0,0,1
+Kempton (AW),7:00,Lady Mariko,Stevie Donohoe,Dylan Cunha,11.0,28.0,4.0,7.0,Class 4,11,160606,21.0,Active,Standard / Slow,7f,0,75.0,0.0,0.0,0.047619047619047616,3.044522437723423,-75.0,0,1
+Kempton (AW),7:00,How Impressive,Robert Havlin,Hugo Palmer,6.0,34.0,7.0,7.0,Class 4,11,P42900,44.0,Active,Standard / Slow,7f,0,74.0,0.0,0.0,0.022727272727272728,3.784189633918261,-74.0,0,1
+Kempton (AW),7:00,Berry Clever,Silvestre De Sousa,Chris Dwyer,0.0,2.0,5.0,7.0,Class 4,11,214544,12.0,Active,Standard / Slow,7f,0,72.0,0.0,0.0,0.08333333333333333,2.4849066497880004,-72.0,0,1
+Kempton (AW),7:30,Warrior Mode,Dylan Hogan,Sir Mark Prescott Bt,17.0,24.0,4.0,8.0,Class 4,10,4380-3,2.98,Active,Standard / Slow,1m,0,81.0,0.0,0.0,0.33557046979865773,1.091923300517313,-81.0,0,1
+Kempton (AW),7:30,Foreseen,Seamus Cronin(5),Tony Carroll,10.0,48.0,5.0,8.0,Class 4,10,613418,8.4,Active,Standard / Slow,1m,0,79.0,0.0,0.0,0.11904761904761904,2.128231705849268,-79.0,0,1
+Kempton (AW),7:30,Stardancer,Georgia Dobie,Clive Cox,12.0,17.0,4.0,8.0,Class 4,10,237-61,10.5,Active,Standard / Slow,1m,0,77.0,0.0,0.0,0.09523809523809523,2.3513752571634776,-77.0,0,1
+Kempton (AW),7:30,Grey Soul,Jason Watson,Dan Horsford,0.0,1.0,4.0,8.0,Class 4,10,61-411,6.8,Active,Standard / Slow,1m,0,77.0,0.0,0.0,0.14705882352941177,1.916922612182061,-77.0,0,1
+Kempton (AW),7:30,Metallo,David Egan,John Butler,28.0,18.0,5.0,8.0,Class 4,10,046440,4.9,Active,Standard / Slow,1m,0,75.0,0.0,0.0,0.2040816326530612,1.589235205116581,-75.0,0,1
+Kempton (AW),7:30,Kindest Nation,Robert Havlin,Hugo Palmer,6.0,34.0,5.0,8.0,Class 4,10,1496-0,27.0,Active,Standard / Slow,1m,0,73.0,0.0,0.0,0.037037037037037035,3.295836866004329,-73.0,0,1
+Kempton (AW),7:30,I Am Me,Cieren Fallon,Mike Murphy,0.0,7.0,4.0,8.0,Class 4,10,5-3319,20.0,Active,Standard / Slow,1m,0,71.0,0.0,0.0,0.05,2.995732273553991,-71.0,0,1
+Kempton (AW),7:30,Beauty By My Side,Jack Mitchell,Joseph Parr,0.0,4.0,4.0,8.0,Class 4,10,06-000,29.0,Active,Standard / Slow,1m,0,69.0,0.0,0.0,0.034482758620689655,3.367295829986474,-69.0,0,1
+Kempton (AW),7:30,Lili Marleen,Finley Marsh,Jack Jones,8.0,12.0,4.0,8.0,Class 4,10,1-0FP9,50.0,Active,Standard / Slow,1m,0,68.0,0.0,0.0,0.02,3.912023005428146,-68.0,0,1
+Kempton (AW),7:30,Cotswold Cottage,Nicola Currie,Faye Bramley,0.0,3.0,6.0,8.0,Class 4,10,31461-,38.0,Active,Standard / Slow,1m,0,67.0,0.0,0.0,0.02631578947368421,3.6375861597263857,-67.0,0,1
+Kempton (AW),8:00,Final Night,Billy Loughnane,John Butler,28.0,18.0,4.0,8.0,Class 4,9,623602,3.6,Active,Standard / Slow,1m,0,80.0,0.0,0.0,0.2777777777777778,1.2809338454620642,-80.0,0,1
+Kempton (AW),8:00,Gallant,Cieren Fallon,Oli Rix,0.0,6.0,4.0,8.0,Class 4,9,607573,5.7,Active,Standard / Slow,1m,0,78.0,0.0,0.0,0.17543859649122806,1.7404661748405046,-78.0,0,1
+Kempton (AW),8:00,Rogue Allegiance,Harry Davies,James Owen,15.0,48.0,4.0,8.0,Class 4,9,623221,4.6,Active,Standard / Slow,1m,0,77.0,0.0,0.0,0.2173913043478261,1.5260563034950492,-77.0,0,1
+Kempton (AW),8:00,City Of Kings,Stevie Donohoe,Ian Williams,10.0,40.0,6.0,8.0,Class 4,9,516/00,60.0,Active,Standard / Slow,1m,0,75.0,0.0,0.0,0.016666666666666666,4.0943445622221,-75.0,0,1
+Kempton (AW),8:00,Sovereign View,Jason Watson,James Tate,27.0,11.0,3.0,8.0,Class 4,9,1-2634,5.2,Active,Standard / Slow,1m,0,82.0,0.0,0.0,0.1923076923076923,1.6486586255873816,-82.0,0,1
+Kempton (AW),8:00,San Juanito,Robert Havlin,Mike Murphy,0.0,7.0,4.0,8.0,Class 4,9,007-90,55.0,Active,Standard / Slow,1m,0,74.0,0.0,0.0,0.01818181818181818,4.007333185232471,-74.0,0,1
+Kempton (AW),8:00,Dumuji,P J McDonald,Clive Cox,12.0,17.0,3.0,8.0,Class 4,9,1-550,11.5,Active,Standard / Slow,1m,0,77.0,0.0,0.0,0.08695652173913043,2.4423470353692043,-77.0,0,1
+Kempton (AW),8:00,Gunfighter,David Egan,John Butler,28.0,18.0,5.0,8.0,Class 4,9,0-7917,22.5,Active,Standard / Slow,1m,0,69.0,0.0,0.0,0.044444444444444446,3.1135153092103742,-69.0,0,1
+Kempton (AW),8:00,Man Of Desert,Silvestre De Sousa,Chris Dwyer,0.0,2.0,5.0,8.0,Class 4,9,-05742,25.0,Active,Standard / Slow,1m,0,67.0,0.0,0.0,0.04,3.2188758248682006,-67.0,0,1
+Kempton (AW),8:00,Lieutenant Kije,Kaiya Fraser,Tom Ward,11.0,9.0,3.0,8.0,Class 4,9,8326-,27.0,Active,Standard / Slow,1m,0,71.0,0.0,0.0,0.037037037037037035,3.295836866004329,-71.0,0,1
+Kempton (AW),8:30,Cumulonimbus,Neil Callan,George Baker,6.0,16.0,7.0,12.0,Class 3,12,600/8-,48.0,Active,Standard / Slow,1m3f219y,0,88.0,0.0,0.0,0.020833333333333332,3.871201010907891,-88.0,0,1
+Kempton (AW),8:30,The Green Mile,Charles Bishop,Neil Mulholland,0.0,3.0,4.0,12.0,Class 3,12,5-0131,11.0,Active,Standard / Slow,1m3f219y,0,87.0,0.0,0.0,0.09090909090909091,2.3978952727983707,-87.0,0,1
+Kempton (AW),8:30,Bulletin,Harry Davies,Jonathan Portman,0.0,12.0,4.0,12.0,Class 3,12,-32434,6.0,Active,Standard / Slow,1m3f219y,0,87.0,0.0,0.0,0.16666666666666666,1.791759469228055,-87.0,0,1
+Kempton (AW),8:30,Galaxy Star,Harry Vigors(5),Alan King,11.0,9.0,4.0,12.0,Class 3,12,146,60.0,Active,Standard / Slow,1m3f219y,0,86.0,0.0,0.0,0.016666666666666666,4.0943445622221,-86.0,0,1
+Kempton (AW),8:30,Forever Penywern,Edward Greatrex,Warren Greatrex,20.0,5.0,4.0,12.0,Class 3,12,3211-1,13.0,Active,Standard / Slow,1m3f219y,0,86.0,0.0,0.0,0.07692307692307693,2.5649493574615367,-86.0,0,1
+Kempton (AW),8:30,Son Of Man,David Egan,Jim Boyle,0.0,14.0,5.0,12.0,Class 3,12,351230,40.0,Active,Standard / Slow,1m3f219y,0,84.0,0.0,0.0,0.025,3.6888794541139363,-84.0,0,1
+Kempton (AW),8:30,Classical Allusion,Callum Hutchinson,Andrew Balding,15.0,55.0,4.0,12.0,Class 3,12,1-250,29.0,Active,Standard / Slow,1m3f219y,0,83.0,0.0,0.0,0.034482758620689655,3.367295829986474,-83.0,0,1
+Kempton (AW),8:30,Kokbastau,Cieren Fallon,Roger Varian,19.0,27.0,3.0,12.0,Class 3,12,6-31,1.8,Active,Standard / Slow,1m3f219y,0,88.0,0.0,0.0,0.5555555555555556,0.5877866649021191,-88.0,0,1
+Kempton (AW),8:30,Duc De Kent,Stevie Donohoe,Ian Williams,10.0,40.0,6.0,12.0,Class 3,12,8590/6,140.0,Active,Standard / Slow,1m3f219y,0,77.0,0.0,0.0,0.007142857142857143,4.941642422609304,-77.0,0,1
+Kempton (AW),8:30,Must Believe,Benoit de la Sayette,George Baker,6.0,16.0,4.0,12.0,Class 3,12,2-4518,50.0,Active,Standard / Slow,1m3f219y,0,75.0,0.0,0.0,0.02,3.912023005428146,-75.0,0,1
+Kempton (AW),8:30,Dust Cover,Jack Mitchell,Ross Burdon,0.0,6.0,4.0,12.0,Class 3,12,110254,22.0,Active,Standard / Slow,1m3f219y,0,74.0,0.0,0.0,0.045454545454545456,3.091042453358316,-74.0,0,1
+Kempton (AW),8:30,Mathematician,Finley Marsh,Neil Mulholland,0.0,3.0,6.0,12.0,Class 3,12,5121/0,70.0,Active,Standard / Slow,1m3f219y,0,73.0,0.0,0.0,0.014285714285714285,4.248495242049359,-73.0,0,1
+Kempton (AW),9:00,Solanna,Billy Loughnane,John Butler,28.0,18.0,7.0,12.0,Class 5,10,514321,5.1,Active,Standard / Slow,1m3f219y,0,70.0,0.0,0.0,0.19607843137254904,1.62924053973028,-70.0,0,1
+Kempton (AW),9:00,Maestro Del Mar,Silvestre De Sousa,Ismail Mohammed & Jose Santos,0.0,7.0,4.0,12.0,Class 5,10,7040-3,6.8,Active,Standard / Slow,1m3f219y,0,70.0,0.0,0.0,0.14705882352941177,1.916922612182061,-70.0,0,1
+Kempton (AW),9:00,Naasma,Kaiya Fraser,Pat Phelan,0.0,5.0,7.0,12.0,Class 5,10,-45436,34.0,Active,Standard / Slow,1m3f219y,0,68.0,0.0,0.0,0.029411764705882353,3.5263605246161616,-68.0,0,1
+Kempton (AW),9:00,Roland Garros,Alexandra Egan(7),Hayley Burton,0.0,7.0,5.0,12.0,Class 5,10,9-5173,18.0,Active,Standard / Slow,1m3f219y,0,68.0,0.0,0.0,0.05555555555555555,2.8903717578961645,-68.0,0,1
+Kempton (AW),9:00,Star Time,Harry Vigors(5),Alan King,11.0,9.0,5.0,12.0,Class 5,10,/82-58,9.2,Active,Standard / Slow,1m3f219y,0,67.0,0.0,0.0,0.10869565217391305,2.2192034840549946,-67.0,0,1
+Kempton (AW),9:00,Crooked Path,Cieren Fallon,James Owen,15.0,48.0,4.0,12.0,Class 5,10,44800-,2.44,Active,Standard / Slow,1m3f219y,0,65.0,0.0,0.0,0.4098360655737705,0.8919980393051105,-65.0,0,1
+Kempton (AW),9:00,Imperial Decision,Josephine Gordon,Keiran Burke,0.0,4.0,4.0,12.0,Class 5,10,-37230,50.0,Active,Standard / Slow,1m3f219y,0,64.0,0.0,0.0,0.02,3.912023005428146,-64.0,0,1
+Kempton (AW),9:00,Eljowhary,Charles Bishop,Eve Johnson Houghton,17.0,41.0,3.0,12.0,Class 5,10,6640,34.0,Active,Standard / Slow,1m3f219y,0,70.0,0.0,0.0,0.029411764705882353,3.5263605246161616,-70.0,0,1
+Kempton (AW),9:00,Semper Femina,Seamus Cronin(5),Richard Hannon,13.0,54.0,3.0,12.0,Class 5,10,297273,25.0,Active,Standard / Slow,1m3f219y,0,66.0,0.0,0.0,0.04,3.2188758248682006,-66.0,0,1
+Kempton (AW),9:00,Backer Bilk,George Wood,Luke Dace,25.0,4.0,4.0,12.0,Class 5,10,3235-8,80.0,Active,Standard / Slow,1m3f219y,0,56.0,0.0,0.0,0.0125,4.382026634673881,-56.0,0,1
+Kempton (AW),9:00,Maywedance,Jack Mitchell,John O'Shea,0.0,5.0,4.0,12.0,Class 5,10,407133,18.0,Active,Standard / Slow,1m3f219y,0,56.0,0.0,0.0,0.05555555555555555,2.8903717578961645,-56.0,0,1
+Salisbury,2:30,Arctic Tsar,Joe Leavy,Clive Cox,12.0,17.0,2.0,6.0,Class 4,9,86,32.0,Active,Good To Firm,0m6f0y,0,0.0,0.0,0.0,0.03125,3.4657359027997265,0.0,0,0
+Salisbury,2:30,Easy Answer,Callum Shepherd,Michael Bell,5.0,21.0,2.0,6.0,Class 4,9,30,4.4,Active,Good To Firm,0m6f0y,0,0.0,0.0,0.0,0.22727272727272727,1.4816045409242156,0.0,0,0
+Salisbury,2:30,First Mate,Tom Marquand,Eve Johnson Houghton,17.0,41.0,2.0,6.0,Class 4,9,77,12.5,Active,Good To Firm,0m6f0y,0,0.0,0.0,0.0,0.08,2.5257286443082556,0.0,0,0
+Salisbury,2:30,Flick Of An Eye,David Probert,Simon & Ed Crisford,32.0,22.0,2.0,6.0,Class 4,9,,12.5,Active,Good To Firm,0m6f0y,0,0.0,0.0,0.0,0.08,2.5257286443082556,0.0,0,0
+Salisbury,2:30,Gold Reef City,Robbie Downey,Ralph Beckett,15.0,34.0,2.0,6.0,Class 4,9,73,20.0,Active,Good To Firm,0m6f0y,0,0.0,0.0,0.0,0.05,2.995732273553991,0.0,0,0
+Salisbury,2:30,Goodwood Meteor,Rob Hornby,Marcus Tregoning,33.0,6.0,2.0,6.0,Class 4,9,96,28.0,Active,Good To Firm,0m6f0y,0,0.0,0.0,0.0,0.03571428571428571,3.332204510175204,0.0,0,0
+Salisbury,2:30,Hackpen Hill,Kieran Shoemark,Ed Walker,22.0,41.0,2.0,6.0,Class 4,9,84,19.0,Active,Good To Firm,0m6f0y,0,0.0,0.0,0.0,0.05263157894736842,2.9444389791664403,0.0,0,0
+Salisbury,2:30,Ongombo,Paddy Bradley,Charlie Fellowes,18.0,11.0,2.0,6.0,Class 4,9,86,21.0,Active,Good To Firm,0m6f0y,0,0.0,0.0,0.0,0.047619047619047616,3.044522437723423,0.0,0,0
+Salisbury,2:30,Saturn Star,Hector Crouch,Ralph Beckett,15.0,34.0,2.0,6.0,Class 4,9,,4.1,Active,Good To Firm,0m6f0y,0,0.0,0.0,0.0,0.24390243902439027,1.410986973710262,0.0,0,0
+Salisbury,2:30,Forbidden Fire,Oisin Murphy,Andrew Balding,15.0,55.0,2.0,6.0,Class 4,9,,3.9,Active,Good To Firm,0m6f0y,0,0.0,0.0,0.0,0.25641025641025644,1.3609765531356006,0.0,0,0
+Salisbury,3:00,So Darn Hot,Kieran Shoemark,Ed Walker,22.0,41.0,4.0,6.0,Class 3,7,-06705,3.65,Active,Good To Firm,0m6f0y,0,90.0,0.0,0.0,0.273972602739726,1.2947271675944,-90.0,0,1
+Salisbury,3:00,Dr Strangelove,Tom Marquand,Oliver Cole,21.0,14.0,4.0,6.0,Class 3,7,7-4322,10.5,Active,Good To Firm,0m6f0y,0,86.0,0.0,0.0,0.09523809523809523,2.3513752571634776,-86.0,0,1
+Salisbury,3:00,Dandana,David Probert,Simon & Ed Crisford,32.0,22.0,3.0,6.0,Class 3,7,140-04,18.5,Active,Good To Firm,0m6f0y,0,89.0,0.0,0.0,0.05405405405405406,2.917770732084279,-89.0,0,1
+Salisbury,3:00,Regional Rock,Hector Crouch,Ralph Beckett,15.0,34.0,3.0,6.0,Class 3,7,12-23,5.7,Active,Good To Firm,0m6f0y,0,85.0,0.0,0.0,0.17543859649122806,1.7404661748405046,-85.0,0,1
+Salisbury,3:00,Golden Brown,Rob Hornby,Ed Walker,22.0,41.0,3.0,6.0,Class 3,7,02-218,7.2,Active,Good To Firm,0m6f0y,0,83.0,0.0,0.0,0.1388888888888889,1.9740810260220096,-83.0,0,1
+Salisbury,3:00,An Outlaw's Grace,Sean Levey,Richard Hannon,13.0,54.0,4.0,6.0,Class 3,7,620354,17.5,Active,Good To Firm,0m6f0y,0,78.0,0.0,0.0,0.05714285714285714,2.8622008809294686,-78.0,0,1
+Salisbury,3:00,Supreme King,Oisin Murphy,David Evans,10.0,10.0,6.0,6.0,Class 3,7,512227,5.5,Active,Good To Firm,0m6f0y,0,78.0,0.0,0.0,0.18181818181818182,1.7047480922384253,-78.0,0,1
+Salisbury,3:30,Dandyman Dan,Kieran Shoemark,Oliver Cole,21.0,14.0,2.0,8.0,Class 1,6,15943,5.0,Active,Good To Firm,1m0f0y,0,96.0,0.0,0.0,0.2,1.6094379124341003,-96.0,0,1
+Salisbury,3:30,Firehorse,Tom Marquand,S Woods,0.0,6.0,2.0,8.0,Class 1,6,15,20.0,Active,Good To Firm,1m0f0y,0,94.0,0.0,0.0,0.05,2.995732273553991,-94.0,0,1
+Salisbury,3:30,My A'Ali Baba,Callum Shepherd,David Evans,10.0,10.0,2.0,8.0,Class 1,6,1530,10.0,Active,Good To Firm,1m0f0y,0,83.0,0.0,0.0,0.1,2.302585092994046,-83.0,0,1
+Salisbury,3:30,Quest For Stars,Connor Planas,Charlie Appleby,40.0,25.0,2.0,8.0,Class 1,6,11,3.15,Active,Good To Firm,1m0f0y,0,93.0,0.0,0.0,0.31746031746031744,1.1474024528375417,-93.0,0,1
+Salisbury,3:30,Rafe's Da Man,Pat Dobbs,Richard Hannon,13.0,54.0,2.0,8.0,Class 1,6,4431,15.0,Active,Good To Firm,1m0f0y,0,91.0,0.0,0.0,0.06666666666666667,2.70805020110221,-91.0,0,1
+Salisbury,3:30,Rocket Boy,Marco Ghiani,Marco Botti,13.0,15.0,2.0,8.0,Class 1,6,1,16.5,Active,Good To Firm,1m0f0y,0,0.0,0.0,0.0,0.06060606060606061,2.803360380906535,0.0,0,0
+Salisbury,3:30,Velociraptor,David Probert,Hugo Palmer,6.0,34.0,2.0,8.0,Class 1,6,31,10.0,Active,Good To Firm,1m0f0y,0,87.0,0.0,0.0,0.1,2.302585092994046,-87.0,0,1
+Salisbury,3:30,Scommessa Sicura,Oisin Murphy,Andrew Balding,15.0,55.0,2.0,8.0,Class 1,6,2221,2.12,Active,Good To Firm,1m0f0y,0,91.0,0.0,0.0,0.4716981132075471,0.7514160886839212,-91.0,0,1
+Salisbury,4:00,Bold Shout,Hector Crouch,Clive Cox,12.0,17.0,3.0,6.0,Class 4,7,44,2.3,Active,Good To Firm,0m6f0y,0,0.0,0.0,0.0,0.4347826086956522,0.8329091229351039,0.0,0,0
+Salisbury,4:00,It's A Mugs Game,Sean Levey,Joe Tickle,25.0,8.0,3.0,6.0,Class 4,7,0-4,7.5,Active,Good To Firm,0m6f0y,0,0.0,0.0,0.0,0.13333333333333333,2.0149030205422647,0.0,0,0
+Salisbury,4:00,Kodicall,Taylor Fisher,J S Moore,13.0,15.0,3.0,6.0,Class 4,7,52,28.0,Active,Good To Firm,0m6f0y,0,0.0,0.0,0.0,0.03571428571428571,3.332204510175204,0.0,0,0
+Salisbury,4:00,Annie Sioux,Tom Marquand,Clive Cox,12.0,17.0,3.0,6.0,Class 4,7,,9.6,Active,Good To Firm,0m6f0y,0,0.0,0.0,0.0,0.10416666666666667,2.2617630984737906,0.0,0,0
+Salisbury,4:00,Gris De Chine,Callum Shepherd,Zoe Hawkins,0.0,4.0,3.0,6.0,Class 4,7,5374,19.0,Active,Good To Firm,0m6f0y,0,59.0,0.0,0.0,0.05263157894736842,2.9444389791664403,-59.0,0,1
+Salisbury,4:00,Just Dreaming,Oliver Carmichael(7),Eve Johnson Houghton,17.0,41.0,3.0,6.0,Class 4,7,5-75,65.0,Active,Good To Firm,0m6f0y,0,41.0,0.0,0.0,0.015384615384615385,4.174387269895637,-41.0,0,1
+Salisbury,4:00,Remi Mae,Oisin Murphy,Andrew Balding,15.0,55.0,3.0,6.0,Class 4,7,2-303D,2.68,Active,Good To Firm,0m6f0y,0,69.0,0.0,0.0,0.3731343283582089,0.9858167945227654,-69.0,0,1
+Salisbury,4:30,Alla Stella,Luke Morris,Sir Mark Prescott Bt,17.0,24.0,4.0,10.0,Class 1,7,/36522,10.0,Active,Good To Firm,1m1f201y,0,99.0,0.0,0.0,0.1,2.302585092994046,-99.0,0,1
+Salisbury,4:30,Goldilocks Cen,Tom Marquand,Archie Watson,3.0,29.0,4.0,10.0,Class 1,7,21-059,48.0,Active,Good To Firm,1m1f201y,0,86.0,0.0,0.0,0.020833333333333332,3.871201010907891,-86.0,0,1
+Salisbury,4:30,Regal Charm,Rob Hornby,Henry Candy,40.0,5.0,4.0,10.0,Class 1,7,302-12,11.5,Active,Good To Firm,1m1f201y,0,99.0,0.0,0.0,0.08695652173913043,2.4423470353692043,-99.0,0,1
+Salisbury,4:30,Annastarzy,Joe Leavy,Richard Hannon,13.0,54.0,3.0,10.0,Class 1,7,481116,28.0,Active,Good To Firm,1m1f201y,0,88.0,0.0,0.0,0.03571428571428571,3.332204510175204,-88.0,0,1
+Salisbury,4:30,Felicitas,Kieran Shoemark,Ed Walker,22.0,41.0,3.0,10.0,Class 1,7,1-127,2.66,Active,Good To Firm,1m1f201y,0,103.0,0.0,0.0,0.37593984962406013,0.9783261227936078,-103.0,0,1
+Salisbury,4:30,Miss Scott,Oisin Murphy,John & Thady Gosden,11.0,28.0,3.0,10.0,Class 1,7,1-21,3.0,Active,Good To Firm,1m1f201y,0,92.0,0.0,0.0,0.3333333333333333,1.0986122886681098,-92.0,0,1
+Salisbury,4:30,On Message,Hector Crouch,Ralph Beckett,15.0,34.0,3.0,10.0,Class 1,7,1-1374,14.5,Active,Good To Firm,1m1f201y,0,99.0,0.0,0.0,0.06896551724137931,2.6741486494265287,-99.0,0,1
+Salisbury,5:00,Londoner,Tom Marquand,Daniel & Claire Kubler,40.0,15.0,6.0,10.0,Class 4,7,159542,4.9,Active,Good To Firm,1m1f201y,0,86.0,0.0,0.0,0.2040816326530612,1.589235205116581,-86.0,0,1
+Salisbury,5:00,Fox Avatar,Oisin Murphy,Roger Varian,19.0,27.0,5.0,10.0,Class 4,7,151-67,4.1,Active,Good To Firm,1m1f201y,0,83.0,0.0,0.0,0.24390243902439027,1.410986973710262,-83.0,0,1
+Salisbury,5:00,Miss Tonnerre,Kieran Shoemark,Ed Walker,22.0,41.0,4.0,10.0,Class 4,7,7704-0,7.4,Active,Good To Firm,1m1f201y,0,83.0,0.0,0.0,0.13513513513513511,2.0014800002101243,-83.0,0,1
+Salisbury,5:00,Almekarem,Luke Morris,Sir Mark Prescott Bt,17.0,24.0,4.0,10.0,Class 4,7,364-17,6.2,Active,Good To Firm,1m1f201y,0,78.0,0.0,0.0,0.16129032258064516,1.824549292051046,-78.0,0,1
+Salisbury,5:00,Eupator,Sean Levey,Richard Hannon,13.0,54.0,4.0,10.0,Class 4,7,942563,11.0,Active,Good To Firm,1m1f201y,0,77.0,0.0,0.0,0.09090909090909091,2.3978952727983707,-77.0,0,1
+Salisbury,5:00,Carnival Day,Pat Cosgrave,Jim Boyle,0.0,14.0,5.0,10.0,Class 4,7,24-374,8.6,Active,Good To Firm,1m1f201y,0,77.0,0.0,0.0,0.11627906976744186,2.151762203259462,-77.0,0,1
+Salisbury,5:00,Mythical Bird,Rob Hornby,Hughie Morrison,0.0,4.0,4.0,10.0,Class 4,7,-13003,11.0,Active,Good To Firm,1m1f201y,0,74.0,0.0,0.0,0.09090909090909091,2.3978952727983707,-74.0,0,1
+Gowran Park,2:22,If Not For Grace,Leigh Roche,Liam P Cusack,0.0,1.0,4.0,8.0,,15,08,150.0,Active,Good,1m,0,0.0,0.0,0.0,0.006666666666666667,5.0106352940962555,0.0,0,0
+Gowran Park,2:22,Contrite,Colin Keane,D K Weld,15.0,13.0,3.0,8.0,,15,4-93,7.0,Active,Good,1m,0,66.0,0.0,0.0,0.14285714285714285,1.9459101490553132,-66.0,0,1
+Gowran Park,2:22,Jp's Express,Wesley Joyce(3),Michael Mulvany,8.0,13.0,3.0,8.0,,15,600315,10.0,Active,Good,1m,0,70.0,0.0,0.0,0.1,2.302585092994046,-70.0,0,1
+Gowran Park,2:22,Passage Of Power,Dylan Browne McMonagle,Joseph Patrick O'Brien,11.0,61.0,3.0,8.0,,15,35,7.8,Active,Good,1m,0,0.0,0.0,0.0,0.12820512820512822,2.0541237336955462,0.0,0,0
+Gowran Park,2:22,Star Of Beauty,W J Lee,K J Condon,25.0,4.0,3.0,8.0,,15,502236,15.0,Active,Good,1m,0,76.0,0.0,0.0,0.06666666666666667,2.70805020110221,-76.0,0,1
+Gowran Park,2:22,Bill Silvers,Jamie Orr(7),William Durkan,0.0,10.0,6.0,8.0,,15,205P-0,13.5,Active,Good,1m,0,74.0,0.0,0.0,0.07407407407407407,2.6026896854443837,-74.0,0,1
+Gowran Park,2:22,Macinamillion,Mel Sheridan(7),Raymond Hurley,0.0,0.0,6.0,8.0,,15,310/0-,32.0,Active,Good,1m,0,54.0,0.0,0.0,0.03125,3.4657359027997265,-54.0,0,1
+Gowran Park,2:22,Minaun View,Patrick McGettigan(5),Adrian McGuinness,5.0,22.0,4.0,8.0,,15,281127,5.8,Active,Good,1m,0,65.0,0.0,0.0,0.1724137931034483,1.7578579175523736,-65.0,0,1
+Gowran Park,2:22,Hello Stacia,Luke McAteer,James Dowling,0.0,1.0,3.0,8.0,,15,37,25.0,Active,Good,1m,0,0.0,0.0,0.0,0.04,3.2188758248682006,0.0,0,0
+Gowran Park,2:22,Land Of The Giants,Ronan Whelan,Adrian McGuinness,5.0,22.0,4.0,8.0,,15,037360,8.8,Active,Good,1m,0,59.0,0.0,0.0,0.11363636363636363,2.174751721484161,-59.0,0,1
+Gowran Park,2:22,May Night,Keithen Kennedy(5),Raymond Hurley,0.0,0.0,8.0,8.0,,15,50703-,32.0,Active,Good,1m,0,52.0,0.0,0.0,0.03125,3.4657359027997265,-52.0,0,1
+Gowran Park,2:22,Mythical Rock,Sean Davis,C Byrnes,0.0,14.0,5.0,8.0,,15,176202,7.8,Active,Good,1m,0,65.0,0.0,0.0,0.12820512820512822,2.0541237336955462,-65.0,0,1
+Gowran Park,2:22,Buttermere Ridge,Robbie Colgan,Oliver McKiernan,18.0,11.0,5.0,8.0,,15,0-9740,22.0,Active,Good,1m,0,62.0,0.0,0.0,0.045454545454545456,3.091042453358316,-62.0,0,1
+Gowran Park,2:22,Liberate,Chris Hayes,Denis Gerard Hogan,4.0,28.0,4.0,8.0,,15,090559,37.5,Active,Good,1m,0,65.0,0.0,0.0,0.02666666666666667,3.624340932976365,-65.0,0,1
+Gowran Park,2:22,Zitkala Sa,Shane Foley,E Sheehy,0.0,3.0,3.0,8.0,,15,66036,32.0,Active,Good,1m,0,59.0,0.0,0.0,0.03125,3.4657359027997265,-59.0,0,1
+Gowran Park,2:22,Countertop,Terry Casey(7),Michael Mulvany,8.0,13.0,3.0,8.0,,15,00-050,25.0,Active,Good,1m,0,46.0,0.0,0.0,0.04,3.2188758248682006,-46.0,0,1
+Gowran Park,2:22,Slight Of Foot,Reese Holohan(7),R P Cody,13.0,8.0,3.0,8.0,,15,-69409,29.0,Active,Good,1m,0,66.0,0.0,0.0,0.034482758620689655,3.367295829986474,-66.0,0,1
+Gowran Park,2:22,Hastily,,Tom McGuinness,50.0,2.0,7.0,8.0,,15,9-0009,47.5,Active,Good,1m,0,37.0,0.0,0.0,0.021052631578947368,3.8607297110405954,-37.0,0,1
+Gowran Park,2:52,Just One Show,W J Lee,Jack Foley,0.0,1.0,2.0,7.0,,16,25,8.4,Active,Good,7f,0,0.0,0.0,0.0,0.11904761904761904,2.128231705849268,0.0,0,0
+Gowran Park,2:52,Feel The Sting,Gary Carroll,A Oliver,33.0,6.0,2.0,7.0,,16,,38.0,Active,Good,7f,0,0.0,0.0,0.0,0.02631578947368421,3.6375861597263857,0.0,0,0
+Gowran Park,2:52,Stay Curious,Gavin Ryan,Patrick T Foley,20.0,5.0,2.0,7.0,,16,79,23.0,Active,Good,7f,0,0.0,0.0,0.0,0.043478260869565216,3.1354942159291497,0.0,0,0
+Gowran Park,2:52,This That,Colin Keane,G M Lyons,9.0,11.0,2.0,7.0,,16,4,7.0,Active,Good,7f,0,0.0,0.0,0.0,0.14285714285714285,1.9459101490553132,0.0,0,0
+Gowran Park,2:52,Citrus Springs,Dylan Browne McMonagle,Joseph Patrick O'Brien,11.0,61.0,2.0,7.0,,16,62,5.0,Active,Good,7f,0,0.0,0.0,0.0,0.2,1.6094379124341003,0.0,0,0
+Gowran Park,2:52,Battle Ready,Chris Hayes,Noel Meade,4.0,26.0,2.0,7.0,,16,,27.0,Active,Good,7f,0,0.0,0.0,0.0,0.037037037037037035,3.295836866004329,0.0,0,0
+Gowran Park,2:52,Mirren,Luke McAteer,David Marnane,0.0,6.0,2.0,7.0,,16,5,5.5,Active,Good,7f,0,0.0,0.0,0.0,0.18181818181818182,1.7047480922384253,0.0,0,0
+Gowran Park,2:52,Rock On Johnny,Ronan Whelan,Adrian McGuinness,5.0,22.0,2.0,7.0,,16,8,30.0,Active,Good,7f,0,0.0,0.0,0.0,0.03333333333333333,3.4011973816621555,0.0,0,0
+Gowran Park,2:52,Scotty Cameron,Robbie Colgan,Kevin Thomas Coleman,13.0,16.0,2.0,7.0,,16,00,200.0,Active,Good,7f,0,0.0,0.0,0.0,0.005,5.298317366548036,0.0,0,0
+Gowran Park,2:52,Snapequus,Declan McDonogh,Joseph Patrick O'Brien,11.0,61.0,2.0,7.0,,16,,19.0,Active,Good,7f,0,0.0,0.0,0.0,0.05263157894736842,2.9444389791664403,0.0,0,0
+Gowran Park,2:52,Not You Too,Donagh O'Connor,M D O'Callaghan,15.0,13.0,2.0,7.0,,16,2,5.8,Active,Good,7f,0,0.0,0.0,0.0,0.1724137931034483,1.7578579175523736,0.0,0,0
+Gowran Park,2:52,Closefield Beau,Jamie Powell,Daniel McLoughlin,0.0,5.0,2.0,7.0,,16,0,120.0,Active,Good,7f,0,0.0,0.0,0.0,0.008333333333333333,4.787491742782046,0.0,0,0
+Gowran Park,2:52,Dragon Scales,Nathan Crosse,Daniel McLoughlin,0.0,5.0,2.0,7.0,,16,,26.0,Active,Good,7f,0,0.0,0.0,0.0,0.038461538461538464,3.258096538021482,0.0,0,0
+Gowran Park,2:52,Summer Sent You,Shane Foley,K J Condon,25.0,4.0,2.0,7.0,,16,,46.0,Active,Good,7f,0,0.0,0.0,0.0,0.021739130434782608,3.828641396489095,0.0,0,0
+Gowran Park,2:52,Arizonaneargalway,Mel Sheridan(7),Denis Gerard Hogan,4.0,28.0,2.0,7.0,,16,08,95.0,Active,Good,7f,0,0.0,0.0,0.0,0.010526315789473684,4.553876891600541,0.0,0,0
+Gowran Park,2:52,Miss Twilight,Andrew Slattery,Rory Anthony Devine,0.0,1.0,2.0,7.0,,16,3,42.5,Active,Good,7f,0,0.0,0.0,0.0,0.023529411764705882,3.7495040759303713,0.0,0,0
+Gowran Park,2:52,Cudawudashuda,,G M Lyons,9.0,11.0,2.0,7.0,,16,6,45.0,Active,Good,7f,0,0.0,0.0,0.0,0.022222222222222223,3.8066624897703196,0.0,0,0
+Gowran Park,2:52,Shenata,Ben Coen,J P Murtagh,5.0,20.0,2.0,7.0,,16,6,9.8,Active,Good,7f,0,0.0,0.0,0.0,0.1020408163265306,2.2823823856765264,0.0,0,0
+Gowran Park,2:52,Williamsburg,,David Marnane,0.0,6.0,2.0,7.0,,16,7,50.0,Active,Good,7f,0,0.0,0.0,0.0,0.02,3.912023005428146,0.0,0,0
+Gowran Park,3:22,Alfred Tennyson,Chris Hayes,Denis Gerard Hogan,4.0,28.0,4.0,7.0,,7,206031,7.4,Active,Good,7f,0,76.0,0.0,0.0,0.13513513513513511,2.0014800002101243,-76.0,0,1
+Gowran Park,3:22,Pretty Omagh Girl,Ben Coen,A Oliver,33.0,6.0,4.0,7.0,,7,424-10,7.8,Active,Good,7f,0,83.0,0.0,0.0,0.12820512820512822,2.0541237336955462,-83.0,0,1
+Gowran Park,3:22,Little Empire,Patrick McGettigan(5),Anthony McCann,17.0,6.0,6.0,7.0,,7,335426,4.4,Active,Good,7f,0,82.0,0.0,0.0,0.22727272727272727,1.4816045409242156,-82.0,0,1
+Gowran Park,3:22,Exquisite Acclaim,Dylan Browne McMonagle,Adrian McGuinness,5.0,22.0,7.0,7.0,,7,407360,11.5,Active,Good,7f,0,80.0,0.0,0.0,0.08695652173913043,2.4423470353692043,-80.0,0,1
+Gowran Park,3:22,Indigo Dream,Shane Foley,Ross O'Sullivan,4.0,25.0,4.0,7.0,,7,220847,6.2,Active,Good,7f,0,80.0,0.0,0.0,0.16129032258064516,1.824549292051046,-80.0,0,1
+Gowran Park,3:22,Ohailbhic,Ronan Whelan,John James Feane,0.0,4.0,5.0,7.0,,7,-83117,14.0,Active,Good,7f,0,78.0,0.0,0.0,0.07142857142857142,2.6390573296152584,-78.0,0,1
+Gowran Park,3:22,Lohoobb,W J Lee,M C Grassick,0.0,5.0,3.0,7.0,,7,525248,4.1,Active,Good,7f,0,75.0,0.0,0.0,0.24390243902439027,1.410986973710262,-75.0,0,1
+Gowran Park,3:52,Hollys Graces,Colin Keane,Henry De Bromhead,11.0,37.0,4.0,9.5,Class 1,8,970-82,55.0,Active,Good,1m1f100y,0,85.0,0.0,0.0,0.01818181818181818,4.007333185232471,-85.0,0,1
+Gowran Park,3:52,Lemsairbat,Dylan Browne McMonagle,Joseph Patrick O'Brien,11.0,61.0,5.0,9.5,Class 1,8,5-2523,3.5,Active,Good,1m1f100y,0,98.0,0.0,0.0,0.2857142857142857,1.252762968495368,-98.0,0,1
+Gowran Park,3:52,Subsonic,Ben Coen,J P Murtagh,5.0,20.0,4.0,9.5,Class 1,8,71-387,14.5,Active,Good,1m1f100y,0,94.0,0.0,0.0,0.06896551724137931,2.6741486494265287,-94.0,0,1
+Gowran Park,3:52,Classiest,Ronan Whelan,A P O'Brien,26.0,35.0,3.0,9.5,Class 1,8,1-,12.0,Active,Good,1m1f100y,0,0.0,0.0,0.0,0.08333333333333333,2.4849066497880004,0.0,0,0
+Gowran Park,3:52,Minerva,Wayne Lordan,A P O'Brien,26.0,35.0,3.0,9.5,Class 1,8,2431-6,10.0,Active,Good,1m1f100y,0,101.0,0.0,0.0,0.1,2.302585092994046,-101.0,0,1
+Gowran Park,3:52,Moonlit Sun,Shane Foley,Mrs John Harrington,7.0,28.0,3.0,9.5,Class 1,8,314,8.6,Active,Good,1m1f100y,0,90.0,0.0,0.0,0.11627906976744186,2.151762203259462,-90.0,0,1
+Gowran Park,3:52,Skydance,W J Lee,W McCreery,25.0,12.0,3.0,9.5,Class 1,8,265-13,4.2,Active,Good,1m1f100y,0,105.0,0.0,0.0,0.23809523809523808,1.4350845252893227,-105.0,0,1
+Gowran Park,3:52,Star Performer,Declan McDonogh,Joseph Patrick O'Brien,11.0,61.0,3.0,9.5,Class 1,8,1,8.0,Active,Good,1m1f100y,0,0.0,0.0,0.0,0.125,2.0794415416798357,0.0,0,0
+Gowran Park,4:22,Dallas Star,Donagh O'Connor,Robson De Aguiar,11.0,9.0,5.0,12.5,,9,332547,18.0,Active,Good,1m4f100y,0,100.0,0.0,0.0,0.05555555555555555,2.8903717578961645,-100.0,0,1
+Gowran Park,4:22,Fixation,Ben Coen,J P Murtagh,5.0,20.0,4.0,12.5,,9,2-2710,4.4,Active,Good,1m4f100y,0,90.0,0.0,0.0,0.22727272727272727,1.4816045409242156,-90.0,0,1
+Gowran Park,4:22,Royal Hollow,Andrew Slattery,Andrew Slattery,9.0,32.0,8.0,12.5,,9,104-26,10.0,Active,Good,1m4f100y,0,90.0,0.0,0.0,0.1,2.302585092994046,-90.0,0,1
+Gowran Park,4:22,Marazion,Shane Foley,Mrs John Harrington,7.0,28.0,4.0,12.5,,9,7-1266,12.5,Active,Good,1m4f100y,0,89.0,0.0,0.0,0.08,2.5257286443082556,-89.0,0,1
+Gowran Park,4:22,War Rooms,Colin Keane,Gerard Keane,17.0,6.0,5.0,12.5,,9,70-801,7.8,Active,Good,1m4f100y,0,89.0,0.0,0.0,0.12820512820512822,2.0541237336955462,-89.0,0,1
+Gowran Park,4:22,Obscenity,Dylan Browne McMonagle,Joseph Patrick O'Brien,11.0,61.0,4.0,12.5,,9,-31210,5.7,Active,Good,1m4f100y,0,86.0,0.0,0.0,0.17543859649122806,1.7404661748405046,-86.0,0,1
+Gowran Park,4:22,Star Harbour,Declan McDonogh,Adrian McGuinness,5.0,22.0,8.0,12.5,,9,504255,13.0,Active,Good,1m4f100y,0,86.0,0.0,0.0,0.07692307692307693,2.5649493574615367,-86.0,0,1
+Gowran Park,4:22,Navy Waters,W J Lee,W McCreery,25.0,12.0,5.0,12.5,,9,8-3545,4.0,Active,Good,1m4f100y,0,85.0,0.0,0.0,0.25,1.3862943611198906,-85.0,0,1
+Gowran Park,4:22,Daboya,Reese Holohan(7),R Donohoe,0.0,3.0,5.0,12.5,,9,-05511,15.0,Active,Good,1m4f100y,0,80.0,0.0,0.0,0.06666666666666667,2.70805020110221,-80.0,0,1
+Gowran Park,4:22,Sea Coral,Keithen Kennedy(5),Mrs John Harrington,7.0,28.0,4.0,12.5,,9,0-0033,17.5,Active,Good,1m4f100y,0,80.0,0.0,0.0,0.05714285714285714,2.8622008809294686,-80.0,0,1
+Gowran Park,4:22,Ephesus,Jared Huggan(10),Denis Gerard Hogan,4.0,28.0,5.0,12.5,,9,100-98,24.0,Active,Good,1m4f100y,0,76.0,0.0,0.0,0.041666666666666664,3.1780538303479458,-76.0,0,1
+Gowran Park,4:52,Believe Again,James Ryan,Seamus G O'Donnell,0.0,1.0,5.0,9.5,,14,00,1000.0,Active,Good,1m1f100y,0,0.0,0.0,0.0,0.001,6.907755278982137,0.0,0,0
+Gowran Park,4:52,Highlander Addict,Alan Persse(5),Patrick J Flynn,0.0,5.0,5.0,9.5,,14,8,36.0,Active,Good,1m1f100y,0,0.0,0.0,0.0,0.027777777777777776,3.58351893845611,0.0,0,0
+Gowran Park,4:52,Lonelyharbourwall,Chris Hayes,D K Weld,15.0,13.0,4.0,9.5,,14,,120.0,Active,Good,1m1f100y,0,0.0,0.0,0.0,0.008333333333333333,4.787491742782046,0.0,0,0
+Gowran Park,4:52,Gliondar,Dylan Browne McMonagle,Joseph Patrick O'Brien,11.0,61.0,3.0,9.5,,14,2,1.45,Active,Good,1m1f100y,0,0.0,0.0,0.0,0.6896551724137931,0.371563556432483,0.0,0,0
+Gowran Park,4:52,Jumpingthegun,Rory Cleary,Gordon Elliott,8.0,49.0,3.0,9.5,,14,743,34.0,Active,Good,1m1f100y,0,80.0,0.0,0.0,0.029411764705882353,3.5263605246161616,-80.0,0,1
+Gowran Park,4:52,Karrygrant,Ben Coen,J P Murtagh,5.0,20.0,3.0,9.5,,14,324532,7.6,Active,Good,1m1f100y,0,79.0,0.0,0.0,0.13157894736842105,2.028148247292285,-79.0,0,1
+Gowran Park,4:52,Lord Darragh,Luke McAteer,Rory Anthony Devine,0.0,1.0,3.0,9.5,,14,6,36.0,Active,Good,1m1f100y,0,0.0,0.0,0.0,0.027777777777777776,3.58351893845611,0.0,0,0
+Gowran Park,4:52,One Cool County,Conor Cusack(7),P J F Murphy,33.0,3.0,3.0,9.5,,14,6,220.0,Active,Good,1m1f100y,0,0.0,0.0,0.0,0.004545454545454545,5.393627546352362,0.0,0,0
+Gowran Park,4:52,Rock Of Claremont,W J Lee,A Oliver,33.0,6.0,3.0,9.5,,14,53,18.0,Active,Good,1m1f100y,0,0.0,0.0,0.0,0.05555555555555555,2.8903717578961645,0.0,0,0
+Gowran Park,4:52,Yogini,Gavin Ryan,Donnacha Aidan O'Brien,0.0,4.0,3.0,9.5,,14,62,15.5,Active,Good,1m1f100y,0,0.0,0.0,0.0,0.06451612903225806,2.740840023925201,0.0,0,0
+Gowran Park,4:52,Blue Orquidea,Alan Casey(7),Denis Gerard Hogan,4.0,28.0,3.0,9.5,,14,50,48.0,Active,Good,1m1f100y,0,0.0,0.0,0.0,0.020833333333333332,3.871201010907891,0.0,0,0
+Gowran Park,4:52,Salamina,Declan McDonogh,Joseph Patrick O'Brien,11.0,61.0,3.0,9.5,,14,,50.0,Active,Good,1m1f100y,0,0.0,0.0,0.0,0.02,3.912023005428146,0.0,0,0
+Gowran Park,4:52,Socratea,Ronan Whelan,W McCreery,25.0,12.0,3.0,9.5,,14,7,35.0,Active,Good,1m1f100y,0,0.0,0.0,0.0,0.02857142857142857,3.5553480614894135,0.0,0,0
+Gowran Park,4:52,Storm Petrel,Gary Halpin,Ms M McDowall,0.0,0.0,3.0,9.5,,14,0-43,26.0,Active,Good,1m1f100y,0,77.0,0.0,0.0,0.038461538461538464,3.258096538021482,-77.0,0,1
+Gowran Park,4:52,Xirivella,Colin Keane,Noel Meade,4.0,26.0,3.0,9.5,,14,63,24.0,Active,Good,1m1f100y,0,0.0,0.0,0.0,0.041666666666666664,3.1780538303479458,0.0,0,0
+Gowran Park,5:22,She's Ideal,Sam Coen(5),Adrian McGuinness,5.0,22.0,4.0,9.5,,16,438771,5.0,Active,Good,1m1f100y,0,60.0,0.0,0.0,0.2,1.6094379124341003,-60.0,0,1
+Gowran Park,5:22,Keilah,Jack Cleary(5),Mark Michael McNiff,0.0,6.0,6.0,9.5,,16,632U-7,20.0,Active,Good,1m1f100y,0,58.0,0.0,0.0,0.05,2.995732273553991,-58.0,0,1
+Gowran Park,5:22,Perfect Judgement,Ronan Whelan,P J F Murphy,33.0,3.0,5.0,9.5,,16,477750,13.0,Active,Good,1m1f100y,0,58.0,0.0,0.0,0.07692307692307693,2.5649493574615367,-58.0,0,1
+Gowran Park,5:22,William F Browne,Gary Carroll,Paul W Flynn,0.0,20.0,4.0,9.5,,16,-03787,13.0,Active,Good,1m1f100y,0,56.0,0.0,0.0,0.07692307692307693,2.5649493574615367,-56.0,0,1
+Gowran Park,5:22,Giselles Defence,Sean Davis,Sean Davis,33.0,3.0,6.0,9.5,,16,005905,15.0,Active,Good,1m1f100y,0,53.0,0.0,0.0,0.06666666666666667,2.70805020110221,-53.0,0,1
+Gowran Park,5:22,Thompson Gunner,Patrick McGettigan(5),Cian Hughes,20.0,5.0,5.0,9.5,,16,44-150,19.0,Active,Good,1m1f100y,0,51.0,0.0,0.0,0.05263157894736842,2.9444389791664403,-51.0,0,1
+Gowran Park,5:22,Omissions,Dylan Browne McMonagle,Eoin Griffin,14.0,7.0,3.0,9.5,,16,9-09,32.0,Active,Good,1m1f100y,0,58.0,0.0,0.0,0.03125,3.4657359027997265,-58.0,0,1
+Gowran Park,5:22,No More Hiding,W J Lee,A Oliver,33.0,6.0,3.0,9.5,,16,70-958,14.5,Active,Good,1m1f100y,0,56.0,0.0,0.0,0.06896551724137931,2.6741486494265287,-56.0,0,1
+Gowran Park,5:22,Shelbourne Flyer,Sadhbh Tormey(7),Noel Meade,4.0,26.0,5.0,9.5,,16,00-607,24.0,Active,Good,1m1f100y,0,48.0,0.0,0.0,0.041666666666666664,3.1780538303479458,-48.0,0,1
+Gowran Park,5:22,Lohengrin,Siobhan Rutledge,E D Delany,0.0,2.0,6.0,9.5,,16,000000,32.0,Active,Good,1m1f100y,0,47.0,0.0,0.0,0.03125,3.4657359027997265,-47.0,0,1
+Gowran Park,5:22,Onyeisi,Ben Coen,Karl Thornton,50.0,2.0,3.0,9.5,,16,707407,22.0,Active,Good,1m1f100y,0,55.0,0.0,0.0,0.045454545454545456,3.091042453358316,-55.0,0,1
+Gowran Park,5:22,Cameclose,James Ryan,Jack W Davison,0.0,4.0,3.0,9.5,,16,8-4992,19.5,Active,Good,1m1f100y,0,53.0,0.0,0.0,0.05128205128205128,2.970414465569701,-53.0,0,1
+Gowran Park,5:22,La Campanella,Colin Keane,Gerard Keane,17.0,6.0,4.0,9.5,,16,5-0754,7.2,Active,Good,1m1f100y,0,45.0,0.0,0.0,0.1388888888888889,1.9740810260220096,-45.0,0,1
+Gowran Park,5:22,Pimlico Piranha,Rory Cleary,Brendan W Duke,40.0,5.0,3.0,9.5,,16,980,36.0,Active,Good,1m1f100y,0,52.0,0.0,0.0,0.027777777777777776,3.58351893845611,-52.0,0,1
+Gowran Park,5:22,Tullyesker,Luke McAteer,Donal Kinsella,0.0,1.0,4.0,9.5,,16,008-8,40.0,Active,Good,1m1f100y,0,43.0,0.0,0.0,0.025,3.6888794541139363,-43.0,0,1
+Gowran Park,5:22,Gold Dublooms,Nathan Crosse,Eamonn O'Connell,0.0,2.0,4.0,9.5,,16,50-900,34.0,Active,Good,1m1f100y,0,40.0,0.0,0.0,0.029411764705882353,3.5263605246161616,-40.0,0,1
+Gowran Park,5:22,Connova,Chris Hayes,Ms Sheila Lavery,0.0,8.0,3.0,9.5,,16,00-433,3.55,Active,Good,1m1f100y,0,46.0,0.0,0.0,0.28169014084507044,1.2669476034873244,-46.0,0,1
+Gowran Park,5:22,Georg Zhukov,Conor Cusack(7),Eamonn O'Connell,0.0,2.0,4.0,9.5,,16,2-1005,29.0,Active,Good,1m1f100y,0,53.0,0.0,0.0,0.034482758620689655,3.367295829986474,-53.0,0,1
+Gowran Park,5:22,Pettus Bridge,Reserve 2,Mrs Denise Foster,0.0,2.0,4.0,9.5,,16,099,50.0,Active,Good,1m1f100y,0,48.0,0.0,0.0,0.02,3.912023005428146,-48.0,0,1
+Gowran Park,5:22,Bang Po,Reserve 3,Liam McAteer,0.0,0.0,6.0,9.5,,16,090060,52.5,Active,Good,1m1f100y,0,40.0,0.0,0.0,0.01904761904761905,3.960813169597578,-40.0,0,1
+Gowran Park,5:52,Miss Crinshawn,Gary Carroll,Peter Fahey,0.0,12.0,4.0,9.5,,17,342437,11.5,Active,Good,1m1f100y,0,60.0,0.0,0.0,0.08695652173913043,2.4423470353692043,-60.0,0,1
+Gowran Park,5:52,Walls Cross,Ronan Whelan,Timothy Doyle,0.0,4.0,4.0,9.5,,17,080,48.0,Active,Good,1m1f100y,0,57.0,0.0,0.0,0.020833333333333332,3.871201010907891,-57.0,0,1
+Gowran Park,5:52,Medieval Night,W J Lee,Denis Gerard Hogan,4.0,28.0,4.0,9.5,,17,830476,9.2,Active,Good,1m1f100y,0,56.0,0.0,0.0,0.10869565217391305,2.2192034840549946,-56.0,0,1
+Gowran Park,5:52,Nibras Rainbow,Leigh Roche,Paul W Flynn,0.0,20.0,6.0,9.5,,17,013213,10.5,Active,Good,1m1f100y,0,56.0,0.0,0.0,0.09523809523809523,2.3513752571634776,-56.0,0,1
+Gowran Park,5:52,Urban War,Gavin Ryan,John Joseph Hanlon,0.0,20.0,8.0,9.5,,17,32/065,21.0,Active,Good,1m1f100y,0,56.0,0.0,0.0,0.047619047619047616,3.044522437723423,-56.0,0,1
+Gowran Park,5:52,Brewel Hill,Robbie Colgan,Peter McCreery,0.0,0.0,10.0,9.5,,17,030-50,32.0,Active,Good,1m1f100y,0,55.0,0.0,0.0,0.03125,3.4657359027997265,-55.0,0,1
+Gowran Park,5:52,Rockbury Lad,Dylan Browne McMonagle,M D O'Callaghan,15.0,13.0,7.0,9.5,,17,006079,13.5,Active,Good,1m1f100y,0,54.0,0.0,0.0,0.07407407407407407,2.6026896854443837,-54.0,0,1
+Gowran Park,5:52,Chapel Island,Wesley Joyce(3),A Oliver,33.0,6.0,3.0,9.5,,17,7-8544,11.5,Active,Good,1m1f100y,0,58.0,0.0,0.0,0.08695652173913043,2.4423470353692043,-58.0,0,1
+Gowran Park,5:52,Cleopatra's Needle,Chris Hayes,H Rogers,14.0,7.0,8.0,9.5,,17,20-229,25.0,Active,Good,1m1f100y,0,50.0,0.0,0.0,0.04,3.2188758248682006,-50.0,0,1
+Gowran Park,5:52,Invincible Destiny,Shane Foley,Mrs John Harrington,7.0,28.0,3.0,9.5,,17,007,34.0,Active,Good,1m1f100y,0,58.0,0.0,0.0,0.029411764705882353,3.5263605246161616,-58.0,0,1
+Gowran Park,5:52,Money Shuffler,James Ryan,W M Roper,0.0,1.0,6.0,9.5,,17,0680-,21.0,Active,Good,1m1f100y,0,50.0,0.0,0.0,0.047619047619047616,3.044522437723423,-50.0,0,1
+Gowran Park,5:52,Chavajod,Paddy Harnett(5),D P Coakley,0.0,0.0,8.0,9.5,,17,000-00,28.0,Active,Good,1m1f100y,0,49.0,0.0,0.0,0.03571428571428571,3.332204510175204,-49.0,0,1
+Gowran Park,5:52,Chou Chou,Conor Cusack(7),Eamonn O'Connell,0.0,2.0,5.0,9.5,,17,179-90,30.0,Active,Good,1m1f100y,0,49.0,0.0,0.0,0.03333333333333333,3.4011973816621555,-49.0,0,1
+Gowran Park,5:52,Thegooseiscooked,Colin Keane,Gerard Keane,17.0,6.0,9.0,9.5,,17,64-003,9.2,Active,Good,1m1f100y,0,48.0,0.0,0.0,0.10869565217391305,2.2192034840549946,-48.0,0,1
+Gowran Park,5:52,Nephin Mountain,Terry Casey(7),Michael Mulvany,8.0,13.0,3.0,9.5,,17,840516,20.0,Active,Good,1m1f100y,0,54.0,0.0,0.0,0.05,2.995732273553991,-54.0,0,1
+Gowran Park,5:52,Duchess Anne,Ben Coen,Mrs Denise Foster,0.0,2.0,5.0,9.5,,17,006-42,5.8,Active,Good,1m1f100y,0,43.0,0.0,0.0,0.1724137931034483,1.7578579175523736,-43.0,0,1
+Gowran Park,5:52,Reponse Finale,Robert Whearty,Gavin Cromwell,4.0,26.0,4.0,9.5,,17,60-084,4.7,Active,Good,1m1f100y,0,42.0,0.0,0.0,0.2127659574468085,1.547562508716013,-42.0,0,1
+Gowran Park,5:52,Shahada Ace,,Andrew Slattery,9.0,32.0,4.0,9.5,,17,990006,47.5,Active,Good,1m1f100y,0,43.0,0.0,0.0,0.021052631578947368,3.8607297110405954,-43.0,0,1
+Gowran Park,5:52,Winston's Promise,,Liam P Cusack,0.0,1.0,3.0,9.5,,17,088,50.0,Active,Good,1m1f100y,0,50.0,0.0,0.0,0.02,3.912023005428146,-50.0,0,1
+Gowran Park,5:52,Dancing Steve,,Adrian McGuinness,5.0,22.0,5.0,9.5,,17,0-0008,52.5,Active,Good,1m1f100y,0,58.0,0.0,0.0,0.01904761904761905,3.960813169597578,-58.0,0,1

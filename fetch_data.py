@@ -6,7 +6,6 @@ import requests
 from datetime import datetime, timezone, timedelta
 
 # Configuration details securely read from Environment Variables
-# (No hardcoded passwords or sensitive user data are stored here)
 RAPIDAPI_KEY = os.environ.get("RAPIDAPI_KEY")
 RAPIDAPI_HOST = os.environ.get("RAPIDAPI_HOST", "the-racing-api1.p.rapidapi.com")
 BETFAIR_USERNAME = os.environ.get("BETFAIR_USERNAME")
@@ -165,6 +164,25 @@ def parse_runners_from_object(race_obj, location, parsed_rows):
             cd_winner = int(raw_cd) if raw_cd is not None and str(raw_cd).lower() != "none" else 0
         except (ValueError, TypeError):
             cd_winner = 0
+
+        # Safely extract ratings for model value comparison (OR vs RPR)
+        raw_or = runner.get("ofr", runner.get("or", runner.get("official_rating", 0)))
+        try:
+            rp_or = float(raw_or) if raw_or is not None and str(raw_or).lower() != "none" else 0.0
+        except (ValueError, TypeError):
+            rp_or = 0.0
+
+        raw_rpr = runner.get("rpr", 0)
+        try:
+            rp_rpr = float(raw_rpr) if raw_rpr is not None and str(raw_rpr).lower() != "none" else 0.0
+        except (ValueError, TypeError):
+            rp_rpr = 0.0
+
+        raw_ts = runner.get("ts", 0)
+        try:
+            rp_ts = float(raw_ts) if raw_ts is not None and str(raw_ts).lower() != "none" else 0.0
+        except (ValueError, TypeError):
+            rp_ts = 0.0
         
         parsed_rows.append({
             "location": location,
@@ -184,7 +202,10 @@ def parse_runners_from_object(race_obj, location, parsed_rows):
             "status": str(runner.get("status", "Active")),
             "going": str(going),
             "distance": str(distance),
-            "cd_winner": cd_winner
+            "cd_winner": cd_winner,
+            "rp_or": rp_or,
+            "rp_rpr": rp_rpr,
+            "rp_ts": rp_ts
         })
 
 def extract_races_recursive(node, location, parsed_rows):
@@ -203,7 +224,7 @@ def fetch_rapidapi_racecards():
         print("⚠️ RAPIDAPI_KEY missing from environment variables.")
         return pd.DataFrame()
 
-    print("📥 Fetching live racecards from The Racing API...")
+    print("📥 Fetching live racecards & ratings metrics...")
     url = f"https://{RAPIDAPI_HOST}/v1/racecards/basic"
     headers = {
         "x-rapidapi-key": RAPIDAPI_KEY,
@@ -214,19 +235,19 @@ def fetch_rapidapi_racecards():
     for day_query in ["today", "tomorrow"]:
         querystring = {"day": day_query}
         try:
-            response = requests.get(url, headers=headers, params=querystring)
+            response = requests.get(url, headers=headers, params=querystring, timeout=15)
             if response.status_code == 200:
                 data = response.json()
                 parsed_rows = []
                 extract_races_recursive(data, "Unknown", parsed_rows)
                 
                 if parsed_rows:
-                    print(f"✅ Successfully pulled {len(parsed_rows)} runners from RapidAPI ({day_query} racecards)!")
+                    print(f"✅ Successfully pulled {len(parsed_rows)} runners with performance ratings ({day_query})!")
                     return pd.DataFrame(parsed_rows)
             else:
                 print(f"⚠️ API returned status code {response.status_code} for {day_query}")
         except Exception as e:
-            print(f"⚠️ RapidAPI connection error for {day_query}: {e}")
+            print(f"⚠️ API connection warning for {day_query}: {e}")
 
     return pd.DataFrame()
 
@@ -235,16 +256,17 @@ def main():
     df_betfair = fetch_betfair_odds()
     
     if not df_rapid.empty:
+        df_combined = df_rapid
+        
+        # Merge Betfair odds seamlessly if available
         if not df_betfair.empty and "horse_name_lower" in df_betfair.columns:
-            df_rapid["horse_name_lower"] = df_rapid["horse_name_lower"].str.strip().str.lower()
+            df_combined["horse_name_lower"] = df_combined["horse_name_lower"].str.strip().str.lower()
             df_betfair["horse_name_lower"] = df_betfair["horse_name_lower"].str.strip().str.lower()
             
-            df_combined = pd.merge(df_rapid, df_betfair, on="horse_name_lower", how="left", suffixes=('', '_bf'))
+            df_combined = pd.merge(df_combined, df_betfair, on="horse_name_lower", how="left", suffixes=('', '_bf'))
             if "odds_bf" in df_combined.columns:
                 df_combined["odds"] = df_combined["odds_bf"].fillna(df_combined["odds"])
                 df_combined.drop(columns=["odds_bf"], inplace=True, errors="ignore")
-        else:
-            df_combined = df_rapid
     else:
         df_combined = pd.DataFrame()
 
@@ -257,7 +279,7 @@ def main():
     
     df_combined.to_csv(output_path_raw, index=False)
     df_combined.to_csv(output_path_processed, index=False)
-    print(f"✅ Saved final dataset containing {len(df_combined)} rows with synchronized live Betfair prices.")
+    print(f"✅ Saved final dataset containing {len(df_combined)} rows with fully automated rating features ready for model training.")
 
 if __name__ == "__main__":
     main()
