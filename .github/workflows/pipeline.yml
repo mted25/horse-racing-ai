@@ -2,7 +2,7 @@ name: Horse Racing Pipeline
 
 on:
   schedule:
-    - cron: '0,30 8,10,12-19 * * *'
+    - cron: '0 8,10,12-16 * * *'
   workflow_dispatch:  
 
 jobs:
