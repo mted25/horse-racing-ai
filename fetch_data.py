@@ -14,12 +14,7 @@ BETFAIR_PASSWORD = os.environ.get("BETFAIR_PASSWORD")
 BETFAIR_APP_KEY = os.environ.get("BETFAIR_APP_KEY")
 
 def fetch_betfair_odds():
-    # Gracefully bypass Betfair interactive login on GitHub Actions cloud servers to avoid 403 WAF blocks
-    if os.environ.get("GITHUB_ACTIONS") == "true":
-        print("☁️ Running in GitHub Actions cloud environment. Skipping Betfair interactive login (restricted by Betfair WAF datacenter IP block).")
-        return pd.DataFrame()
-
-    print("📥 Connecting to Betfair API using interactive login...")
+    print("📥 Connecting to Betfair API using Certificate Login...")
     betfair_rows = []
     
     if not BETFAIR_USERNAME or not BETFAIR_PASSWORD or not BETFAIR_APP_KEY:
@@ -30,14 +25,19 @@ def fetch_betfair_odds():
         import betfairlightweight
         from betfairlightweight import filters
 
+        # Point to the 'certs' folder where GitHub Actions or your local environment stores the .crt and .key files
+        certs_path = "certs" if os.path.exists("certs") else None
+
         trading = betfairlightweight.APIClient(
             username=BETFAIR_USERNAME,
             password=BETFAIR_PASSWORD,
-            app_key=BETFAIR_APP_KEY
+            app_key=BETFAIR_APP_KEY,
+            certs=certs_path
         )
         
-        trading.login_interactive()
-        print("🔐 Betfair Login Status: SUCCESS")
+        # Use standard certificate login to bypass cloud WAF restrictions
+        trading.login()
+        print("🔐 Betfair Certificate Login Status: SUCCESS")
 
         race_event_id = "7"
         now_utc = datetime.now(timezone.utc)
@@ -98,9 +98,9 @@ def fetch_betfair_odds():
                                 })
         
         trading.logout()
-        print(f"✅ Successfully pulled live exchange odds for {len(betfair_rows)} runners from Betfair!")
+        print(f"✅ Successfully pulled live exchange odds for {len(betfair_rows)} runners from Betfair via certificates!")
     except Exception as e:
-        print(f"⚠️ Betfair connection warning / WAF block caught: {e}")
+        print(f"⚠️ Betfair certificate connection error: {e}")
 
     return pd.DataFrame(betfair_rows)
 
@@ -190,7 +190,6 @@ def parse_runners_from_object(race_obj, location, parsed_rows):
         except (ValueError, TypeError):
             rp_ts = 0.0
 
-        # Extract native odds/price if provided by API, otherwise use fallback index pricing
         raw_odds = runner.get("odds", runner.get("price", runner.get("decimal_price", None)))
         try:
             odds_val = float(raw_odds) if raw_odds is not None and str(raw_odds).lower() != "none" else float(5.0 + (idx * 2.5))
