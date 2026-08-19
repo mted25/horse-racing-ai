@@ -55,13 +55,8 @@ def train_and_score_models():
 
     print(f"📊 Processing {len(df)} runners with Enhanced AI Engine & Racing Post Ratings...")
 
-    # 1. Process Market Odds & Apply Overround Simulation
+    # 1. Process Market Odds (Treat live Betfair exchange odds directly without fake overround inflation)
     df["odds"] = pd.to_numeric(df["odds"], errors="coerce").fillna(15.0)
-    df["odds"] = df["odds"].apply(lambda x: max(1.01, x))
-    
-    market_overround = 1.20
-    raw_exchange_prob = 1.0 / df["odds"]
-    df["odds"] = 1.0 / (raw_exchange_prob * market_overround)
     df["odds"] = df["odds"].apply(lambda x: max(1.01, x))
     df["market_implied_prob"] = 1.0 / df["odds"]
 
