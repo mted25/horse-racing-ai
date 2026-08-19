@@ -1,9 +1,10 @@
-from dotenv import load_dotenv
-load_dotenv()
 import os
 import pandas as pd
 import requests
 from datetime import datetime, timezone, timedelta
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Configuration details securely read from Environment Variables
 RAPIDAPI_KEY = os.environ.get("RAPIDAPI_KEY")
@@ -13,6 +14,11 @@ BETFAIR_PASSWORD = os.environ.get("BETFAIR_PASSWORD")
 BETFAIR_APP_KEY = os.environ.get("BETFAIR_APP_KEY")
 
 def fetch_betfair_odds():
+    # Gracefully bypass Betfair interactive login on GitHub Actions cloud servers to avoid 403 WAF blocks
+    if os.environ.get("GITHUB_ACTIONS") == "true":
+        print("☁️ Running in GitHub Actions cloud environment. Skipping Betfair interactive login (restricted by Betfair WAF datacenter IP block).")
+        return pd.DataFrame()
+
     print("📥 Connecting to Betfair API using interactive login...")
     betfair_rows = []
     
@@ -94,7 +100,7 @@ def fetch_betfair_odds():
         trading.logout()
         print(f"✅ Successfully pulled live exchange odds for {len(betfair_rows)} runners from Betfair!")
     except Exception as e:
-        print(f"⚠️ Betfair connection error: {e}")
+        print(f"⚠️ Betfair connection warning / WAF block caught: {e}")
 
     return pd.DataFrame(betfair_rows)
 
@@ -183,6 +189,13 @@ def parse_runners_from_object(race_obj, location, parsed_rows):
             rp_ts = float(raw_ts) if raw_ts is not None and str(raw_ts).lower() != "none" else 0.0
         except (ValueError, TypeError):
             rp_ts = 0.0
+
+        # Extract native odds/price if provided by API, otherwise use fallback index pricing
+        raw_odds = runner.get("odds", runner.get("price", runner.get("decimal_price", None)))
+        try:
+            odds_val = float(raw_odds) if raw_odds is not None and str(raw_odds).lower() != "none" else float(5.0 + (idx * 2.5))
+        except (ValueError, TypeError):
+            odds_val = float(5.0 + (idx * 2.5))
         
         parsed_rows.append({
             "location": location,
@@ -198,7 +211,7 @@ def parse_runners_from_object(race_obj, location, parsed_rows):
             "race_class": race_class,
             "field_size": field_size,
             "form_string": str(form_fig),
-            "odds": float(5.0 + (idx * 2.5)),
+            "odds": odds_val,
             "status": str(runner.get("status", "Active")),
             "going": str(going),
             "distance": str(distance),
