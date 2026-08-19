@@ -28,6 +28,13 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
+    - name: Setup Betfair SSL Certificates
+      run: |
+        mkdir -p certs
+        echo "${{ secrets.BETFAIR_CERT }}" > certs/client-2048.crt
+        echo "${{ secrets.BETFAIR_KEY }}" > certs/client-2048.key
+        chmod 600 certs/*
+
     - name: Run Data Fetcher
       env:
         RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
